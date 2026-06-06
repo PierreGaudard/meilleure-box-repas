@@ -27,7 +27,7 @@ Pour un foyer qui veut cuisiner local sans y passer ses soirées, [Quitoque rest
 
 ## Le prix, vraiment décisif ?
 
-HelloFresh attire avec des codes promo de bienvenue agressifs. Mais une fois la réduction passée, l'écart se resserre. Nous détaillons ce que coûte réellement [une box repas sur un mois complet](/guides/combien-coute-box-repas/), promo comprise. Si vous hésitez encore, ce [comparatif général des box repas](/comparatif/box-repas/) replace les deux services dans le marché.
+HelloFresh attire avec des codes promo de bienvenue agressifs. Mais une fois la réduction passée, l'écart se resserre. Nous détaillons ce que coûte réellement [une box repas sur un mois complet](/guides/combien-coute-box-repas/), promo comprise. Si vous hésitez encore, ce [comparatif général des box repas](/meilleure-box-repas/) replace les deux services dans le marché.
 
 ## Questions fréquentes
 

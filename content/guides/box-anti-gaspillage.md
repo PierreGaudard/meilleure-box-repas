@@ -24,7 +24,7 @@ Pour cuisiner sans jeter, une box aux portions justes reste la solution la plus 
 
 ## Est-ce vraiment rentable ?
 
-Le gain ne se mesure pas qu'au ticket de caisse. En limitant ce qui finit à la poubelle, vous payez surtout ce que vous mangez. Notre analyse du [budget mensuel d'une box repas](/guides/combien-coute-box-repas/) intègre ce facteur souvent oublié. Et pour choisir le service adapté, ce [comparatif des box repas](/comparatif/box-repas/) fait le tri.
+Le gain ne se mesure pas qu'au ticket de caisse. En limitant ce qui finit à la poubelle, vous payez surtout ce que vous mangez. Notre analyse du [budget mensuel d'une box repas](/guides/combien-coute-box-repas/) intègre ce facteur souvent oublié. Et pour choisir le service adapté, ce [comparatif des box repas](/meilleure-box-repas/) fait le tri.
 
 ## Questions fréquentes
 

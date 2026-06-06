@@ -28,7 +28,7 @@ Les ingrédients sont corrects mais plus standardisés que chez certains concurr
 
 ## Prix et flexibilité
 
-Le prix de bienvenue est l'un des plus bas du marché, mais il remonte ensuite. Sans engagement, pause et résiliation libres. Pour comparer, lisez notre [avis sur Quitoque](/avis/quitoque/) et le [comparatif des box repas](/comparatif/box-repas/).
+Le prix de bienvenue est l'un des plus bas du marché, mais il remonte ensuite. Sans engagement, pause et résiliation libres. Pour comparer, lisez notre [avis sur Quitoque](/avis/quitoque/) et le [comparatif des box repas](/meilleure-box-repas/).
 
 ## Notre note : 3,8 / 5
 

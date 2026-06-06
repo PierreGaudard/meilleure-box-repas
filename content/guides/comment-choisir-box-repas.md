@@ -31,7 +31,7 @@ Une bonne box se met en pause, se résilie sans frais et laisse choisir ses rece
 
 ## 4. Comparer le coût réel
 
-Le prix affiché n'est pas le prix payé. Appuyez-vous sur notre calcul du [coût mensuel d'une box repas](/guides/combien-coute-box-repas/) et sur le [comparatif général des box repas](/comparatif/box-repas/) pour arbitrer.
+Le prix affiché n'est pas le prix payé. Appuyez-vous sur notre calcul du [coût mensuel d'une box repas](/guides/combien-coute-box-repas/) et sur le [comparatif général des box repas](/meilleure-box-repas/) pour arbitrer.
 
 ## Questions fréquentes
 

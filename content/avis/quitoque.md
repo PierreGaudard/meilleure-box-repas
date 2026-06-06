@@ -28,7 +28,7 @@ Le choix hebdomadaire est large, avec des options pour tous les profils, y compr
 
 ## Prix et flexibilité
 
-Le tarif se situe dans la moyenne haute du marché, justifié par la qualité. L'abonnement se met en pause facilement, sans engagement. Pour situer ce positionnement, voyez notre [comparatif des box repas](/comparatif/box-repas/).
+Le tarif se situe dans la moyenne haute du marché, justifié par la qualité. L'abonnement se met en pause facilement, sans engagement. Pour situer ce positionnement, voyez notre [comparatif des box repas](/meilleure-box-repas/).
 
 ## Notre note : 4,6 / 5
 
