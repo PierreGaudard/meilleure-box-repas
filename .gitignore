@@ -4,3 +4,4 @@ resources/
 .DS_Store
 screenshots/
 *.DS_Store
+.datafer/
