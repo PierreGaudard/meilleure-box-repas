@@ -1,0 +1,165 @@
+# Hugo Site Factory
+
+Ce repo est un template pour creer des sites blogs statiques avec Hugo, optimises SEO/GEO, heberges gratuitement sur GitHub Pages.
+
+## Comment ca marche
+
+Ce repo ne contient pas de site. Il contient les **instructions et templates** pour que Claude Code genere un site complet automatiquement.
+
+### Premier lancement
+
+1. L'utilisateur connecte Claude Code a ce repo
+2. L'utilisateur tape `/create-site`
+3. Claude pose les questions necessaires (nom du site, couleurs, categories, etc.)
+4. Claude genere tout le site Hugo, les fichiers SEO, et configure le deploiement
+5. L'utilisateur push sur GitHub, active GitHub Pages, le site est en ligne
+
+### Utilisation courante
+
+- `/create-article` : creer un nouvel article de blog (choix parmi plusieurs types : article standard, comparatif). Push automatiquement sur GitHub si le repo est configure
+- `/seo-setup` : generer ou mettre a jour les fichiers SEO techniques de base (robots.txt, llms.txt, sitemap, structured data)
+- `/seo` : mode interactif pour modifier/ajouter des elements SEO (meta tags, JSON-LD, audit on-page, etc.)
+- `/serve` : lancer le serveur Hugo en local (previsualisation sur `http://localhost:1313/`)
+- `/share` : lancer Hugo + ngrok pour partager le site via un lien public (accessible par n'importe qui)
+- `/github-setup` : creer un repo GitHub, push le code et activer GitHub Pages (mise en ligne du site)
+- `/github-deploy` : push les modifications vers GitHub et declencher le deploiement
+
+## Structure du repo
+
+```
+.claude/
+├── skills/
+│   ├── create-site.md           ← Workflow creation de site complet
+│   ├── create-article.md        ← Workflow creation d'article (multi-types)
+│   ├── seo-setup.md             ← Workflow fichiers SEO techniques (baseline)
+│   ├── seo.md                   ← Mode interactif SEO (modifications ponctuelles)
+│   ├── serve.md                 ← Lancer le serveur Hugo en local
+│   ├── share.md                 ← Lancer Hugo + ngrok (partage public)
+│   ├── github-setup.md          ← Creer un repo GitHub + activer GitHub Pages
+│   └── github-deploy.md         ← Push et deployer sur GitHub Pages
+└── templates/
+    ├── hugo-workflow.yml         ← GitHub Actions CI/CD
+    ├── main.css                  ← CSS avec variables de charte graphique
+    ├── articles/                 ← Templates d'articles par type
+    │   ├── article-standard.md   ← Article informatif SEO + GEO (type par defaut)
+    │   └── geo-comparatif.md     ← Article comparatif avec mise en avant
+    ├── seo/                      ← Fichiers SEO techniques (editables)
+    │   ├── robots.txt            ← Modele robots.txt
+    │   ├── llms.txt              ← Modele llms.txt
+    │   └── structured-data/      ← Schemas JSON-LD
+    │       ├── article.json      ← BlogPosting
+    │       ├── organization.json ← Organization
+    │       ├── author.json       ← Person (auteur)
+    │       ├── breadcrumb.json   ← BreadcrumbList
+    │       ├── website.json      ← WebSite
+    │       └── faq.json          ← FAQPage (a integrer manuellement)
+    ├── layouts/
+    │   ├── baseof.html           ← Layout de base
+    │   ├── home.html             ← Page d'accueil
+    │   ├── list.html             ← Pages de liste
+    │   ├── single.html           ← Page article (avec affichage auteur)
+    │   └── sitemap-html.html    ← Page plan du site (liste toutes les pages)
+    └── partials/
+        ├── header.html           ← Header/navigation
+        ├── footer.html           ← Footer
+        └── seo-head.html         ← Meta tags SEO + JSON-LD (OG, Twitter, canonical, schemas)
+```
+
+## Contexte du site
+
+> Cette section est remplie automatiquement par le skill `/create-site`.
+> Elle permet a Claude de connaitre le contexte du site pour les futures actions.
+
+- **Nom du site** : Meilleure Box Repas
+- **Description** : Comparatifs, avis et guides pour choisir la meilleure box repas. Tests indépendants des principaux services de paniers recettes livrés à domicile.
+- **URL** : https://meilleure-box-repas.fr/ (déploiement GitHub Pages compte PierreGaudard en attendant le branchement du domaine)
+- **Couleurs** : primary #3f0791 (violet profond), primary-light #5b00ed, accent #d034a2 (magenta), cta #5b00ed, accents bonbon jaune #ffcf2a / menthe #b2f9e9 / bleu #bfefff / crème #f3eeca. DA reprise de magicspoon-export et adaptée.
+- **Polices** : Saira Condensed (titres display) + Poppins (corps et UI)
+- **Categories** : Comparatifs, Avis, Guides et conseils
+- **Langue** : Français (fr-fr)
+- **Auteur** : La rédaction Meilleure Box Repas
+- **URL auteur** : [non defini]
+- **Fonction auteur** : Rédaction éditoriale
+- **Objectif PBN** : pousser le client Quitoque (box repas) en tête des comparatifs et avis. Maillage des articles vers les contenus poussant Quitoque.
+
+## Suivi des publications (MEMORY.md)
+
+Le fichier `MEMORY.md` a la racine trace tous les articles publies, classes par semaine. Il est mis a jour automatiquement par `/create-article`.
+
+**Limite de publication : 4 articles par semaine maximum.** Avant chaque creation d'article, le systeme verifie le quota. Si 4 articles sont deja publies dans la semaine en cours, l'utilisateur est averti.
+
+Cette limite sert a eviter la publication en masse et a maintenir un rythme de publication regulier, ce qui est meilleur pour le SEO.
+
+## Architecture du site (IMPORTANT, a jour)
+
+Le site n'utilise PAS de taxonomie ni de dossier `/blog/`. Le contenu est organise en **sections** = categories, ce qui donne des URLs propres et coherentes.
+
+### Structure des URLs
+
+| Type | Dossier | URL |
+|---|---|---|
+| Accueil | `layouts/index.html` (template custom) | `/` |
+| Page pilier "Quelle est la meilleure box repas" | `static/meilleure-box-repas/index.html` (HTML statique, contient l'outil comparateur) | `/meilleure-box-repas/` |
+| Avis | `content/avis/<slug>.md` | `/avis/<slug>/` (ex: `/avis/quitoque/`) |
+| Comparatif | `content/comparatif/<slug>.md` | `/comparatif/<slug>/` |
+| Guides | `content/guides/<slug>.md` | `/guides/<slug>/` |
+| Alternatives | `content/alternatives/<slug>.md` | `/alternatives/<slug>/` |
+| Pages de section (listing) | `content/<section>/_index.md` | `/avis/`, `/comparatif/`, `/guides/`, `/alternatives/` |
+| Mentions legales / Confidentialite | `static/mentions-legales/`, `static/politique-confidentialite/` | idem |
+
+- **Le slug = le nom du fichier .md** (minuscules, sans accents, tirets). Ex: `content/avis/seazon.md` -> `/avis/seazon/`.
+- Ne PAS remettre de `categories:` ni `tags:` dans le frontmatter (ca recree une taxonomie `/categories/` parasite). La section suffit.
+
+## AJOUTER UN NOUVEAU CONTENU (procedure)
+
+1. Creer le fichier dans la bonne section : `content/avis/`, `content/comparatif/`, `content/guides/` ou `content/alternatives/`.
+2. Frontmatter requis : `title`, `date`, `lastmod`, `description`, `author`, `image` (chemin `/img/...webp`), `draft: false`. Pour un **avis** ajouter aussi `brand`, `rating` (note sur 5), `logo` (chemin du logo marque).
+3. Ecrire le contenu en respectant les regles editoriales ci-dessous.
+4. `hugo` (build) puis verifier.
+
+### Ce qui se met a jour AUTOMATIQUEMENT (rien a faire)
+
+- **sitemap.xml** : regenere a chaque build, inclut toutes les pages.
+- **Plan du site** (`/plan-du-site/`) : liste dynamiquement toutes les sections + leurs articles.
+- **Cartes "Nos avis"** sur l'accueil : alimentees depuis `content/avis/` (triees par `rating`), avec etoiles fractionnees.
+- **Section "Nos comparatifs"** sur l'accueil : alimentee depuis `content/comparatif/`.
+- **Fil d'Ariane** (visible + schema BreadcrumbList) : genere par section.
+- **Donnees structurees** : BlogPosting + Review/Rating (avis) generes via `seo-head.html`.
+
+### Ce qui est MANUEL (a penser a chaque nouveau contenu)
+
+- **`static/llms.txt`** : NE se met PAS a jour tout seul. Ajouter le nouvel article (titre + URL) dans la bonne rubrique, et mettre a jour le classement/notes si besoin.
+- **`MEMORY.md`** : ajouter la ligne de suivi de publication.
+- **Notes des box** : toujours reutiliser les memes notes sur tout le site. Reference : memoire `project_mbr_notes_box` (Quitoque 9,2 ... Cheef 6,6 ; note /5 des avis = note/10 ÷ 2).
+
+## Donnees structurees (JSON-LD) en place
+
+- Accueil : `WebSite` + `Organization` + `FAQPage` + `ItemList` (classement).
+- Page pilier : `FAQPage` + `BreadcrumbList` + `ItemList`.
+- Avis : `BlogPosting` + `Review` + `Rating` + `Product` + `BreadcrumbList`.
+- Autres articles : `BlogPosting` + `BreadcrumbList`.
+
+## Performance (a respecter)
+
+- **Images en WebP uniquement** (convertir avec `cwebp -q 82`). Les referencer en `.webp`.
+- `loading="lazy"` + `decoding="async"` sur toutes les images, SAUF le hero (LCP) en `fetchpriority="high"` + `width`/`height`.
+- Logos de marque dans `static/img/logos/` (svg de preference, sinon png/webp).
+
+## Regles editoriales
+
+- Toujours utiliser `relURL` dans les templates Hugo (compatibilite GitHub Pages).
+- Slugs en minuscules, sans accents, tirets. Jamais de `&` (utiliser "et").
+- **Humaniser des la redaction** (skill `sem-humaniser` du SEO-Claude, 19 marqueurs IA a bannir). Varier les longueurs de phrases, eviter les connecteurs robots et l'emphase IA.
+- FAQ en **H3**, ratio mots gras strategiques, au moins 3 liens internes contextuels (ancre = mot-cle de la cible), un tableau si pertinent.
+- Pas de tiret cadratin/demi-cadratin. Accents francais obligatoires dans le contenu.
+- Pas d'annee passee dans les KW/titres evergreen (annee courante ou aucune).
+- Chaque article a un `lastmod` ; le mettre a jour a chaque modif.
+- Pour viser au-dessus de la moyenne SERP : passer le contenu dans **Datafer** (memoire `reference_datafer_api`) et iterer jusqu'a depasser `competitors.best`.
+- Toujours build (`hugo`) et verifier avant de commit.
+
+## Comment repondre a l'utilisateur
+
+- Tutoiement, ton decontracte
+- Pas de jargon technique sans explication
+- Reponses structurees avec listes a puces
+- Pas d'emoji sauf demande explicite

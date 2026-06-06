@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode | default "fr" }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} | {{ .Site.Title }}{{ end }}</title>
+    <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ .Site.Params.description }}{{ end }}">
+
+    {{ partial "seo-head.html" . }}
+
+    {{ with .Params.en_url }}
+    <link rel="alternate" hreflang="fr-FR" href="{{ $.Permalink }}">
+    <link rel="alternate" hreflang="en" href="{{ printf "https://meilleure-box-repas.fr%s" . }}">
+    <link rel="alternate" hreflang="x-default" href="{{ $.Permalink }}">
+    {{ end }}
+
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "/favicon-32.png" | relURL }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ "/favicon-16.png" | relURL }}">
+    <link rel="apple-touch-icon" href="{{ "/apple-touch-icon.png" | relURL }}">
+
+    <!-- Google Fonts — Anton (titres) + DM Sans (corps) -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+
+    {{ $css := resources.Get "css/main.css" }}
+    {{ if $css }}
+        <link rel="stylesheet" href="{{ $css.RelPermalink }}">
+    {{ end }}
+</head>
+<body>
+    {{ partial "header.html" . }}
+
+    <main>
+        {{ block "main" . }}{{ end }}
+    </main>
+
+    {{ partial "footer.html" . }}
+</body>
+</html>

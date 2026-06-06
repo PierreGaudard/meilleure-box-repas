@@ -1,0 +1,50 @@
+{{ define "main" }}
+
+<!-- Hero Section -->
+<section class="hero">
+    <div class="hero-content">
+        <span class="hero-badge">Comparatif indépendant 2026</span>
+        <h1>Trouvez la meilleure box repas</h1>
+        <p class="hero-description">On a testé, comparé et noté les principaux services de paniers recettes livrés à domicile. Comparatifs, avis détaillés et guides pour choisir sans se tromper.</p>
+        <a href="{{ "blog/" | relURL }}" class="btn-primary">Voir les comparatifs</a>
+    </div>
+</section>
+
+<!-- Categories Section -->
+<section class="categories-section">
+    <div class="container">
+        <h2 class="section-title">Par où commencer</h2>
+        <div class="grid-categories">
+            {{ range .Site.Taxonomies.categories }}
+            <a href="{{ .Page.RelPermalink }}" class="category-card">
+                <h3>{{ .Page.Title }}</h3>
+                <span class="category-count">{{ .Count }} {{ if gt .Count 1 }}articles{{ else }}article{{ end }}</span>
+            </a>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+<!-- Latest Articles Section -->
+<section class="latest-section">
+    <div class="container">
+        <h2 class="section-title">Derniers articles</h2>
+        <div class="grid-articles">
+            {{ range first 6 (where .Site.RegularPages "Section" "blog") }}
+            <article class="article-card">
+                <div class="article-meta">
+                    {{ with .Params.categories }}
+                    <span class="article-category">{{ index . 0 }}</span>
+                    {{ end }}
+                    <time>{{ time.Format ":date_long" .Date }}</time>
+                </div>
+                <h3><a href="{{ .RelPermalink }}">{{ .Title }}</a></h3>
+                <p>{{ .Description }}</p>
+                <a href="{{ .RelPermalink }}" class="read-more">Lire la suite</a>
+            </article>
+            {{ end }}
+        </div>
+    </div>
+</section>
+
+{{ end }}

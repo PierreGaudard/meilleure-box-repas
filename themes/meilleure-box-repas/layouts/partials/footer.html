@@ -1,0 +1,31 @@
+<footer class="site-footer">
+    <div class="footer-container">
+        <div class="footer-grid">
+            <div class="footer-col">
+                <span class="fcol-h">{{ .Site.Title }}</span>
+                <p>{{ .Site.Params.description }}</p>
+            </div>
+            <div class="footer-col">
+                <span class="fcol-h">Catégories</span>
+                <ul>
+                    <li><a href="{{ "/comparatif/" | relURL }}">Comparatifs</a></li>
+                    <li><a href="{{ "/avis/" | relURL }}">Avis</a></li>
+                    <li><a href="{{ "/alternatives/" | relURL }}">Alternatives</a></li>
+                    <li><a href="{{ "/guides/" | relURL }}">Guides et conseils</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <span class="fcol-h">Navigation</span>
+                <ul>
+                    <li><a href="{{ "/" | relURL }}">Accueil</a></li>
+                    <li><a href="{{ "/guides/" | relURL }}">Guides</a></li>
+                    <li><a href="{{ "/meilleure-box-repas/" | relURL }}">Comparateur</a></li>
+                    <li><a href="{{ "/plan-du-site/" | relURL }}">Plan du site</a></li>
+                </ul>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            &copy; {{ now.Year }} {{ .Site.Title }}. Tous droits réservés. · <a href="{{ "/mentions-legales/" | relURL }}">Mentions légales</a> · <a href="{{ "/politique-confidentialite/" | relURL }}">Politique de confidentialité</a>
+        </div>
+    </div>
+</footer>

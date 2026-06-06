@@ -1,0 +1,55 @@
+{{ define "main" }}
+
+<section class="sitemap-page">
+    <header class="list-header">
+        <div class="container">
+            <h1>Plan du site</h1>
+            <p class="list-description">Toutes les pages de {{ .Site.Title }}</p>
+        </div>
+    </header>
+
+    <div class="sitemap-content">
+        <div class="container container-narrow">
+
+            <div class="sitemap-section">
+                <h2>Pages principales</h2>
+                <ul class="sitemap-list">
+                    <li><a href="{{ "/" | relURL }}">Accueil</a></li>
+                    <li><a href="{{ "/meilleure-box-repas/" | relURL }}">Quelle est la meilleure box repas ?</a></li>
+                    <li><a href="{{ "/avis/" | relURL }}">Avis</a></li>
+                    <li><a href="{{ "/comparatif/" | relURL }}">Comparatif</a></li>
+                    <li><a href="{{ "/guides/" | relURL }}">Guides</a></li>
+                    <li><a href="{{ "/alternatives/" | relURL }}">Alternatives</a></li>
+                    <li><a href="{{ "/plan-du-site/" | relURL }}">Plan du site</a></li>
+                </ul>
+            </div>
+
+            {{ range $sec := slice "avis" "comparatif" "guides" "alternatives" }}
+            {{ with site.GetPage (printf "/%s" $sec) }}
+            <div class="sitemap-section">
+                <h2>{{ .Title }}</h2>
+                <ul class="sitemap-list">
+                    {{ range .Pages.ByDate.Reverse }}
+                    <li>
+                        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                        <span class="sitemap-date">{{ with .Params.lastmod }}{{ (time .).Format "02/01/2006" }}{{ else }}{{ .Date.Format "02/01/2006" }}{{ end }}</span>
+                    </li>
+                    {{ end }}
+                </ul>
+            </div>
+            {{ end }}
+            {{ end }}
+
+            <div class="sitemap-section">
+                <h2>Informations légales</h2>
+                <ul class="sitemap-list">
+                    <li><a href="{{ "/mentions-legales/" | relURL }}">Mentions légales</a></li>
+                    <li><a href="{{ "/politique-confidentialite/" | relURL }}">Politique de confidentialité</a></li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</section>
+
+{{ end }}

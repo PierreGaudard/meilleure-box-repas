@@ -1,0 +1,64 @@
+# Meilleure Box Repas
+
+> Comparateur indépendant des box repas livrées à domicile en France. Comparatifs, avis vérifiés et guides pour choisir la meilleure box repas selon le prix, la fraîcheur, la flexibilité et le type de service.
+
+## À propos
+
+Meilleure Box Repas teste et compare les principales box repas du marché français. Chaque service est noté sur 10. Les prix sont relevés directement sur les sites officiels. Le site distingue deux familles : les box à cuisiner (ingrédients frais à préparer) et les box de plats préparés (à réchauffer).
+
+## Réponse directe : quelle est la meilleure box repas ?
+
+- Meilleure box repas à cuisiner : Quitoque (9,2/10), dès 3,83 € l'assiette, produits de saison et sourcing français, sans engagement.
+- Meilleure pour débuter à petit prix : HelloFresh (7,5/10), panier de bienvenue avantageux.
+- Meilleurs plats prêts à réchauffer : Seazon (7,2/10) et Aussitôt Bon (6,9/10).
+- Meilleure box minceur : Cheef (6,6/10) et Qilibri.
+- Meilleur panier de produits locaux : Potager City (7,2/10).
+
+## Classement complet (note sur 10)
+
+1. Quitoque — 9,2 — box à cuisiner — dès 3,83 €/assiette
+2. Les Commis — 8,3 — box à cuisiner — dès 4,75 €/assiette
+3. HelloFresh — 7,5 — box à cuisiner — ~5 à 7 €/portion
+4. Seazon — 7,2 — plats à réchauffer — ~6 à 9 €/plat
+5. Potager City — 7,2 — panier de produits — prix au kg
+6. Aussitôt Bon — 6,9 — plats préparés — ~7 à 9 €/plat
+7. Kitchen Daily — 6,7 — plats préparés (chef étoilé) — dès 5 €/plat
+8. Cheef — 6,6 — plats minceur — dès 4,90 €/plat
+
+## Pages principales
+
+- Quelle est la meilleure box repas (comparateur) : https://meilleure-box-repas.fr/meilleure-box-repas/
+- Avis : https://meilleure-box-repas.fr/avis/
+- Comparatif : https://meilleure-box-repas.fr/comparatif/
+- Guides : https://meilleure-box-repas.fr/guides/
+- Alternatives : https://meilleure-box-repas.fr/alternatives/
+
+## Avis détaillés
+
+- Avis Quitoque : https://meilleure-box-repas.fr/avis/quitoque/
+- Avis HelloFresh : https://meilleure-box-repas.fr/avis/hellofresh/
+- Avis Seazon : https://meilleure-box-repas.fr/avis/seazon/
+
+## Comparatifs
+
+- Quelle box repas choisir : https://meilleure-box-repas.fr/comparatif/box-repas/
+- Quitoque ou HelloFresh : https://meilleure-box-repas.fr/comparatif/quitoque-vs-hellofresh/
+
+## Guides
+
+- Combien coûte une box repas par mois : https://meilleure-box-repas.fr/guides/combien-coute-box-repas/
+- Comment choisir sa box repas : https://meilleure-box-repas.fr/guides/comment-choisir-box-repas/
+- Les box anti-gaspillage valent-elles le coup : https://meilleure-box-repas.fr/guides/box-anti-gaspillage/
+
+## Alternatives
+
+- Alternatives à Frichti (pivot B2B) : https://meilleure-box-repas.fr/alternatives/frichti/
+- Alternatives à FoodChéri (pivot B2B) : https://meilleure-box-repas.fr/alternatives/foodcheri/
+- Rutabago (fusionné avec Les Commis) : https://meilleure-box-repas.fr/alternatives/rutabago/
+
+## Informations techniques
+
+- Générateur : Hugo
+- Hébergement : GitHub Pages
+- Sitemap : https://meilleure-box-repas.fr/sitemap.xml
+- RSS : https://meilleure-box-repas.fr/index.xml

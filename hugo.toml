@@ -1,0 +1,47 @@
+baseURL = "https://meilleure-box-repas.fr/"
+languageCode = "fr-fr"
+defaultContentLanguage = "fr"
+timeZone = "Europe/Paris"
+title = "Meilleure Box Repas"
+theme = "meilleure-box-repas"
+enableRobotsTXT = false
+
+[pagination]
+  pagerSize = 12
+
+disableKinds = ["taxonomy", "term"]
+
+[params]
+  description = "Comparatifs, avis et guides pour choisir la meilleure box repas. Tests indépendants des principaux services de paniers recettes livrés à domicile."
+  author = "La rédaction Meilleure Box Repas"
+  # Palette (DA adaptée) — voir themes/meilleure-box-repas/assets/css/main.css
+  primary = "#3f0791"
+  accent = "#d034a2"
+  cta = "#5b00ed"
+
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+
+[[menus.main]]
+  name = "Comparatif"
+  pageRef = "/comparatif"
+  weight = 1
+
+[[menus.main]]
+  name = "Avis"
+  pageRef = "/avis"
+  weight = 2
+
+[[menus.main]]
+  name = "Guides"
+  pageRef = "/guides"
+  weight = 3
+
+[[menus.main]]
+  name = "Alternatives"
+  pageRef = "/alternatives"
+  weight = 4

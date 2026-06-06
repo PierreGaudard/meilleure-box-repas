@@ -1,0 +1,16 @@
+{{ $sec := "" }}{{ $secURL := "" }}
+{{ if .IsPage }}{{ with .CurrentSection }}{{ $sec = .Title }}{{ $secURL = .RelPermalink }}{{ end }}{{ end }}
+<nav class="breadcrumb" aria-label="Fil d'Ariane">
+    <ol>
+        <li><a href="{{ "/" | relURL }}">Accueil</a></li>
+        {{ if .IsPage }}
+            {{ with $sec }}<li><a href="{{ $secURL }}">{{ . }}</a></li>{{ end }}
+            <li><span aria-current="page">{{ .Title }}</span></li>
+        {{ else }}
+            <li><span aria-current="page">{{ .Title }}</span></li>
+        {{ end }}
+    </ol>
+</nav>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil","item":"{{ .Site.BaseURL }}"}{{ if .IsPage }}{{ with $sec }},{"@type":"ListItem","position":2,"name":"{{ . }}","item":"{{ $.CurrentSection.Permalink }}"}{{ end }},{"@type":"ListItem","position":{{ if $sec }}3{{ else }}2{{ end }},"name":"{{ .Title }}","item":"{{ .Permalink }}"}{{ else }},{"@type":"ListItem","position":2,"name":"{{ .Title }}","item":"{{ .Permalink }}"}{{ end }}]}
+</script>
