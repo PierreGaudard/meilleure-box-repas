@@ -69,6 +69,17 @@ table.cmp .note{font-family:"Anton",sans-serif;color:var(--coral);font-size:1.1r
 .faq summary h3{margin:0;font-family:"Anton",sans-serif;font-size:1.1rem;text-transform:uppercase;letter-spacing:.5px;color:var(--maroon)}
 .faq summary::after{content:"+";color:var(--coral);font-size:1.6rem;line-height:1}.faq details[open] summary::after{content:"\2013"}
 .faq details p{padding:0 0 18px}
+
+@media(max-width:600px){
+.tbl-wrap{border-radius:12px}
+table.cmp{min-width:0;font-size:.8rem}
+table.cmp th,table.cmp td{padding:9px 7px}
+table.cmp .brand-cell{gap:0;font-size:.82rem}
+table.cmp .brand-cell img{display:none}
+table.cmp .note{font-size:.95rem}
+.brand-visual{gap:16px;padding:16px;flex-wrap:wrap}
+.brand-visual img{height:46px;max-width:150px}
+}
 </style>
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"FAQPage","mainEntity":[
