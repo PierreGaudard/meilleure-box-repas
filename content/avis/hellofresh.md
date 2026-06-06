@@ -14,9 +14,24 @@ draft: false
 
 Bonjour et bienvenue dans notre **avis HelloFresh** sans filtre. On a passé commande, payé nos paniers, et cuisiné les **recettes HelloFresh** pendant plusieurs semaines pour voir si le numéro un mondial de la **box repas** mérite sa réputation. Voici notre retour, **côté** cuisine comme **côté** porte-monnaie.
 
-## Notre avis HelloFresh en bref
+<div class="enbref">
+<span class="lbl">En bref</span>
+<p><strong>HelloFresh est la porte d'entrée idéale</strong> dans l'univers des box repas à cuisiner. Catalogue immense, recettes faciles, offre de bienvenue très agressive. En contrepartie, des produits un peu moins locaux que Quitoque et un prix qui remonte après la promo.</p>
+<ul>
+<li><strong>Note finale :</strong> 3,8/5</li>
+<li><strong>Points forts :</strong> choix de recettes, prix d'appel, disponibilité partout</li>
+<li><strong>Limites :</strong> produits standardisés, beaucoup d'emballages</li>
+<li><strong>Pour qui :</strong> débuter les box repas au prix le plus bas</li>
+</ul>
+</div>
 
-HelloFresh est la porte d'entrée idéale dans l'univers des **box repas** à cuisiner. Son catalogue est immense, ses recettes sont **faciles** et l'offre de bienvenue est très agressive (jusqu'à plusieurs dizaines d'euros de réduction sur la première commande). En contrepartie, les **produits** sont un peu moins locaux que chez Quitoque, les **emballés** plus nombreux, et le prix **par repas** remonte une fois la promo passée. Note : **3,8/5**.
+| Critère | Notre verdict sur HelloFresh |
+|---|---|
+| Choix de recettes | Excellent, le plus large du marché |
+| Fraîcheur des produits | Correcte, un peu standardisée |
+| Prix par repas | Très bas en promo, remonte ensuite |
+| Flexibilité | Sans engagement, pause et résiliation libres |
+| Emballages | Nombreux, point à améliorer |
 
 Pour situer HelloFresh face aux autres marques, passez par notre [comparateur des meilleures box repas](/meilleure-box-repas/).
 
@@ -45,14 +60,6 @@ Les **produits frais** sont corrects, mais plus standardisés que chez les marqu
 Parlons argent, car c'est le nerf de la guerre. La première commande est très attractive grâce à l'offre de bienvenue. Mais une fois la **première** promo passée, le prix **par repas** remonte autour de 5 à 7 € **par repas** selon la formule. Avant de vous engager, regardez le coût réel à la portion plutôt que le prix d'**achat** affiché en bandeau.
 
 Pour calculer votre budget sur la durée, on a détaillé la méthode dans notre guide sur [combien coûte une box repas](/guides/combien-coute-box-repas/).
-
-| Critère | Notre verdict sur HelloFresh |
-|---|---|
-| Choix de recettes | Excellent, le plus large du marché |
-| Fraîcheur des produits | Correcte, un peu standardisée |
-| Prix par repas | Très bas en promo, remonte ensuite |
-| Flexibilité | Sans engagement, pause et résiliation libres |
-| Emballages | Nombreux, point à améliorer |
 
 ### Livraison et logistique
 
@@ -126,20 +133,28 @@ Si vous hésitez encore, le mieux reste de comparer les services côte à côte 
 
 HelloFresh reste une excellente **box repas** pour démarrer, à condition de surveiller le prix **par repas** une fois l'offre de bienvenue terminée. Le choix est imbattable, les **recettes HelloFresh** sont **faciles**, la livraison est fiable. On retire des points pour les **emballés** trop nombreux et des **produits** moins locaux que la concurrence. Un très bon point d'entrée, sans être notre favori absolu.
 
-### HelloFresh est-il vraiment moins cher ?
-La **première** commande, oui, grâce aux promos. Sur la durée, comptez environ 5 à 7 € **par repas**, et l'écart avec les concurrents se resserre une fois la réduction passée.
+## FAQ : vos questions sur HelloFresh
 
-### Les recettes HelloFresh sont-elles faciles ?
-Oui, les **recettes HelloFresh** sont conçues pour être **simples** et **faciles**, avec des fiches détaillées. C'est l'une des box les plus accessibles pour qui débute en cuisine.
+<details class="faq-acc"><summary>HelloFresh est-il vraiment moins cher ?</summary>
+<p>La première commande, oui, grâce aux promos. Sur la durée, comptez environ 5 à 7 € par repas, et l'écart avec les concurrents se resserre une fois la réduction passée.</p>
+</details>
 
-### Peut-on choisir ses plats chaque semaine ?
-Oui. **Chaque semaine**, vous composez votre menu dans le catalogue avant la livraison, **selon** vos envies et votre formule.
+<details class="faq-acc"><summary>Les recettes HelloFresh sont-elles faciles ?</summary>
+<p>Oui, les recettes HelloFresh sont conçues pour être simples et faciles, avec des fiches détaillées. C'est l'une des box les plus accessibles pour qui débute en cuisine.</p>
+</details>
 
-### Les produits sont-ils frais ?
-Les **produits frais** sont corrects mais plus standardisés que chez les marques locales. Ils arrivent **emballés** individuellement et bien **présentés**.
+<details class="faq-acc"><summary>Peut-on choisir ses plats chaque semaine ?</summary>
+<p>Oui. Chaque semaine, vous composez votre menu dans le catalogue avant la livraison, selon vos envies et votre formule.</p>
+</details>
 
-### Comment annuler ou résilier HelloFresh ?
-Pour **annuler**, désactivez l'abonnement depuis votre espace client ou contactez le service. La résiliation est sans frais, et un **remboursement** est possible en cas de souci sur une commande.
+<details class="faq-acc"><summary>Les produits HelloFresh sont-ils frais ?</summary>
+<p>Les produits frais sont corrects mais plus standardisés que chez les marques locales. Ils arrivent emballés individuellement et bien présentés.</p>
+</details>
 
-### HelloFresh vaut-il le coup au quotidien ?
-Oui si vous manquez de temps ou d'idées. Vous **gagnez** du temps, variez les recettes et limitez le gaspillage. C'est un bon **achat** tant que vous gardez un œil sur le prix après la promo.
+<details class="faq-acc"><summary>Comment annuler ou résilier HelloFresh ?</summary>
+<p>Pour annuler, désactivez l'abonnement depuis votre espace client ou contactez le service. La résiliation est sans frais, et un remboursement est possible en cas de souci sur une commande.</p>
+</details>
+
+<details class="faq-acc"><summary>HelloFresh vaut-il le coup au quotidien ?</summary>
+<p>Oui si vous manquez de temps ou d'idées. Vous gagnez du temps, variez les recettes et limitez le gaspillage. C'est un bon achat tant que vous gardez un œil sur le prix après la promo.</p>
+</details>

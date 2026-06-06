@@ -14,9 +14,24 @@ draft: false
 
 On a **testé Seazon** sur plusieurs semaines, commandé et payé nos paniers, puis réchauffé chaque plat dans de vraies conditions de semaine chargée. Cet **avis Seazon** vous dit ce que valent vraiment ces **plats Seazon** prêts à manger, **côté** goût, **prix** et praticité.
 
-## Notre avis Seazon en bref
+<div class="enbref">
+<span class="lbl">En bref</span>
+<p><strong>Seazon mise sur des repas frais à réchauffer</strong>, cuisinés par des chefs. C'est la solution idéale pour manger équilibré sans cuisiner. Livraison fiable, plats sains et de bonne qualité, service client réactif. En face : un choix plus restreint et un prix au plat un peu plus élevé.</p>
+<ul>
+<li><strong>Note finale :</strong> 3,6/5</li>
+<li><strong>Points forts :</strong> zéro cuisine, repas frais et sains, praticité</li>
+<li><strong>Limites :</strong> prix au plat, carte plus restreinte</li>
+<li><strong>Pour qui :</strong> actifs débordés, déjeuners au bureau, personnes seules</li>
+</ul>
+</div>
 
-Seazon mise sur des **repas frais** individuels, cuisinés par des chefs et simplement à réchauffer. C'est la solution idéale pour qui ne veut pas cuisiner mais veut **manger** équilibré. La **livraison** est fiable, les plats sont **sains** et de **bonne** **qualité**, le **service client** réactif. En face : un choix plus restreint qu'une box à cuisiner, et un **prix** au plat un peu plus élevé. Note : **3,6/5**.
+| Critère | Notre verdict sur Seazon |
+|---|---|
+| Type | Plats prêts à réchauffer |
+| Fraîcheur | Repas frais, jamais surgelés |
+| Prix au plat | 6 à 9 € selon la formule |
+| Praticité | Maximale, zéro cuisine |
+| Service client | Réactif et disponible |
 
 Pour situer Seazon face aux autres marques, utilisez notre [comparateur des meilleures box repas](/meilleure-box-repas/).
 
@@ -39,14 +54,6 @@ Bonne surprise : les **plats Seazon** sont savoureux et loin du plat industriel 
 Parlons argent. Le **prix** au plat est un peu plus élevé qu'une box à cuisiner, ce qui est logique : ici, le travail de cuisine est déjà fait. Comptez en moyenne 6 à 9 € le plat **selon** la formule. Bonne nouvelle : Seazon propose régulièrement une **promo** de bienvenue et un **code** de réduction sur la première **commande**, ce qui adoucit l'addition pour **découvrir** le service.
 
 Pour comparer ce positionnement au reste du marché, voyez notre guide sur [combien coûte une box repas](/guides/combien-coute-box-repas/).
-
-| Critère | Notre verdict sur Seazon |
-|---|---|
-| Type | Plats prêts à réchauffer |
-| Fraîcheur | Repas frais, jamais surgelés |
-| Prix au plat | 6 à 9 € selon la formule |
-| Praticité | Maximale, zéro cuisine |
-| Service client | Réactif et disponible |
 
 ### Livraison et logistique
 
@@ -91,17 +98,24 @@ Au-delà de notre test, les **avis clients** confirment la tendance. **Côté** 
 
 Seazon tient ses promesses pour qui cherche des **repas frais** **prêts** à réchauffer, **sains** et bien **livrés**. On retire des points pour le **prix** au plat et un choix plus limité, mais le service rend un vrai service au quotidien. Un **bon** compromis temps/qualité, à condition d'accepter de ne pas cuisiner.
 
-### Les plats Seazon sont-ils frais ?
-Oui, ce sont des **repas frais** cuisinés par des chefs, à conserver au frigo et à réchauffer. Jamais des surgelés, ce qui se ressent sur le goût.
+## FAQ : vos questions sur Seazon
 
-### Comment fonctionne la livraison Seazon ?
-Vous passez **commande**, et quelques **jours** plus tard les **plats** arrivent en colis isotherme. La **livraison** est fiable et la chaîne du froid respectée.
+<details class="faq-acc"><summary>Les plats Seazon sont-ils frais ?</summary>
+<p>Oui, ce sont des repas frais cuisinés par des chefs, à conserver au frigo et à réchauffer. Jamais des surgelés, ce qui se ressent sur le goût.</p>
+</details>
 
-### Y a-t-il un code promo Seazon ?
-Oui, Seazon propose régulièrement une **promo** et un **code** de réduction sur la première **commande**, idéal pour **découvrir** le service à moindre coût.
+<details class="faq-acc"><summary>Comment fonctionne la livraison Seazon ?</summary>
+<p>Vous passez commande, et quelques jours plus tard les plats arrivent en colis isotherme. La livraison est fiable et la chaîne du froid respectée.</p>
+</details>
 
-### Est-ce que Seazon est cher ?
-Le **prix** au plat (6 à 9 € **selon** la formule) est plus élevé qu'une box à cuisiner, car le travail de cuisine est déjà fait. C'est le coût de la praticité.
+<details class="faq-acc"><summary>Y a-t-il un code promo Seazon ?</summary>
+<p>Oui, Seazon propose régulièrement une promo et un code de réduction sur la première commande, idéal pour découvrir le service à moindre coût.</p>
+</details>
 
-### Comment résilier Seazon facilement ?
-L'abonnement est sans engagement : pause, modification ou résiliation à tout moment, sans frais, via votre espace **client**.
+<details class="faq-acc"><summary>Est-ce que Seazon est cher ?</summary>
+<p>Le prix au plat (6 à 9 € selon la formule) est plus élevé qu'une box à cuisiner, car le travail de cuisine est déjà fait. C'est le coût de la praticité.</p>
+</details>
+
+<details class="faq-acc"><summary>Comment résilier Seazon facilement ?</summary>
+<p>L'abonnement est sans engagement : pause, modification ou résiliation à tout moment, sans frais, via votre espace client.</p>
+</details>

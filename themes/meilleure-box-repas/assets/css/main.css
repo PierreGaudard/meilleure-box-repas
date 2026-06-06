@@ -135,3 +135,17 @@ h1,h2,h3,h4{font-family:var(--font-heading);font-weight:400;text-transform:upper
 .footer-bottom{border-top:1px solid rgba(243,236,221,.2);margin-top:28px;padding-top:18px;text-align:center;font-size:.82rem;color:rgba(243,236,221,.72);font-family:var(--font-body)}
 .footer-bottom a{color:rgba(243,236,221,.9);text-decoration:underline}
 @media(max-width:760px){.footer-grid{grid-template-columns:1fr}}
+
+/* === En bref + FAQ accordéon (avis) === */
+.article-content .enbref{background:#efe6d3;border:3px solid #e3573c;border-radius:16px;padding:22px 26px;margin:8px 0 22px}
+.article-content .enbref .lbl{display:inline-block;background:#e3573c;color:#f3ecdd;font-family:"Anton","Saira Condensed",sans-serif;text-transform:uppercase;letter-spacing:.5px;font-size:.85rem;padding:.3rem 1rem;border-radius:50px;margin-bottom:12px}
+.article-content .enbref p{margin-bottom:8px}
+.article-content .enbref strong{color:#5c2a20}
+.article-content .enbref ul{margin:6px 0 0 18px}
+.article-content .enbref li{margin-bottom:5px}
+.article-content .faq-acc{background:#f3ecdd;border:2px solid #e3573c;border-radius:14px;margin-bottom:12px;padding:0 20px}
+.article-content .faq-acc summary{cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;gap:14px;padding:16px 0;font-weight:700;color:#5c2a20;font-size:1.02rem}
+.article-content .faq-acc summary::-webkit-details-marker{display:none}
+.article-content .faq-acc summary::after{content:"+";color:#e3573c;font-size:1.6rem;line-height:1;flex:0 0 auto}
+.article-content .faq-acc[open] summary::after{content:"\2013"}
+.article-content .faq-acc p{padding:0 0 16px;margin:0}
