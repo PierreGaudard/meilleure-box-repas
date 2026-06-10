@@ -31,12 +31,12 @@ On note toutes les box repas sur la même grille de 5 critères. La note finale 
 
 | Critère | Note | Ce qu'on retient |
 |---|---|---|
-| Qualité et goût | 9,5/10 | Produits frais de saison, sourcing majoritairement français |
-| Variété de la carte | 9,0/10 | Large catalogue qui tourne, du végétarien au gourmand |
-| Praticité et flexibilité | 9,5/10 | Fiches limpides, pause et résiliation en deux clics |
-| Livraison et service client | 9,0/10 | Carton isotherme fiable, SAV humain et rapide |
-| Rapport qualité-prix | 9,0/10 | Dès 3,83 € l'assiette, imbattable à ce niveau de qualité |
-| **Note finale Quitoque** | **9,2/10** | **Soit 4,6/5, la meilleure note de notre classement** |
+| Qualité et goût | 9,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:95%">★★★★★</b></span> | Produits frais de saison, sourcing majoritairement français |
+| Variété de la carte | 9,0/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:90%">★★★★★</b></span> | Large catalogue qui tourne, du végétarien au gourmand |
+| Praticité et flexibilité | 9,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:95%">★★★★★</b></span> | Fiches limpides, pause et résiliation en deux clics |
+| Livraison et service client | 9,0/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:90%">★★★★★</b></span> | Carton isotherme fiable, SAV humain et rapide |
+| Rapport qualité-prix | 9,0/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:90%">★★★★★</b></span> | Dès 3,83 € l'assiette, imbattable à ce niveau de qualité |
+| **Note finale Quitoque** | **9,2/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:92%">★★★★★</b></span>** | **Soit 4,6/5, la meilleure note de notre classement** |
 
 Si vous hésitez entre plusieurs marques, notre [comparateur de box repas](/meilleure-box-repas/) met les acteurs face à face en quelques secondes.
 

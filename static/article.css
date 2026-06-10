@@ -118,3 +118,7 @@
 .article-content .faq-acc summary::after{content:"+";color:#e3573c;font-size:1.6rem;line-height:1;flex:0 0 auto}
 .article-content .faq-acc[open] summary::after{content:"\2013"}
 .article-content .faq-acc p{padding:0 0 16px;margin:0}
+
+/* Etoiles fractionnees dans les tableaux de notes des avis */
+.article-content .tstars{position:relative;display:inline-block;line-height:1;letter-spacing:2px;color:#d3c9ba;white-space:nowrap;font-size:.95rem}
+.article-content .tstars b{position:absolute;left:0;top:0;overflow:hidden;white-space:nowrap;color:#e3573c;font-weight:400}

@@ -31,12 +31,12 @@ On note toutes les box repas sur la même grille de 5 critères. La note finale 
 
 | Critère | Note | Ce qu'on retient |
 |---|---|---|
-| Qualité et goût | 7,0/10 | Recettes réussies, produits corrects mais standardisés |
-| Variété de la carte | 9,0/10 | Le catalogue le plus large du marché, renouvelé chaque semaine |
-| Praticité et flexibilité | 8,0/10 | Fiches recettes limpides, sans engagement, pause en deux clics |
-| Livraison et service client | 7,5/10 | Fiable et disponible quasiment partout |
-| Rapport qualité-prix | 6,0/10 | Imbattable en promo, 5 à 7 € le repas ensuite |
-| **Note finale HelloFresh** | **7,5/10** | **Soit 3,8/5, la note affichée sur cette fiche** |
+| Qualité et goût | 7,0/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:70%">★★★★★</b></span> | Recettes réussies, produits corrects mais standardisés |
+| Variété de la carte | 9,0/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:90%">★★★★★</b></span> | Le catalogue le plus large du marché, renouvelé chaque semaine |
+| Praticité et flexibilité | 8,0/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:80%">★★★★★</b></span> | Fiches recettes limpides, sans engagement, pause en deux clics |
+| Livraison et service client | 7,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:75%">★★★★★</b></span> | Fiable et disponible quasiment partout |
+| Rapport qualité-prix | 6,0/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:60%">★★★★★</b></span> | Imbattable en promo, 5 à 7 € le repas ensuite |
+| **Note finale HelloFresh** | **7,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:75%">★★★★★</b></span>** | **Soit 3,8/5, la note affichée sur cette fiche** |
 
 Pour situer ce 7,5/10 face aux autres marques, passez par notre [comparateur des meilleures box repas](/meilleure-box-repas/).
 
