@@ -7,7 +7,7 @@ description: "Notre avis sur Les Commis après test : panier recettes, produits 
 brand: "Les Commis"
 rating: 4.2
 logo: "/img/logos/lescommis.svg"
-image: "/img/lescommis-panier.webp"
+image: "/img/lescommis-colis.webp"
 author: "La rédaction Meilleure Box Repas"
 draft: false
 ---

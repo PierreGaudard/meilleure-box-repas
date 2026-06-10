@@ -7,7 +7,7 @@ description: "Notre avis sur Kitchen Daily après test : plats cuisinés par un 
 brand: "Kitchen Daily"
 rating: 3.4
 logo: "/img/logos/kitchen-daily.svg"
-image: "/img/kitchendaily-plats.webp"
+image: "/img/kitchendaily-barquettes.webp"
 author: "La rédaction Meilleure Box Repas"
 draft: false
 ---

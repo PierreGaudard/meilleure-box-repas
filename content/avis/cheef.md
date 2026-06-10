@@ -7,7 +7,7 @@ description: "Notre avis sur Cheef après test : plats minceur livrés, suivi di
 brand: "Cheef"
 rating: 3.3
 logo: "/img/logos/cheef.svg"
-image: "/img/cheef-blanquette.webp"
+image: "/img/cheef-box.webp"
 author: "La rédaction Meilleure Box Repas"
 draft: false
 ---

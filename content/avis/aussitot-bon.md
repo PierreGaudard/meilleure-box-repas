@@ -7,7 +7,7 @@ description: "Notre avis sur Aussitôt Bon après test : box repas déjà cuisin
 brand: "Aussitôt Bon"
 rating: 3.5
 logo: "/img/logos/aussitotbon.webp"
-image: "/img/aussitotbon-box.webp"
+image: "/img/aussitotbon-colis.webp"
 author: "La rédaction Meilleure Box Repas"
 draft: false
 ---
