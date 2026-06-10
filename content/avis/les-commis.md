@@ -12,11 +12,11 @@ author: "La rédaction Meilleure Box Repas"
 draft: false
 ---
 
-Des trois grandes **box à cuisiner** du marché français, Les Commis est la plus discrète, et c'est dommage. Panier recettes, **produits frais** en circuit court, recettes signées par des chefs : sur le papier, tout y est. On a passé plusieurs paniers en cuisine pour vérifier si cet **avis Les Commis** confirmait la belle réputation.
+HelloFresh et Quitoque se partagent la lumière, et pendant ce temps Les Commis avance sans bruit. Dommage pour eux, tant mieux pour vous : ce **panier recettes** est probablement le secret le mieux gardé du marché des **box repas**. On a voulu **tester** ça sérieusement, plusieurs paniers d'affilée, casseroles en main. Voici notre **avis Les Commis**, et il est plutôt enthousiaste.
 
 <div class="enbref">
 <span class="lbl">En bref</span>
-<p><strong>Les Commis est le panier recettes le plus qualitatif du marché</strong> sur le sourcing : ingrédients français et bio, circuit court, fiches recettes soignées. Il se hisse juste derrière Quitoque dans notre classement, freiné par une livraison moins souple et un prix d'appel un peu plus haut.</p>
+<p><strong>Les Commis est le panier recettes le plus qualitatif du marché</strong> côté sourcing : produits français et bio, circuits **courts**, fiches recettes soignées. Il se hisse juste derrière Quitoque dans notre classement, freiné par une livraison moins souple et un **prix** d'appel un peu plus haut.</p>
 <ul>
 <li><strong>Note finale :</strong> 4,2/5</li>
 <li><strong>Points forts :</strong> qualité des ingrédients, bio et circuit court, recettes de chefs</li>
@@ -27,105 +27,125 @@ Des trois grandes **box à cuisiner** du marché français, Les Commis est la pl
 
 ## Nos notes Les Commis, critère par critère
 
-On note toutes les box repas sur la même grille de 5 critères. La note finale est la moyenne de ces 5 notes, c'est elle qu'on reprend dans notre classement.
+On note toutes les **box repas** sur la même grille de 5 critères. La note finale est la moyenne de ces 5 notes, c'est elle qu'on reprend dans notre classement.
 
 | Critère | Note | Ce qu'on retient |
 |---|---|---|
 | Qualité et goût | 9,0/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:90%">★★★★★</b></span> | Ingrédients bio et français remarquables, le meilleur sourcing testé |
-| Variété de la carte | 8,0/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:80%">★★★★★</b></span> | Carte hebdomadaire riche, recettes de chefs invités |
+| Variété de la carte | 8,0/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:80%">★★★★★</b></span> | Carte hebdomadaire riche, recettes originales signées par des chefs |
 | Praticité et flexibilité | 7,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:75%">★★★★★</b></span> | Abonnement sans engagement, recettes en 20 minutes, un poil moins fluide |
 | Livraison et service client | 8,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:85%">★★★★★</b></span> | Livraison partout en France, emballages propres, SAV attentif |
 | Rapport qualité-prix | 8,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:85%">★★★★★</b></span> | Dès 4,75 € l'assiette, très correct vu la qualité bio |
 | **Note finale Les Commis** | **8,3/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:83%">★★★★★</b></span>** | **Soit 4,2/5, la note affichée sur cette fiche** |
 
-Pour voir où ce 8,3/10 place Les Commis face à la concurrence, consultez notre [comparateur des meilleures box repas](/meilleure-box-repas/).
+Pour voir où ce 8,3/10 place Les Commis face aux **autres** **marques**, consultez notre [comparateur des meilleures box repas](/meilleure-box-repas/).
 
 | Fiche express | Les Commis |
 |---|---|
 | Type | Panier recettes à cuisiner |
-| Sourcing | Ingrédients français, bio, circuit court |
+| Sourcing | Produits français, bio, circuits courts |
 | Prix à l'assiette | Dès 4,75 € |
 | Engagement | Aucun, abonnement flexible |
 
-![Panier recettes Les Commis avec produits frais](/img/lescommis-panier.webp)
+![Colis Les Commis remis en main propre](/img/lescommis-panier.webp)
 
 ## Comment fonctionne Les Commis ?
 
-Le fonctionnement est celui d'un **panier recettes** classique : chaque semaine, vous choisissez vos recettes dans la carte, et vous recevez les **ingrédients** à la juste dose avec les fiches détaillées. Comptez environ 20 minutes par recette, fiches claires et gestes simples, la promesse « cuisiner maison est un jeu d'enfant » n'est pas usurpée.
+Le principe est celui d'un **panier recettes** classique. **Chaque semaine**, vous faites votre **choix** de recettes dans la carte, et vous **recevez** à **domicile** les ingrédients à la **juste** dose, accompagnés de fiches **détaillées**. Comptez 20 minutes par recette en moyenne. La promesse maison « cuisiner devient un jeu d'enfant » n'est pas usurpée : les gestes sont simples, les étapes claires, même pour un débutant **complet**.
 
-La marque a une vraie identité : **produits français** et **bio**, partenariats directs avec les producteurs, et des recettes ponctuellement signées par des chefs connus. Depuis que Rutabago a rejoint Les Commis, l'offre bio s'est encore renforcée, on raconte cette absorption dans notre page sur [l'alternative à Rutabago](/alternatives/rutabago/).
+Ce qui change par rapport aux **autres** : l'identité. Les Commis travaille avec des producteurs **locaux**, revendique des **produits français** et une part de bio inégalée, et fait **chaque** mois appel à des chefs pour des recettes **originales** (on a vu passer des signatures connues, de Luana Belmondo à Yoni Saada). Depuis que Rutabago a rejoint la **maison**, l'**offre** bio s'est encore épaissie, une histoire qu'on raconte dans notre page sur [l'alternative à Rutabago](/alternatives/rutabago/).
 
 ## Notre avis détaillé après test
 
 ### Qualité et goût : 9,0/10
 
-C'est le point où Les Commis surclasse tout le monde. Les **légumes** arrivent fermes et goûteux, les viandes et poissons sont d'origine française tracée, et la part de **bio** est la plus élevée du marché. En bouche, la différence avec un caddie de supermarché saute aux papilles. Le 10 n'est pas loin, seules quelques herbes fraîches arrivées fatiguées l'ont retenu.
+C'est ici que Les Commis surclasse tout le monde, **point** final ou presque. Les légumes arrivent fermes, les viandes et poissons sont d'origine française tracée, et la différence avec un caddie de supermarché saute aux papilles dès la première **assiette**. On a cuisiné une volaille fermière qui n'avait rien à envier à celle de notre boucher.
+
+Le 10 n'est pas loin. Quelques herbes fraîches arrivées fatiguées l'ont retenu, et c'est à peu près tout ce qu'on a trouvé à redire.
 
 ![Produits frais et épicerie du panier Les Commis](/img/lescommis-produits.webp)
 
 ### Variété de la carte : 8,0/10
 
-La **carte** hebdomadaire couvre les registres attendus, du plat familial au végétarien, avec des recettes plus créatives signées par des chefs invités. On a notamment retrouvé des inspirations bistrot très réussies. Le choix reste un cran sous le catalogue géant de HelloFresh, mais la qualité d'exécution des **fiches recettes** compense largement.
+La carte hebdomadaire couvre tous les registres : plat familial, végétarien, poisson, et ces fameuses **recettes** de chefs qui sortent de l'ordinaire. Des recettes **variées**, des **nouvelles** idées chaque semaine, et une vraie patte bistrot sur certaines. Le catalogue reste un cran sous celui d'HelloFresh en volume **pur**, mais la qualité d'exécution des fiches compense largement. Entre 15 recettes moyennes et 10 excellentes, notre **choix** est vite fait.
 
 ### Praticité et flexibilité : 7,5/10
 
-L'abonnement est **sans engagement** : pause, saut de semaine et résiliation se font en ligne sans friction. Les recettes tiennent leur promesse des 20 minutes. On enlève des points sur l'interface, moins fluide que celle des leaders, et sur la modification de commande, possible mais moins intuitive.
+L'**abonnement** est sans engagement : pause, saut de semaine et résiliation se gèrent en ligne, sans appel ni mail de négociation. Les 20 minutes annoncées par recette sont tenues, ce qui simplifie l'**organisation** des soirs de semaine. Fini le casse-tête du menu, fini les courses du samedi. Une **organisation** **totale**, presque déroutante au début.
+
+Les **points** retirés ? L'interface, un peu moins fluide que celle des leaders, et la modification de commande, possible mais moins intuitive qu'ailleurs. Rien de bloquant, juste perfectible.
 
 ![Repas Les Commis cuisiné en famille](/img/lescommis-table.webp)
 
 ### Livraison et service client : 8,5/10
 
-La **livraison** couvre toute la France métropolitaine, en point relais ou à domicile selon les zones. Nos colis sont arrivés complets, au froid, avec des emballages majoritairement recyclables. Le **service client** répond vite et rembourse sans chipoter l'ingrédient manquant, c'est exactement ce qu'on attend. Seule limite : moins de créneaux de **livraison** que Quitoque selon les villes.
+La livraison couvre toute la **France** métropolitaine, à **domicile** ou en **point** relais selon les zones. Nos colis sont arrivés complets, au froid, avec des emballages majoritairement recyclables (et moins de plastique que chez la concurrence, détail **vérifié** carton par carton). Un ingrédient manquant sur un panier ? Le service client a remboursé sans discuter, en quelques heures.
+
+Seule limite, et elle explique la demi-étoile en moins : moins de créneaux que Quitoque dans certaines villes moyennes. À vérifier avec votre code postal avant de vous lancer.
 
 ### Rapport qualité-prix : 8,5/10
 
-Dès **4,75 € l'assiette** en grande formule, Les Commis est à peine plus cher que les box conventionnelles pour un niveau d'ingrédients supérieur. Rapporté à un caddie bio équivalent, le calcul est vite fait. Le prix grimpe en petite formule deux personnes, comme partout. Pour comparer les tarifs du marché, notre guide [combien coûte une box repas](/guides/combien-coute-box-repas/) détaille les prix réels par formule.
+Dès **4,75 € l'assiette** en grande formule, pour ce niveau d'ingrédients, le calcul est vite fait : un caddie bio équivalent en magasin coûte davantage, courses et temps non compris. Le **prix** grimpe en **petit** format deux personnes, comme partout sur le marché. Un **code** **promo** de bienvenue tombe régulièrement pour **tester** la première semaine à tarif réduit.
+
+Pour comparer les tarifs des **box repas** entre eux, notre guide [combien coûte une box repas](/guides/combien-coute-box-repas/) détaille les prix réels formule par formule.
+
+## Les Commis face à HelloFresh et Quitoque
+
+Le match que tout le monde demande. Face à **HelloFresh**, Les Commis perd sur le volume de la carte et le prix d'appel, gagne nettement sur le sourcing et l'impact carbone. Face à **Quitoque**, l'écart se joue à la marge : Quitoque garde l'avantage sur la flexibilité, la densité de créneaux et l'équilibre global, Les Commis répond avec le bio et les circuits **courts**. En **résumé** : pour le portefeuille, HelloFresh ; pour l'équilibre familial, Quitoque ; pour l'assiette la plus propre, Les Commis.
+
+Notre [avis sur HelloFresh](/avis/hellofresh/) et notre [avis sur Quitoque](/avis/quitoque/) détaillent chacun leur copie si vous hésitez encore.
+
+## Comment tester Les Commis au meilleur prix ?
+
+Trois réflexes avant de commander votre premier **panier**. Un : partez sur la grande formule (4 personnes ou 4 recettes **par semaine**), c'est là que le prix à l'**assiette** descend vraiment. Deux : guettez le **code** **promo** de bienvenue, il revient quasiment en permanence et allège la première **offre** de plusieurs euros. Trois : ne vous engagez sur rien, l'**abonnement** se met en pause dès la deuxième semaine si le format ne colle pas à votre **organisation**.
+
+Et si vous hésitez encore entre plusieurs **marques**, commencez par une seule semaine chez chacune. C'est le seul comparatif qui vaille : le vôtre, dans votre cuisine, avec vos horaires. Les fiches **détaillées** restent accessibles après résiliation, petit bonus appréciable pour refaire les **recettes** qui vous ont plu.
 
 ## Les avantages et les inconvénients de Les Commis
 
 **Les avantages :**
 
-- Le meilleur **sourcing** du marché : bio, français, circuit court.
-- Des **fiches recettes** soignées, prêtes en 20 minutes.
-- Une **livraison** propre partout en France, sans engagement.
-- Un excellent rapport qualité-prix à l'assiette en grande formule.
+- Le meilleur sourcing du marché : bio, **produits français**, producteurs **locaux**.
+- Des fiches recettes **détaillées**, prêtes en 20 minutes.
+- Une livraison propre partout en **France**, sans engagement.
+- Des plats **sains** et un excellent rapport qualité-prix à l'**assiette** en grande formule.
 
 **Les inconvénients :**
 
-- Un prix d'appel plus haut en petite formule.
+- Un **prix** d'appel plus haut en petite formule.
 - Moins de créneaux de livraison que le leader selon les zones.
-- Une carte un peu moins large que HelloFresh.
+- Une carte un peu moins large que celle d'HelloFresh.
 
 ## Les Commis, c'est pour qui ?
 
-Les Commis vise les foyers qui veulent cuisiner **bio et local** sans sacrifier leurs soirées aux courses. Si votre priorité est le prix d'appel le plus bas, [notre avis sur HelloFresh](/avis/hellofresh/) reste la porte d'entrée du marché. Et pour l'équilibre global qualité, choix et flexibilité, [notre avis sur Quitoque](/avis/quitoque/) explique pourquoi il conserve la première place de notre classement.
+Pour les foyers qui veulent cuisiner bio et local sans sacrifier leurs soirées aux courses, et qui acceptent de payer l'**assiette** quelques centimes de plus pour ça. Les étudiants au budget serré regarderont d'abord HelloFresh, les familles très **pratiques** resteront chez Quitoque. Tous les **autres**, sincèrement, devraient **tester** un panier.
 
-## Ce que disent les clients
+## Les Commis : avis des clients
 
-Avec une note moyenne autour de 4,6/5 sur plus de 900 **avis clients**, Les Commis fait quasi l'unanimité : « la qualité des produits est bluffante », « on mange bio sans y penser », « les recettes des chefs sont un vrai plus ». Les critiques, rares, portent sur les **créneaux de livraison** dans certaines zones rurales et sur des recettes jugées parfois trop simples par les cuisiniers confirmés.
+Tapez « Les Commis avis » dans Google : vous tomberez sur une avalanche de retours positifs. Avec une note moyenne autour de 4,6/5 sur plus de 900 avis **vérifiés**, le **retour** client est quasi unanime : « la qualité des produits est bluffante », « on mange bio sans y **penser** », « les recettes des chefs sont un vrai plus ». **Voici** les critiques qui reviennent, rares mais réelles : créneaux de livraison limités dans certaines zones rurales, recettes parfois jugées trop simples par les cuisiniers confirmés. Les fils « Les Commis avis » des forums cuisine racontent la même histoire : on y entre sceptique, on y reste pour les produits. Quand le principal reproche concerne la logistique et pas l'assiette, c'est plutôt bon signe.
 
 ## Notre note : 4,2 / 5
 
-Les Commis est la meilleure surprise de nos tests : un **panier recettes** premium par ses ingrédients, sérieux dans l'exécution, à un prix qui reste raisonnable. Il échoue de peu derrière Quitoque, la faute à une logistique un peu moins souple. Pour les convaincus du **bio** et du circuit court, c'est simplement le meilleur choix du marché.
+Les Commis est la meilleure surprise de nos tests : un **panier recettes** premium par ses ingrédients, sérieux dans l'exécution, à un **prix** qui reste raisonnable. Il échoue à un cheveu de Quitoque, la faute à une logistique un peu moins souple. **Au final**, pour les convaincus du bio et du circuit court, **je recommande** sans détour : c'est simplement le meilleur **choix** du marché sur ce créneau.
 
 ## FAQ : vos questions sur Les Commis
 
 <details class="faq-acc"><summary>Les Commis est-il vraiment bio ?</summary>
-<p>La majorité des ingrédients sont bio et d'origine française, en circuit court avec des producteurs partenaires. C'est la box la plus engagée du marché sur ce terrain.</p>
+<p>La majorité des ingrédients sont bio et d'origine française, en circuits courts avec des producteurs partenaires. C'est la box la plus engagée du marché sur ce terrain.</p>
 </details>
 
 <details class="faq-acc"><summary>Combien coûte un panier Les Commis ?</summary>
-<p>Le prix démarre à 4,75 € l'assiette en grande formule. Le tarif par assiette baisse avec le nombre de repas et de personnes par panier.</p>
+<p>Le prix démarre à 4,75 € l'assiette en grande formule. Le tarif baisse avec le nombre de repas par semaine et de personnes par panier, et un code promo de bienvenue est souvent disponible.</p>
 </details>
 
 <details class="faq-acc"><summary>Les Commis livre-t-il partout en France ?</summary>
 <p>Oui, la livraison couvre la France métropolitaine, à domicile ou en point relais selon les zones. Les grandes villes profitent de plus de créneaux.</p>
 </details>
 
-<details class="faq-acc"><summary>Peut-on résilier Les Commis facilement ?</summary>
+<details class="faq-acc"><summary>Peut-on résilier l'abonnement Les Commis facilement ?</summary>
 <p>Oui, l'abonnement est sans engagement : pause, saut de semaine ou résiliation se font en ligne, en quelques clics.</p>
 </details>
 
 <details class="faq-acc"><summary>Quelle différence entre Les Commis et Rutabago ?</summary>
-<p>Rutabago, le panier recettes 100 % bio, a été absorbé par Les Commis. Les anciens clients Rutabago retrouvent chez Les Commis le même positionnement bio, avec une carte plus large.</p>
+<p>Rutabago, le panier recettes 100 % bio, a été absorbé par Les Commis. Les anciens clients y retrouvent le même positionnement bio, avec une carte plus large et des recettes de chefs.</p>
 </details>
