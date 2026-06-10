@@ -89,6 +89,18 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 - Token API CF "wrangler-workers-pbn" (dans `workers/meteoria/.env`) : permissions Workers (scripts + routes) sur TOUTES les zones du compte pierretartare, réutilisable pour les autres sites de ce compte (dirtyswipe, wizyquiz, whiskydegustation).
 - Réglage zone "Block AI bots" passé à **Do not block (allow crawlers)** le 2026-06-10 (sinon Cloudflare renvoyait un 403 aux bots IA avant même le worker). Projet Meteoria : "Meilleure Box Repas" id 4203.
 
+## Client Datafer (depuis 2026-06-10)
+
+Le site est enregistré comme client dans Datafer (RankShaker) : client "Meilleure Box Repas", domaine https://meilleure-box-repas.fr, folderId `8809817d-5dd7-48ac-898b-30203c3e0264`. Tout nouveau brief doit être créé via l'API avec ce folderId (clé API Pierre, cf. mémoire reference_datafer_api).
+
+Briefs existants (mot clé, brief id, score obtenu vs meilleur concurrent) :
+- cheef avis : `f053b0bb-b4c7-49c7-9e33-fb019e01e689` (66 vs 64)
+- les commis avis : `0c450145-58a4-4b93-ae6b-7925086b3468` (78 vs 77)
+- kitchen daily avis : `ea7d8888-a10f-473f-a59b-fb7acd2d4f63` (70 vs 61)
+- aussitot bon avis : `f59b2008-0439-4db8-a34e-ed0b322d9e4e` (74 vs 69)
+
+Process pour tout nouveau contenu : POST /api/v1/briefs (keyword + folderId + myUrl si la page existe), poll jusqu'à ready, rédiger en intégrant targetTerms + targetWordCount, POST /content jusqu'à score > competitors.best. Rédaction directement humanisée (skill sem-humaniser, 19 marqueurs IA bannis).
+
 ## Suivi des publications (MEMORY.md)
 
 Le fichier `MEMORY.md` a la racine trace tous les articles publies, classes par semaine. Il est mis a jour automatiquement par `/create-article`.
