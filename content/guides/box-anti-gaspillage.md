@@ -2,9 +2,9 @@
 en_url: "/en/guides/anti-waste-boxes/"
 title: "Box anti-gaspillage : valent-elles le coup ?"
 date: 2026-06-02
-lastmod: 2026-06-06
+lastmod: 2026-06-10
 description: "Quantités ajustées, produits déclassés, prix réduits : on fait le point sur les box anti-gaspillage et sur les box repas qui limitent vraiment les déchets."
-image: "/img/split.webp"
+image: "/img/quitoque-engagements.webp"
 author: "La rédaction Meilleure Box Repas"
 draft: false
 ---
@@ -17,7 +17,7 @@ Il existe deux familles pour **lutter contre** le **gaspillage**. D'un côté, l
 
 Pour comparer les box qui gaspillent le moins, voyez notre [comparateur des meilleures box repas](/meilleure-box-repas/).
 
-![Box anti-gaspillage et paniers de fruits et légumes](/img/split.webp)
+![Box anti-gaspillage et paniers de fruits et légumes](/img/box3.webp)
 
 ## Deux approches à ne pas confondre
 
@@ -35,7 +35,7 @@ Pour comparer les box qui gaspillent le moins, voyez notre [comparateur des meil
 
 Pour **cuisiner** sans jeter, une box aux portions justes est l'option la plus fiable. Sur ce point, **Quitoque** calibre précisément les quantités, ce qui en fait une vraie box anti-gaspi sans sacrifier la qualité. On évite les demi-bottes d'herbes oubliées et les **courses** en trop. Pour les amateurs de **fruits** et **légumes** bruts, un **panier** de producteurs comme Potager City **livre** du **frais** de **saison** en circuit court.
 
-![Cuisiner sans gaspiller avec une box repas](/img/box1.webp)
+![Plat végétarien cuisiné sans gaspillage](/img/seazon-veggie.webp)
 
 ## Est-ce vraiment rentable ?
 
@@ -51,8 +51,6 @@ Quelques réflexes simples, en plus d'une box :
 - Privilégiez une box aux quantités calibrées pour **éviter** le **gaspillage**.
 - Testez une **application** anti-gaspi pour les invendus **disponibles** **chez** vos commerçants.
 - Conservez bien les **aliments** **frais** et cuisinez les restes.
-
-![Lutter contre le gaspillage alimentaire](/img/box2.webp)
 
 ## Notre verdict sur les box anti-gaspillage
 

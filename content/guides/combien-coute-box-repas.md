@@ -2,7 +2,7 @@
 en_url: "/en/guides/meal-kit-cost-per-month/"
 title: "Combien coûte une box repas par mois ?"
 date: 2026-06-05
-lastmod: 2026-06-06
+lastmod: 2026-06-10
 description: "Prix au repas, frais de livraison, codes promo : on décortique le budget réel d'une box repas sur un mois complet pour éviter les mauvaises surprises."
 image: "/img/hero3.webp"
 author: "La rédaction Meilleure Box Repas"
@@ -17,7 +17,7 @@ Comptez en moyenne **4 à 7 € par portion** pour une **box** à **cuisiner**, 
 
 Pour comparer les tarifs marque par marque, utilisez notre [comparateur des meilleures box repas](/meilleure-box-repas/).
 
-![Combien coûte une box repas par mois](/img/hero3.webp)
+![Combien coûte une box repas par mois](/img/hero1.webp)
 
 ## Le prix se calcule par portion
 
@@ -52,7 +52,7 @@ Concrètement, sur un mois pour 2 personnes et 3 recettes **chaque semaine** :
 
 Certaines box de plats prêts misent sur une **cuisson** à **basse température** qui préserve le goût : pratique quand on cherche du **rapide** et **savoureux** sans cuisiner.
 
-![Calcul du budget box repas](/img/box1.webp)
+![Recette HelloFresh, un repas au prix calculé](/img/hellofresh-cuisine.webp)
 
 ## Réduire la facture sans rogner sur la qualité
 
@@ -64,8 +64,6 @@ Quelques réflexes pour payer moins :
 - Profitez de l'**offre** de bienvenue pour tester, sans rester par habitude.
 - Mettez l'**abonnement** en pause quand vous n'avez pas **besoin** d'un **panier** la semaine.
 - Variez les **nouvelles recettes** pour ne pas vous lasser et éviter d'acheter à côté.
-
-![Box repas et budget mensuel](/img/split.webp)
 
 ## Une box repas, est-ce rentable ?
 

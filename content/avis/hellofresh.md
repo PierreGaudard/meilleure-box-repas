@@ -2,12 +2,12 @@
 en_url: "/en/reviews/hellofresh/"
 title: "Avis HelloFresh : que vaut vraiment la box ?"
 date: 2026-06-01
-lastmod: 2026-06-06
+lastmod: 2026-06-10
 description: "Notre avis sur HelloFresh après test : choix de recettes, prix par repas, fraîcheur et flexibilité. Le leader mondial tient-il ses promesses ?"
 brand: "HelloFresh"
 rating: 3.8
 logo: "/img/logos/hellofresh.png"
-image: "/img/box2.webp"
+image: "/img/hellofresh-box.webp"
 author: "La rédaction Meilleure Box Repas"
 draft: false
 ---
@@ -25,17 +25,22 @@ Bonjour et bienvenue dans notre **avis HelloFresh** sans filtre. On a passé com
 </ul>
 </div>
 
-| Critère | Notre verdict sur HelloFresh |
-|---|---|
-| Choix de recettes | Excellent, le plus large du marché |
-| Fraîcheur des produits | Correcte, un peu standardisée |
-| Prix par repas | Très bas en promo, remonte ensuite |
-| Flexibilité | Sans engagement, pause et résiliation libres |
-| Emballages | Nombreux, point à améliorer |
+## Nos notes HelloFresh, critère par critère
 
-Pour situer HelloFresh face aux autres marques, passez par notre [comparateur des meilleures box repas](/meilleure-box-repas/).
+On note toutes les box repas sur la même grille de 5 critères. La note finale est la moyenne de ces 5 notes, c'est elle qu'on reprend dans notre classement.
 
-![Recettes HelloFresh à cuisiner](/img/box2.webp)
+| Critère | Note | Ce qu'on retient |
+|---|---|---|
+| Qualité et goût | 7,0/10 | Recettes réussies, produits corrects mais standardisés |
+| Variété de la carte | 9,0/10 | Le catalogue le plus large du marché, renouvelé chaque semaine |
+| Praticité et flexibilité | 8,0/10 | Fiches recettes limpides, sans engagement, pause en deux clics |
+| Livraison et service client | 7,5/10 | Fiable et disponible quasiment partout |
+| Rapport qualité-prix | 6,0/10 | Imbattable en promo, 5 à 7 € le repas ensuite |
+| **Note finale HelloFresh** | **7,5/10** | **Soit 3,8/5, la note affichée sur cette fiche** |
+
+Pour situer ce 7,5/10 face aux autres marques, passez par notre [comparateur des meilleures box repas](/meilleure-box-repas/).
+
+![Box HelloFresh en cours de déballage](/img/hellofresh-recette.webp)
 
 ## Comment fonctionne HelloFresh ?
 
@@ -47,23 +52,27 @@ Comme la plupart des acteurs, l'abonnement est sans engagement : on peut sauter 
 
 ## Notre avis détaillé après test
 
-### Le choix de recettes : le gros point fort
+### Qualité et goût : 7,0/10
+
+Les **bons** basiques sont toujours réussis et les plats qu'on a cuisinés pendant le test étaient à la hauteur des photos. Ce qui empêche une meilleure note : des **produits frais** corrects mais plus standardisés que chez les marques qui misent sur le local, et des légumes **emballés** individuellement qui génèrent pas mal de déchets. Rien de mauvais, mais on est un cran en dessous d'un Quitoque sur la qualité perçue et l'origine.
+
+### Variété de la carte : 9,0/10
 
 C'est là que HelloFresh écrase la concurrence. Le catalogue est gigantesque, renouvelé **chaque semaine**, avec de quoi varier et plaire à toute la famille. Les **recettes HelloFresh** sont **faciles** à suivre, bien illustrées, et les **bons** basiques sont toujours réussis. Pour qui débute, c'est rassurant : on cuisine **simple**, on rate rarement.
 
-### La fraîcheur des produits
+### Praticité et flexibilité : 8,0/10
 
-Les **produits frais** sont corrects, mais plus standardisés que chez les marques qui misent sur le local et la saison. Les légumes sont **présentés** propres et **emballés** individuellement, ce qui génère pas mal de déchets. Rien de mauvais, mais on est un cran en dessous d'un Quitoque sur la qualité perçue et l'origine.
+Les fiches recettes sont limpides, les ingrédients déjà dosés, et on cuisine en 20 à 40 minutes selon les plats. L'abonnement est sans engagement : on saute une semaine, on modifie ses recettes ou on résilie en deux clics. On retire juste un point parce qu'il faut cuisiner (c'est le concept) et penser à valider son menu avant la date limite hebdomadaire.
 
-### Le prix par repas : attention à l'après-promo
+### Rapport qualité-prix : 6,0/10
 
 Parlons argent, car c'est le nerf de la guerre. La première commande est très attractive grâce à l'offre de bienvenue. Mais une fois la **première** promo passée, le prix **par repas** remonte autour de 5 à 7 € **par repas** selon la formule. Avant de vous engager, regardez le coût réel à la portion plutôt que le prix d'**achat** affiché en bandeau.
 
 Pour calculer votre budget sur la durée, on a détaillé la méthode dans notre guide sur [combien coûte une box repas](/guides/combien-coute-box-repas/).
 
-### Livraison et logistique
+### Livraison et service client : 7,5/10
 
-La livraison est fiable et couvre une large partie du territoire, ce qui est un avantage face à des marques plus régionales. Les colis arrivent bien isothermes, les **produits** sont **présentés** proprement. Sur ce **côté** logistique, peu de reproches : ça arrive quand c'est prévu, pendant le créneau choisi.
+La livraison est fiable et couvre une large partie du territoire, ce qui est un avantage face à des marques plus régionales. Les colis arrivent bien isothermes, les **produits** sont **présentés** proprement. Sur ce **côté** logistique, peu de reproches : ça arrive quand c'est prévu, pendant le créneau choisi. Le service client répond vite et rembourse facilement un produit manquant, seule la hotline parfois chargée nous empêche de monter plus haut.
 
 ## Les avantages et les inconvénients de HelloFresh
 
@@ -87,7 +96,7 @@ Impossible de faire un **avis HelloFresh** honnête sans parler de l'offre de bi
 
 Côté **remboursement**, la marque se montre plutôt arrangeante : un produit manquant ou abîmé donne lieu à un avoir ou un **remboursement** rapide via le service client. Avant de **passer** commande, vérifiez tout de même les conditions, car l'offre est surtout intéressante la première fois. Sur la durée, la question devient : est-ce que ça **vaut coup** de rester ? Tout dépend de votre volume et de votre usage.
 
-![Exemple de semaine HelloFresh](/img/box1.webp)
+![Carton HelloFresh ouvert avec les fiches recettes](/img/hellofresh-carton.webp)
 
 ## Un exemple de semaine type chez HelloFresh
 
@@ -121,7 +130,7 @@ Après plusieurs semaines, on a tiré quelques enseignements pour tirer le meill
 
 Bien utilisée, la box devient un vrai outil pour **gagner** du temps et **découvrir** des **recettes variées** sans exploser le budget. Mal suivie, elle peut coûter cher une fois la promo terminée. Tout est une question d'organisation.
 
-![HelloFresh face aux autres box repas](/img/split.webp)
+![Assiette cuisinée avec une recette HelloFresh](/img/hellofresh-assiette.webp)
 
 ## HelloFresh face à la concurrence
 

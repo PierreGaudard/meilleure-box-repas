@@ -2,12 +2,12 @@
 en_url: "/en/reviews/quitoque/"
 title: "Avis Quitoque : notre test complet de la box"
 date: 2026-05-30
-lastmod: 2026-06-06
+lastmod: 2026-06-10
 description: "Notre avis sur Quitoque après test : qualité des produits, recettes, prix par assiette, livraison et flexibilité. Le point sans langue de bois."
 brand: "Quitoque"
 rating: 4.6
 logo: "/img/logos/quitoque.svg"
-image: "/img/box1.webp"
+image: "/img/quitoque-box.webp"
 author: "La rédaction Meilleure Box Repas"
 draft: false
 ---
@@ -25,15 +25,22 @@ On a **testé Quitoque** pendant plusieurs semaines, payé nos **paniers repas**
 </ul>
 </div>
 
-| Critère | Notre verdict sur Quitoque |
-|---|---|
-| Fraîcheur des produits | Excellente, de saison et française |
-| Choix de recettes | Large, dont végétarien |
-| Prix à l'assiette | Dès 3,83 €, dégressif selon la formule |
-| Flexibilité | Sans engagement, pause facile |
-| Service client | Réactif et disponible |
+## Nos notes Quitoque, critère par critère
+
+On note toutes les box repas sur la même grille de 5 critères. La note finale est la moyenne de ces 5 notes, c'est elle qu'on reprend dans notre classement.
+
+| Critère | Note | Ce qu'on retient |
+|---|---|---|
+| Qualité et goût | 9,5/10 | Produits frais de saison, sourcing majoritairement français |
+| Variété de la carte | 9,0/10 | Large catalogue qui tourne, du végétarien au gourmand |
+| Praticité et flexibilité | 9,5/10 | Fiches limpides, pause et résiliation en deux clics |
+| Livraison et service client | 9,0/10 | Carton isotherme fiable, SAV humain et rapide |
+| Rapport qualité-prix | 9,0/10 | Dès 3,83 € l'assiette, imbattable à ce niveau de qualité |
+| **Note finale Quitoque** | **9,2/10** | **Soit 4,6/5, la meilleure note de notre classement** |
 
 Si vous hésitez entre plusieurs marques, notre [comparateur de box repas](/meilleure-box-repas/) met les acteurs face à face en quelques secondes.
+
+![Box Quitoque avec ses légumes frais](/img/quitoque-recette.webp)
 
 ## Comment fonctionne Quitoque ?
 
@@ -45,31 +52,31 @@ Un point qui revient souvent : on peut sauter une semaine, mettre l'abonnement e
 
 ## Notre avis détaillé après test
 
-### L'expérience en cuisine : simple et satisfaisante
-
-Première vraie surprise : les **recettes simples** tiennent leur promesse de temps. Comptez 20 à 40 minutes selon les plats. Les fiches sont bien fichues, étape par étape, avec des photos qui aident vraiment quand on n'est pas un cordon-bleu. On a aimé le fait de découvrir des associations qu'on n'aurait jamais tentées seuls, sans jamais se sentir largués.
-
-Le bon **point** ici, c'est l'équilibre. Quitoque alterne entre plats découverte et recettes rassurantes. Sur une semaine, on passe d'un curry de légumes à un gratin réconfortant sans avoir l'impression de manger toujours la même chose. Pour qui manque d'idées, c'est un vrai souffle.
-
-### Qualité et fraîcheur des produits
+### Qualité et goût : 9,5/10
 
 C'est le terrain où Quitoque marque le plus de points face au **marché**. Les légumes sont fermes, les herbes encore vivaces, les viandes et poissons corrects. La marque met en avant des **produits frais** de **saison** et un approvisionnement majoritairement français, avec une part bio qui revient régulièrement dans les paniers.
 
-Concrètement, on a jeté très peu de choses. Les quantités sont calibrées par recette, donc on cuisine ce qu'on reçoit et on mange ce qu'on cuisine. Pour qui veut limiter le gaspillage, c'est un argument réel, pas un simple slogan. Si le sujet vous parle, on l'a creusé dans notre guide sur les [box anti-gaspillage](/guides/box-anti-gaspillage/).
+Concrètement, on a jeté très peu de choses. Les quantités sont calibrées par recette, donc on cuisine ce qu'on reçoit et on mange ce qu'on cuisine. Pour qui veut limiter le gaspillage, c'est un argument réel, pas un simple slogan. Si le sujet vous parle, on l'a creusé dans notre guide sur les [box anti-gaspillage](/guides/box-anti-gaspillage/). Au goût, les assiettes tiennent leurs promesses, on a rarement mangé aussi bien avec aussi peu d'efforts.
 
-### Le prix par assiette : ça pique ou ça passe ?
+![Assiette cuisinée avec un panier Quitoque](/img/quitoque-assiette.webp)
+
+### Variété de la carte : 9,0/10
+
+Le bon **point** ici, c'est l'équilibre. Quitoque alterne entre plats découverte et recettes rassurantes, avec des étiquettes claires (rapide, végétarien, gourmand, équilibré). Sur une semaine, on passe d'un curry de légumes à un gratin réconfortant sans avoir l'impression de manger toujours la même chose. Pour qui manque d'idées, c'est un vrai souffle. Seul HelloFresh propose un catalogue encore plus large, d'où le demi-point d'écart.
+
+### Praticité et flexibilité : 9,5/10
+
+Première vraie surprise : les **recettes simples** tiennent leur promesse de temps. Comptez 20 à 40 minutes selon les plats. Les fiches sont bien fichues, étape par étape, avec des photos qui aident vraiment quand on n'est pas un cordon-bleu. On a aimé le fait de découvrir des associations qu'on n'aurait jamais tentées seuls, sans jamais se sentir largués. Ajoutez la gestion de l'abonnement en deux clics (pause, saut de semaine, résiliation) et on frôle le sans-faute.
+
+### Rapport qualité-prix : 9,0/10
 
 Parlons argent, parce que c'est souvent là que ça coince. Le prix **par repas** démarre autour de **3,83 € l'assiette** sur les grandes formules, et grimpe quand on commande peu de recettes pour peu de personnes. Autrement dit : plus vous prenez de plats et de convives, plus le coût à l'**assiette** baisse.
 
 Comparé à un resto ou à un plat livré le soir, Quitoque reste **par repas** nettement moins cher, avec en prime des **produits frais** à cuisiner soi-même. Comparé au supermarché pur, c'est un peu plus cher, mais on paie le service : pas de course, pas de gaspillage, des **fiches recettes** et un menu pensé pour vous. Pour calculer votre budget réel sans vous faire avoir par l'offre de bienvenue, lisez notre guide sur [combien coûte une box repas](/guides/combien-coute-box-repas/).
 
-### Livraison, logistique et emballages
+### Livraison et service client : 9,0/10
 
-La livraison est fiable dans les grandes zones, un peu plus aléatoire en secteur rural. Le carton est isotherme, avec des pains de glace qui maintiennent la chaîne du froid même quand on n'est pas là à la réception. Côté **emballages**, Quitoque a fait des efforts (carton recyclable, réduction du plastique), même si, comme toute box, ça génère plus de déchets que des courses en vrac. C'est l'un des rares **points** où il reste de la marge de progrès.
-
-### Flexibilité et service client
-
-L'**expérience** d'abonnement est l'un des gros atouts. On compose sa **formule**, on décale, on saute une semaine, on reprend : tout se fait en deux clics. Le **service client** répond vite par mail et par chat, et gère correctement les rares soucis (produit manquant, retard). Cette **flexible** approche, sans engagement, enlève la peur de s'enfermer dans un abonnement, et c'est probablement ce qui fait revenir les clients.
+La livraison est fiable dans les grandes zones, un peu plus aléatoire en secteur rural. Le carton est isotherme, avec des pains de glace qui maintiennent la chaîne du froid même quand on n'est pas là à la réception. Côté **emballages**, Quitoque a fait des efforts (carton recyclable, réduction du plastique), même si, comme toute box, ça génère plus de déchets que des courses en vrac. C'est l'un des rares **points** où il reste de la marge de progrès. Le **service client**, lui, répond vite par mail et par chat, et gère correctement les rares soucis (produit manquant, retard). Cette approche **flexible**, sans engagement, enlève la peur de s'enfermer dans un abonnement, et c'est probablement ce qui fait revenir les clients.
 
 ## Les avantages et les inconvénients de Quitoque
 

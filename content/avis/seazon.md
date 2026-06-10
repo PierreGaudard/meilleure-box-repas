@@ -2,12 +2,12 @@
 en_url: "/en/reviews/seazon/"
 title: "Avis Seazon : notre test des plats à réchauffer"
 date: 2026-06-03
-lastmod: 2026-06-06
+lastmod: 2026-06-10
 description: "Notre avis sur Seazon après test : plats frais à réchauffer, équilibre nutritionnel, prix, promo et service client. Pour qui est faite cette box ?"
 brand: "Seazon"
 rating: 3.6
 logo: "/img/logos/seazon.svg"
-image: "/img/box4.webp"
+image: "/img/seazon-box.webp"
 author: "La rédaction Meilleure Box Repas"
 draft: false
 ---
@@ -25,17 +25,29 @@ On a **testé Seazon** sur plusieurs semaines, commandé et payé nos paniers, p
 </ul>
 </div>
 
-| Critère | Notre verdict sur Seazon |
+## Nos notes Seazon, critère par critère
+
+On note toutes les box repas sur la même grille de 5 critères. La note finale est la moyenne de ces 5 notes, c'est elle qu'on reprend dans notre classement.
+
+| Critère | Note | Ce qu'on retient |
+|---|---|---|
+| Qualité et goût | 8,0/10 | Plats frais et savoureux, loin du plat industriel |
+| Variété de la carte | 6,5/10 | Carte qui tourne, mais choix plus restreint qu'ailleurs |
+| Praticité et flexibilité | 9,5/10 | Zéro cuisine, abonnement sans engagement, pause en un clic |
+| Livraison et service client | 6,5/10 | Colis isotherme sérieux, SAV réactif, transporteur parfois capricieux |
+| Rapport qualité-prix | 5,5/10 | 6 à 9 € le plat, la praticité se paye |
+| **Note finale Seazon** | **7,2/10** | **Soit 3,6/5, la note affichée sur cette fiche** |
+
+Pour situer ce 7,2/10 face aux autres marques, utilisez notre [comparateur des meilleures box repas](/meilleure-box-repas/).
+
+| Fiche express | Seazon |
 |---|---|
 | Type | Plats prêts à réchauffer |
 | Fraîcheur | Repas frais, jamais surgelés |
 | Prix au plat | 6 à 9 € selon la formule |
-| Praticité | Maximale, zéro cuisine |
-| Service client | Réactif et disponible |
+| Engagement | Aucun, pause et résiliation libres |
 
-Pour situer Seazon face aux autres marques, utilisez notre [comparateur des meilleures box repas](/meilleure-box-repas/).
-
-![Plats Seazon frais à réchauffer](/img/box4.webp)
+![Plats Seazon frais à réchauffer](/img/seazon-plat-rechauffe.webp)
 
 ## Comment fonctionne Seazon ?
 
@@ -45,21 +57,31 @@ Seazon propose des formules au **mois** ou à la **commande**, **selon** vos bes
 
 ## Notre avis détaillé après test
 
-### Le goût et la fraîcheur des plats
+### Qualité et goût : 8,0/10
 
-Bonne surprise : les **plats Seazon** sont savoureux et loin du plat industriel triste. Les recettes sont variées, plutôt **saines**, avec un vrai travail sur l'équilibre nutritionnel. Ce sont des **repas frais**, pas des surgelés, ce qui se sent au goût même **après** réchauffe. On a aimé **découvrir** des recettes qu'on n'aurait pas cuisinées soi-même.
+Bonne surprise : les **plats Seazon** sont savoureux et loin du plat industriel triste. Les recettes sont plutôt **saines**, avec un vrai travail sur l'équilibre nutritionnel. Ce sont des **repas frais**, pas des surgelés, ce qui se sent au goût même **après** réchauffe. On a aimé **découvrir** des recettes qu'on n'aurait pas cuisinées soi-même. On reste un cran sous le fait maison sur certaines textures, d'où une note de 8 et pas plus.
 
-### Le prix, les promos et les codes
+![Repas Seazon sain et équilibré](/img/seazon-assiette.webp)
 
-Parlons argent. Le **prix** au plat est un peu plus élevé qu'une box à cuisiner, ce qui est logique : ici, le travail de cuisine est déjà fait. Comptez en moyenne 6 à 9 € le plat **selon** la formule. Bonne nouvelle : Seazon propose régulièrement une **promo** de bienvenue et un **code** de réduction sur la première **commande**, ce qui adoucit l'addition pour **découvrir** le service.
+### Variété de la carte : 6,5/10
+
+La **carte** change régulièrement et couvre les grands classiques comme des recettes plus originales, avec des options végétariennes. Mais le choix reste plus restreint que chez une box à cuisiner type HelloFresh : sur plusieurs semaines de **commande**, on retombe parfois sur les mêmes plats. C'est le principal reproche qu'on fait au service.
+
+### Praticité et flexibilité : 9,5/10
+
+C'est le point fort absolu. Vous choisissez vos **plats**, vous réchauffez, vous mangez : zéro course, zéro vaisselle de préparation. L'application permet de mettre en pause, sauter une semaine ou résilier en quelques clics, sans engagement. Difficile de faire plus simple au quotidien, seule l'absence de version à cuisiner empêche le sans-faute.
+
+![Application Seazon pour choisir ses plats](/img/seazon-app.webp)
+
+### Livraison et service client : 6,5/10
+
+La **livraison** est sérieuse : colis isotherme, chaîne du froid respectée, créneaux clairs. Les **produits** arrivent en **bonne** condition et se conservent plusieurs **jours** au frais. On retire des points pour le transporteur, parfois moins ponctuel selon les zones, mais le **service client** répond vite et rembourse sans discuter en cas de pépin.
+
+### Rapport qualité-prix : 5,5/10
+
+Parlons argent. Le **prix** au plat est un peu plus élevé qu'une box à cuisiner, ce qui est logique : ici, le travail de cuisine est déjà fait. Comptez en moyenne 6 à 9 € le plat **selon** la formule. Bonne nouvelle : Seazon propose régulièrement une **promo** de bienvenue et un **code** de réduction sur la première **commande**, ce qui adoucit l'addition pour **découvrir** le service. Sur un usage quotidien en revanche, le budget mensuel grimpe vite, et c'est ce qui pèse sur la note.
 
 Pour comparer ce positionnement au reste du marché, voyez notre guide sur [combien coûte une box repas](/guides/combien-coute-box-repas/).
-
-### Livraison et logistique
-
-La **livraison** est sérieuse : colis isotherme, chaîne du froid respectée, créneaux clairs. Les **produits** arrivent en **bonne** condition et se conservent plusieurs **jours** au frais. Sur ce point, peu de reproches **après** notre test.
-
-![Repas Seazon sain et équilibré](/img/box1.webp)
 
 ## Conservation, légumes et infos pratiques
 
@@ -87,8 +109,6 @@ Quelques points concrets relevés pendant notre test de ces **plats cuisinés**.
 Seazon est parfait pour qui veut **manger** sainement sans cuisiner : actifs débordés, personnes seules, déjeuners au bureau. Si au contraire vous aimez cuisiner et cherchez des **produits** frais à préparer vous-même, mieux vaut regarder une box à cuisiner comme [notre avis sur Quitoque](/avis/quitoque/). Et pour démarrer au **prix** le plus bas, [notre avis sur HelloFresh](/avis/hellofresh/) reste une référence.
 
 Si votre objectif est plutôt la perte de poids, regardez du côté de **Cheef**, spécialisé dans les **plats cuisinés** minceur : c'est un autre besoin que celui auquel répond Seazon, mais la logique de plats prêts reste la même.
-
-![Livraison Seazon de repas frais](/img/split.webp)
 
 ## Ce que disent les clients
 

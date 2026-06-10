@@ -2,9 +2,9 @@
 en_url: "/en/alternatives/rutabago/"
 title: "Alternative à Rutabago : la box bio et ses remplaçantes"
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-06-10
 description: "Rutabago, pionnier de la box repas bio, a rejoint Les Commis. Voici les meilleures alternatives à Rutabago pour une box à cuisiner bio et de saison."
-image: "/img/box3.webp"
+image: "/img/lescommis-fondateurs.webp"
 author: "La rédaction Meilleure Box Repas"
 draft: false
 ---
@@ -17,7 +17,7 @@ Pour remplacer **Rutabago**, deux pistes : **Quitoque**, qui **propose** beaucou
 
 Pour comparer ces box, utilisez notre [comparateur des meilleures box repas](/meilleure-box-repas/).
 
-![Alternative à Rutabago, la box bio](/img/box3.webp)
+![Les Commis, repreneur de Rutabago, et ses produits frais](/img/lescommis-carte.webp)
 
 ## Pourquoi Rutabago redirige vers Les Commis
 
@@ -40,7 +40,7 @@ Puisque **Rutabago** a rejoint Les Commis, c'est l'option la plus proche de l'es
 | Fruits et légumes bruts | Potager City |
 | Le moins cher pour débuter | HelloFresh |
 
-![Box repas bio à cuisiner](/img/box1.webp)
+![Légumes bio et de saison dans une box repas](/img/seazon-legumes.webp)
 
 ## Une box bio, ça vaut le coup ?
 

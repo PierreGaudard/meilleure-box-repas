@@ -2,7 +2,7 @@
 en_url: "/en/guides/how-to-choose-meal-kit/"
 title: "Comment choisir sa box repas ?"
 date: 2026-06-04
-lastmod: 2026-06-06
+lastmod: 2026-06-10
 description: "Le guide pour choisir sa box repas sans se tromper : budget, nombre de personnes, fréquence, type de produits et flexibilité de l'abonnement."
 image: "/img/hero2.webp"
 author: "La rédaction Meilleure Box Repas"
@@ -17,7 +17,7 @@ Pour bien **choisir**, posez-vous quatre questions : combien de **recettes** par
 
 Pour gagner du temps, notre [comparateur des meilleures box repas](/meilleure-box-repas/) met les **autres** marques face à face en quelques secondes.
 
-![Comment choisir sa box repas](/img/hero2.webp)
+![Barquette Seazon, exemple de plat prêt à réchauffer](/img/seazon-barquette.webp)
 
 ## 1. Définir le nombre de repas et de convives
 
@@ -46,7 +46,7 @@ Une bonne box se met en pause, se résilie sans frais et laisse **choisir** ses 
 | Flexibilité | Pause et résiliation libres |
 | Prix réel | Au-delà de l'offre de bienvenue |
 
-![Choisir une box repas en famille](/img/box1.webp)
+![Choisir une box repas en famille](/img/famille-table-box.webp)
 
 ## 4. Comparer le coût réel
 
@@ -62,7 +62,7 @@ Le **prix** affiché n'est pas le **prix** payé. La première **offre** est tr�
 
 Il n'y a pas de réponse unique, juste la box **parfait**ement adaptée à vos habitudes. C'est tout l'intérêt de **prendre** le temps de **tester** **avant** de s'abonner durablement.
 
-![Comparer les box repas avant de choisir](/img/split.webp)
+![Comparer les box repas avant de choisir](/img/box4.webp)
 
 ## Les avantages d'une box repas
 

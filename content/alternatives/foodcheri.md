@@ -2,9 +2,9 @@
 en_url: "/en/alternatives/foodcheri/"
 title: "Alternative à FoodChéri : par quoi le remplacer ?"
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-06-10
 description: "FoodChéri s'adresse désormais aux entreprises. Voici les meilleures alternatives à FoodChéri pour se faire livrer des plats sains à la maison ou cuisiner frais."
-image: "/img/box2.webp"
+image: "/img/seazon-plat.webp"
 author: "La rédaction Meilleure Box Repas"
 draft: false
 ---
@@ -17,7 +17,7 @@ Pour remplacer **FoodChéri** à la maison, deux options : des **plats** **prêt
 
 Pour comparer ces **services**, utilisez notre [comparateur des meilleures box repas](/meilleure-box-repas/).
 
-![Alternative à FoodChéri pour manger sain](/img/box2.webp)
+![Plats Seazon prêts à réchauffer, alternative à FoodChéri](/img/seazon-bols.webp)
 
 ## FoodChéri version particuliers : c'est fini ?
 
@@ -40,7 +40,7 @@ Si vous préférez cuisiner, une **box** à cuisiner comme **Quitoque** mise sur
 | Repas minceur | Cheef, Qilibri |
 | Le moins cher pour débuter | HelloFresh |
 
-![Plats sains livrés en alternative à FoodChéri](/img/box1.webp)
+![Repas équilibré livré à domicile](/img/hellofresh-repas.webp)
 
 ## Manger sain et durable au quotidien
 

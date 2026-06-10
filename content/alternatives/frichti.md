@@ -2,9 +2,9 @@
 en_url: "/en/alternatives/frichti/"
 title: "Alternative à Frichti : par quoi le remplacer ?"
 date: 2026-06-06
-lastmod: 2026-06-06
+lastmod: 2026-06-10
 description: "Frichti s'est recentré sur les entreprises. Voici les meilleures alternatives à Frichti pour des plats livrés à domicile ou une box repas à cuisiner."
-image: "/img/hero3.webp"
+image: "/img/lescommis-box.webp"
 author: "La rédaction Meilleure Box Repas"
 draft: false
 ---
@@ -17,7 +17,7 @@ Pour remplacer Frichti **chez** les particuliers, deux pistes : les **plats** **
 
 Pour comparer ces marques, utilisez notre [comparateur des meilleures box repas](/meilleure-box-repas/).
 
-![Alternative à Frichti pour vos repas](/img/hero3.webp)
+![Le panier recettes Les Commis, alternative à Frichti](/img/lescommis-tote.webp)
 
 ## Ce qui a changé chez Frichti
 
@@ -40,7 +40,7 @@ Si vous préférez **cuisiner**, une **box** à **cuisiner** comme **Quitoque** 
 | Le moins cher pour débuter | HelloFresh |
 | Produits bruts de saison | Potager City |
 
-![Plats livrés à domicile en alternative à Frichti](/img/box2.webp)
+![Repas à cuisiner livré à domicile](/img/hellofresh-menu.webp)
 
 ## Comment choisir sans se tromper
 
