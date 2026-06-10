@@ -139,6 +139,26 @@ Le site n'utilise PAS de taxonomie ni de dossier `/blog/`. Le contenu est organi
 - Avis : `BlogPosting` + `Review` + `Rating` + `Product` + `BreadcrumbList`.
 - Autres articles : `BlogPosting` + `BreadcrumbList`.
 
+## Images (regles strictes)
+
+- **1 image = 1 seule utilisation sur tout le site.** Interdiction d'utiliser le meme fichier sur deux contenus differents. Seules tolerances : la miniature (front matter `image`) reprise mecaniquement par les cartes (home, listings, JSON-LD, hero) de la MEME page, et la version EN du MEME contenu. Avant d'ajouter une image, verifier qu'elle n'est referencee nulle part ailleurs (`grep -r "nom.webp" content layouts themes static`).
+- **Images personnalisees par marque** : pour un contenu qui parle d'une marque (avis, alternative, comparatif), utiliser de vraies photos de la marque (recuperees via Playwright sur le site officiel ou Google Images), pas des visuels generiques. Nommage : `/img/<marque>-<sujet>.webp`.
+- Visuels generiques restants (box1-4, hero1-3, hero-main, split, art-*) : tous deja affectes (home, listings, pilier, guides). Ne pas les reutiliser.
+- Le miroir EN (`static/en/`, HTML statique) doit etre mis a jour A LA MAIN a chaque changement d'image ou de structure d'un contenu FR.
+
+## Pages avis : grille de notes par critere (obligatoire)
+
+Chaque fiche avis comporte, juste apres le bloc "En bref", un H2 "Nos notes <Marque>, critere par critere" avec un tableau notant les 5 criteres communs sur 10. **La moyenne des 5 notes tombe exactement sur la note canonique** de la marque (memoire `project_mbr_notes_box`), rappelee en derniere ligne du tableau avec l'equivalent /5. Les sections du test (H3) reprennent les criteres avec la note dans le titre (ex : "Qualite et gout : 8,0/10").
+
+Criteres communs : Qualite et gout / Variete de la carte / Praticite et flexibilite / Livraison et service client / Rapport qualite-prix.
+
+Notes par critere deja fixees (dans cet ordre) :
+- Seazon (7,2) : 8,0 / 6,5 / 9,5 / 6,5 / 5,5
+- HelloFresh (7,5) : 7,0 / 9,0 / 8,0 / 7,5 / 6,0
+- Quitoque (9,2) : 9,5 / 9,0 / 9,5 / 9,0 / 9,0
+
+Pour une nouvelle fiche avis, definir 5 notes plausibles dont la moyenne = note canonique, et les reporter aussi dans la version EN.
+
 ## Performance (a respecter)
 
 - **Images en WebP uniquement** (convertir avec `cwebp -q 82`). Les referencer en `.webp`.
