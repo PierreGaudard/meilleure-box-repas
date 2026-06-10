@@ -82,6 +82,13 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 - **Fonction auteur** : Rédaction éditoriale
 - **Objectif PBN** : pousser le client Quitoque (box repas) en tête des comparatifs et avis. Maillage des articles vers les contenus poussant Quitoque.
 
+## Cloudflare + tracking Meteoria (depuis 2026-06-10)
+
+- Zone Cloudflare `meilleure-box-repas.fr` (id `0b830f57e2c7eeae64bd9e4695a6ae4e`) sur le compte **Pierretartare94440@gmail.com** (account id `44d4357229b11f589eda8161f06a07ea`), GitHub Pages derrière le proxy.
+- Worker **meteoria-meilleure-box-repas** déployé sur les routes `meilleure-box-repas.fr/*` et `www.meilleure-box-repas.fr/*` : tracking des crawlers IA vers Meteoria (token `mt_73203b4fe7ec4ab6bdb54a7361d2822f`) + bot content override. Source : `workers/meteoria/` (déploiement : `npx wrangler deploy`, token CF dans `workers/meteoria/.env`).
+- Token API CF "wrangler-workers-pbn" (dans `workers/meteoria/.env`) : permissions Workers (scripts + routes) sur TOUTES les zones du compte pierretartare, réutilisable pour les autres sites de ce compte (dirtyswipe, wizyquiz, whiskydegustation).
+- Réglage zone "Block AI bots" passé à **Do not block (allow crawlers)** le 2026-06-10 (sinon Cloudflare renvoyait un 403 aux bots IA avant même le worker). Projet Meteoria : "Meilleure Box Repas" id 4203.
+
 ## Suivi des publications (MEMORY.md)
 
 Le fichier `MEMORY.md` a la racine trace tous les articles publies, classes par semaine. Il est mis a jour automatiquement par `/create-article`.

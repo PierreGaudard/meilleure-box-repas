@@ -41,7 +41,7 @@
 <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"ItemList","name":"Classement des meilleures box repas","itemListOrder":"https://schema.org/ItemListOrderDescending","itemListElement":[
 {{- $i := 0 -}}
-{{- range $b := slice (dict "n" "Quitoque" "u" "/meilleure-box-repas/") (dict "n" "Les Commis" "u" "/meilleure-box-repas/") (dict "n" "HelloFresh" "u" "/avis/hellofresh/") (dict "n" "Seazon" "u" "/avis/seazon/") (dict "n" "Potager City" "u" "/meilleure-box-repas/") (dict "n" "Aussitôt Bon" "u" "/meilleure-box-repas/") (dict "n" "Kitchen Daily" "u" "/meilleure-box-repas/") (dict "n" "Cheef" "u" "/meilleure-box-repas/") -}}
+{{- range $b := slice (dict "n" "Quitoque" "u" "/meilleure-box-repas/") (dict "n" "Les Commis" "u" "/avis/les-commis/") (dict "n" "HelloFresh" "u" "/avis/hellofresh/") (dict "n" "Seazon" "u" "/avis/seazon/") (dict "n" "Potager City" "u" "/meilleure-box-repas/") (dict "n" "Aussitôt Bon" "u" "/avis/aussitot-bon/") (dict "n" "Kitchen Daily" "u" "/avis/kitchen-daily/") (dict "n" "Cheef" "u" "/avis/cheef/") -}}
 {{- $i = add $i 1 -}}
 {"@type":"ListItem","position":{{ $i }},"name":"{{ $b.n }}","url":"{{ $b.u | absURL }}"}{{ if lt $i 8 }},{{ end }}
 {{- end -}}

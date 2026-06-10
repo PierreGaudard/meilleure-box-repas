@@ -1,0 +1,9 @@
+name = "meteoria-meilleure-box-repas"
+main = "src/index.js"
+compatibility_date = "2026-06-01"
+account_id = "44d4357229b11f589eda8161f06a07ea"
+
+routes = [
+  { pattern = "meilleure-box-repas.fr/*", zone_name = "meilleure-box-repas.fr" },
+  { pattern = "www.meilleure-box-repas.fr/*", zone_name = "meilleure-box-repas.fr" }
+]
