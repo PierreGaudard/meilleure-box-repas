@@ -63,18 +63,23 @@
 </script>
 
 {{ if .Params.rating }}
-<!-- JSON-LD Schema.org : Review (pages avis) -->
+<!-- JSON-LD Schema.org : Product + review imbriquée (pages avis). Google exige review/offers/aggregateRating sur l'entité Product, d'où le Product en racine. -->
 <script type="application/ld+json">
 {
     "@context": "https://schema.org",
-    "@type": "Review",
-    "itemReviewed": { "@type": "Product", "name": "{{ .Params.brand | default .Title }}", "category": "Box repas" },
-    "reviewRating": { "@type": "Rating", "ratingValue": "{{ .Params.rating }}", "bestRating": "5", "worstRating": "1" },
-    "author": { "@type": "Organization", "name": "{{ .Site.Title }}" },
-    "publisher": { "@type": "Organization", "name": "{{ .Site.Title }}" },
-    "datePublished": "{{ .Date.Format "2006-01-02" }}",
-    "name": "{{ .Title }}",
-    "reviewBody": "{{ .Description }}"
+    "@type": "Product",
+    "name": "{{ .Params.brand | default .Title }}",
+    "category": "Box repas",
+    {{ with .Params.image }}"image": "{{ $.Site.BaseURL | strings.TrimSuffix "/" }}{{ . }}",{{ end }}
+    "review": {
+        "@type": "Review",
+        "reviewRating": { "@type": "Rating", "ratingValue": "{{ .Params.rating }}", "bestRating": "5", "worstRating": "1" },
+        "author": { "@type": "Organization", "name": "{{ .Site.Title }}" },
+        "publisher": { "@type": "Organization", "name": "{{ .Site.Title }}" },
+        "datePublished": "{{ .Date.Format "2006-01-02" }}",
+        "name": "{{ .Title }}",
+        "reviewBody": "{{ .Description }}"
+    }
 }
 </script>
 {{ end }}
