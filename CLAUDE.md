@@ -82,6 +82,12 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 - **Fonction auteur** : Rédaction éditoriale
 - **Objectif PBN** : pousser le client Quitoque (box repas) en tête des comparatifs et avis. Maillage des articles vers les contenus poussant Quitoque.
 
+## Google Analytics 4 (depuis 2026-06-11)
+
+- Propriété GA4 "meilleure-box-repas.fr" (id 541314178) sur le compte Google **pierretartare94440@gmail.com**, compte GA "Meilleure Box Repas" (397667380). ID de mesure : `G-YJ1ZKE6878`.
+- Tag gtag.js présent dans : `themes/meilleure-box-repas/layouts/_default/baseof.html`, `layouts/index.html` (home standalone), `layouts/404.html`, et injecté dans TOUTES les pages HTML statiques de `static/` (pilier, mentions, miroir EN).
+- Toute NOUVELLE page statique ajoutée dans `static/` doit recevoir le snippet gtag manuellement (copier depuis une page statique existante).
+
 ## Cloudflare + tracking Meteoria (depuis 2026-06-10)
 
 - Zone Cloudflare `meilleure-box-repas.fr` (id `0b830f57e2c7eeae64bd9e4695a6ae4e`) sur le compte **Pierretartare94440@gmail.com** (account id `44d4357229b11f589eda8161f06a07ea`), GitHub Pages derrière le proxy.
