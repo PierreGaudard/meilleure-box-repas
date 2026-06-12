@@ -20,7 +20,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Anton&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="/home.css">
+<link rel="stylesheet" href="/home.css?v=2">
 <style>
 .page-hero{background:var(--coral);color:var(--cream);text-align:center;padding:54px 0 56px}
 .page-hero .crumb{font-size:.85rem;color:rgba(243,236,221,.85);margin-bottom:14px}
@@ -109,7 +109,18 @@ table.cmp .note{font-size:.95rem}
 <button class="burger" aria-label="Menu" onclick="document.getElementById('top').classList.toggle('open')">&#9776;</button>
 <nav>
 <a href="/en/comparison/">Comparison</a>
-<a href="/en/reviews/">Reviews</a>
+<div class="nav-item">
+<a href="/en/reviews/">Reviews <span class="caret" aria-hidden="true">&#9662;</span></a>
+<div class="subnav"><div class="subnav-inner">
+<a href="/en/reviews/quitoque/">Quitoque</a>
+<a href="/en/reviews/les-commis/">Les Commis</a>
+<a href="/en/reviews/hellofresh/">HelloFresh</a>
+<a href="/en/reviews/seazon/">Seazon</a>
+<a href="/en/reviews/aussitot-bon/">Aussitôt Bon</a>
+<a href="/en/reviews/kitchen-daily/">Kitchen Daily</a>
+<a href="/en/reviews/cheef/">Cheef</a>
+</div></div>
+</div>
 <a href="/en/guides/">Guides</a>
 <a href="/en/alternatives/">Alternatives</a>
 </nav>
