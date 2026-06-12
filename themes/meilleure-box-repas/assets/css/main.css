@@ -27,6 +27,13 @@ h1,h2,h3,h4{font-family:var(--font-heading);font-weight:400;text-transform:upper
 .site-nav a{font-weight:700;font-size:1rem;letter-spacing:1.2px;text-transform:uppercase;color:var(--cream);opacity:.95;font-family:var(--font-body)}
 .site-nav a:hover{opacity:1;text-decoration:underline}
 .site-nav a.active{opacity:1;text-decoration:none}
+.nav-item{position:relative}
+.nav-item .caret{font-size:.7em;opacity:.8}
+.subnav{display:none;position:absolute;left:50%;transform:translateX(-50%);top:100%;padding-top:12px;z-index:70}
+.nav-item:hover .subnav,.nav-item:focus-within .subnav{display:block}
+.subnav-inner{background:#fff;border-radius:12px;box-shadow:0 10px 26px rgba(0,0,0,.18);padding:6px;min-width:200px}
+.site-nav .subnav-inner a{display:block;padding:.55rem .95rem;border-radius:8px;color:var(--ink);text-transform:none;letter-spacing:0;font-weight:600;font-size:.98rem}
+.site-nav .subnav-inner a:hover{background:var(--cream);color:var(--coral-d);text-decoration:none}
 .cta{margin-left:18px;background:var(--cream);color:var(--coral);font-weight:700;text-transform:uppercase;font-size:1rem;letter-spacing:.5px;padding:.85rem 1.65rem;border-radius:50px;font-family:var(--font-body)}
 .cta:hover{background:#fff;color:var(--coral-d)}
 @media(max-width:920px){
@@ -35,6 +42,10 @@ h1,h2,h3,h4{font-family:var(--font-heading);font-weight:400;text-transform:upper
   .site-header.open .site-nav{display:flex}
   .cta{display:none;width:100%;text-align:center;margin:0}
   .site-header.open .cta{display:block}
+  .subnav{display:block;position:static;transform:none;padding-top:8px}
+  .subnav-inner{background:transparent;box-shadow:none;padding:0 0 0 16px;min-width:0}
+  .site-nav .subnav-inner a{color:var(--cream);opacity:.85;padding:.3rem 0;border-radius:0}
+  .site-nav .subnav-inner a:hover{background:transparent;color:#fff;opacity:1}
 }
 
 /* --- Hero des listes (catégories, blog) --- */

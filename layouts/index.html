@@ -63,7 +63,14 @@
 <button class="burger" aria-label="Menu" onclick="document.getElementById('top').classList.toggle('open')">&#9776;</button>
 <nav>
 <a href="/comparatif/">Comparatif</a>
-<a href="/avis/">Avis</a>
+<div class="nav-item">
+<a href="/avis/">Avis <span class="caret" aria-hidden="true">&#9662;</span></a>
+<div class="subnav"><div class="subnav-inner">
+{{- range sort (where site.RegularPages "Section" "avis") "Params.rating" "desc" }}
+<a href="{{ .RelPermalink }}">{{ .Params.brand | default .Title }}</a>
+{{- end }}
+</div></div>
+</div>
 <a href="/guides/">Guides</a>
 <a href="/alternatives/">Alternatives</a>
 </nav>

@@ -6,7 +6,16 @@
         <button class="burger" aria-label="Menu" onclick="document.getElementById('top').classList.toggle('open')">&#9776;</button>
         <nav class="site-nav" role="navigation">
             <a href="{{ "/comparatif/" | relURL }}"{{ if eq .RelPermalink "/comparatif/" }} class="active"{{ end }}>Comparatif</a>
-            <a href="{{ "/avis/" | relURL }}"{{ if eq .RelPermalink "/avis/" }} class="active"{{ end }}>Avis</a>
+            <div class="nav-item">
+                <a href="{{ "/avis/" | relURL }}"{{ if eq .Section "avis" }} class="active"{{ end }}>Avis <span class="caret" aria-hidden="true">&#9662;</span></a>
+                <div class="subnav">
+                    <div class="subnav-inner">
+                        {{ range sort (where site.RegularPages "Section" "avis") "Params.rating" "desc" }}
+                        <a href="{{ .RelPermalink }}">{{ .Params.brand | default .Title }}</a>
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
             <a href="{{ "/guides/" | relURL }}"{{ if eq .Section "guides" }} class="active"{{ end }}>Guides</a>
             <a href="{{ "/alternatives/" | relURL }}"{{ if eq .RelPermalink "/alternatives/" }} class="active"{{ end }}>Alternatives</a>
         </nav>

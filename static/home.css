@@ -22,12 +22,24 @@ header.top{background:var(--coral);color:var(--cream);padding:14px 0;position:st
 .top nav a{font-weight:700;font-size:1.04rem;letter-spacing:1.2px;text-transform:uppercase;color:var(--cream);opacity:.95}
 .top nav a:hover{opacity:1;text-decoration:underline}
 .top .cta{margin-left:18px;font-size:1.02rem;padding:.9rem 1.85rem}
+.top nav .nav-item{position:relative}
+.top nav .caret{font-size:.7em;opacity:.8}
+.top nav .subnav{display:none;position:absolute;left:50%;transform:translateX(-50%);top:100%;padding-top:12px;z-index:70}
+.top nav .nav-item:hover .subnav,.top nav .nav-item:focus-within .subnav{display:block}
+.top nav .subnav-inner{background:#fff;border-radius:12px;box-shadow:0 10px 26px rgba(0,0,0,.18);padding:6px;min-width:200px}
+.top nav .subnav-inner a{display:block;padding:.55rem .95rem;border-radius:8px;color:var(--ink);text-transform:none;letter-spacing:0;font-weight:600;font-size:.98rem}
+.top nav .subnav-inner a:hover{background:var(--cream);color:var(--coral-d);text-decoration:none;opacity:1}
+
 @media(max-width:920px){
  .burger{display:block}
  .top nav{display:none;width:100%;flex-direction:column;gap:14px;margin:10px 0 4px}
  .top .cta{display:none;width:100%;text-align:center;margin:0}
  .top.open nav{display:flex}
  .top.open .cta{display:block}
+ .top nav .subnav{display:block;position:static;transform:none;padding-top:8px}
+ .top nav .subnav-inner{background:transparent;box-shadow:none;padding:0 0 0 16px;min-width:0}
+ .top nav .subnav-inner a{color:var(--cream);opacity:.85;padding:.3rem 0;border-radius:0}
+ .top nav .subnav-inner a:hover{background:transparent;color:#fff}
 }
 /* hero */
 .hero{background:var(--coral);color:var(--cream);padding:34px 0 72px}

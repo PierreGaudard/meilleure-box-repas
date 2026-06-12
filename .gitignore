@@ -5,3 +5,4 @@ resources/
 screenshots/
 *.DS_Store
 .datafer/
+.playwright-cli/
