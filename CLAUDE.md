@@ -155,6 +155,8 @@ Le site n'utilise PAS de taxonomie ni de dossier `/blog/`. Le contenu est organi
 
 - **`static/llms.txt`** : NE se met PAS a jour tout seul. Ajouter le nouvel article (titre + URL) dans la bonne rubrique, et mettre a jour le classement/notes si besoin.
 - **`MEMORY.md`** : ajouter la ligne de suivi de publication.
+- **Sous-menu Avis du header** : cote FR il est dynamique (pages de `content/avis/` triees par rating, rien a faire). Cote EN il est code en dur dans les 23 pages statiques de `static/en/` : a chaque nouvel avis, ajouter le lien dans le bloc `subnav-inner` de chaque page EN.
+- **Cache CSS Cloudflare** : le CSS du theme est fingerprinte (URL hashee, rien a faire). `home.css` est versionne a la main (`/home.css?v=N` dans `layouts/index.html` ET les 23 pages `static/en/`) : incrementer N a chaque modif de `home.css`, sinon Cloudflare sert l'ancien CSS pendant 4h.
 - **Notes des box** : toujours reutiliser les memes notes sur tout le site. Reference : memoire `project_mbr_notes_box` (Quitoque 9,2 ... Cheef 6,6 ; note /5 des avis = note/10 ÷ 2).
 
 ## Donnees structurees (JSON-LD) en place
