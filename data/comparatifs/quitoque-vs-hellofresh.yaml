@@ -1,0 +1,37 @@
+sujet: "Quitoque vs HelloFresh"
+maj: "2026-06-13"
+methodo: >-
+  Notes issues de nos tests, sur la même grille de 5 critères que tout notre classement.
+  Chaque marque a été commandée et payée, puis cuisinée sur plusieurs semaines. Prix par
+  assiette relevés sur les sites officiels en juin 2026.
+a:
+  nom: "Quitoque"
+  logo: "/img/logos/quitoque.svg"
+  note10: 9.2
+  note5: "4,6/5"
+  tagline: "Le frais, le local, le choix"
+  prix: "dès 3,83 € l'assiette"
+  avis_url: "/avis/quitoque/"
+  url_officielle: "https://www.quitoque.fr/"
+  gagnant: true
+b:
+  nom: "HelloFresh"
+  logo: "/img/logos/hellofresh.png"
+  note10: 7.5
+  note5: "3,8/5"
+  tagline: "Le catalogue le plus large, le prix d'appel"
+  prix: "5 à 7 € le repas après promo"
+  avis_url: "/avis/hellofresh/"
+  url_officielle: "https://www.hellofresh.fr/"
+  gagnant: false
+criteres:
+  - { label: "Qualité et goût", a: 9.5, b: 7.0 }
+  - { label: "Variété de la carte", a: 9.0, b: 9.0 }
+  - { label: "Praticité et flexibilité", a: 9.5, b: 8.0 }
+  - { label: "Livraison et service client", a: 9.0, b: 7.5 }
+  - { label: "Rapport qualité-prix", a: 9.0, b: 6.0 }
+verdict: >-
+  Sur cinq critères, Quitoque en remporte quatre et fait jeu égal sur la variété de la carte.
+  Pour cuisiner frais, local et de saison sans contrainte, Quitoque est notre choix. HelloFresh
+  reste une excellente porte d'entrée si votre priorité absolue est le prix d'appel et un catalogue
+  géant pour débuter.

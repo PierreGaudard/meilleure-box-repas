@@ -1,0 +1,120 @@
+{{- $key := .Get 0 -}}
+{{- $d := index .Site.Data.comparatifs $key -}}
+{{- $a := $d.a -}}{{- $b := $d.b -}}
+
+<div class="duel" id="duel-{{ $key }}">
+
+  {{/* ---- Tête de duel ---- */}}
+  <div class="duel-head">
+    {{- range slice $a $b -}}
+    <div class="duel-side{{ if .gagnant }} is-winner{{ end }}">
+      {{ if .gagnant }}<span class="duel-crown" title="Notre gagnant">Notre gagnant</span>{{ end }}
+      <img class="duel-logo" src="{{ .logo | relURL }}" alt="Logo {{ .nom }}" loading="lazy">
+      <div class="duel-score"><span class="duel-n">{{ .note10 }}</span><small>/10</small></div>
+      <span class="tstars" aria-hidden="true">★★★★★<b style="width:{{ mul .note10 10 }}%">★★★★★</b></span>
+      <p class="duel-note5">{{ .note5 }}</p>
+      <p class="duel-tag">{{ .tagline }}</p>
+      <p class="duel-prix">{{ .prix }}</p>
+      <a class="duel-btn" href="{{ .avis_url | relURL }}">Lire notre avis</a>
+    </div>
+    {{- end -}}
+    <span class="duel-vs">VS</span>
+  </div>
+
+  {{/* ---- Critère par critère ---- */}}
+  <table class="duel-table">
+    <caption>{{ $d.methodo }}</caption>
+    <thead><tr><th>{{ $a.nom }}</th><th>Critère</th><th>{{ $b.nom }}</th></tr></thead>
+    <tbody>
+    {{- range $d.criteres -}}
+      {{- $awin := gt .a .b -}}{{- $bwin := gt .b .a -}}
+      <tr>
+        <td class="duel-c{{ if $awin }} win{{ end }}">
+          <span class="duel-cn">{{ .a }}</span>
+          <span class="tstars tstars-sm" aria-hidden="true">★★★★★<b style="width:{{ mul .a 10 }}%">★★★★★</b></span>
+        </td>
+        <th scope="row" class="duel-crit">{{ .label }}{{ if $awin }}<span class="duel-flag">{{ $a.nom }}</span>{{ else if $bwin }}<span class="duel-flag">{{ $b.nom }}</span>{{ else }}<span class="duel-flag duel-tie">Égalité</span>{{ end }}</th>
+        <td class="duel-c{{ if $bwin }} win{{ end }}">
+          <span class="duel-cn">{{ .b }}</span>
+          <span class="tstars tstars-sm" aria-hidden="true">★★★★★<b style="width:{{ mul .b 10 }}%">★★★★★</b></span>
+        </td>
+      </tr>
+    {{- end -}}
+    </tbody>
+  </table>
+
+  {{/* ---- Verdict ---- */}}
+  <div class="duel-verdict">
+    <strong>Le verdict</strong>
+    <p>{{ $d.verdict }}</p>
+    <div class="duel-cta">
+      <a class="duel-btn duel-btn-main" href="{{ $a.url_officielle }}" rel="nofollow sponsored noopener" target="_blank">Découvrir {{ $a.nom }}</a>
+      <a class="duel-btn duel-btn-ghost" href="{{ $b.url_officielle }}" rel="nofollow sponsored noopener" target="_blank">Voir {{ $b.nom }}</a>
+    </div>
+  </div>
+</div>
+
+{{/* ---- JSON-LD : 2 Product + AggregateRating ---- */}}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": {{ $d.sujet | jsonify }},
+  "itemListElement": [
+    {{- range $i, $e := slice $a $b }}{{ if $i }},{{ end }}
+    {
+      "@type": "ListItem",
+      "position": {{ add $i 1 }},
+      "item": {
+        "@type": "Product",
+        "name": {{ $e.nom | jsonify }},
+        "image": {{ (printf "%s%s" $.Site.BaseURL (strings.TrimPrefix "/" $e.logo)) | jsonify }},
+        "aggregateRating": { "@type": "AggregateRating", "ratingValue": "{{ $e.note10 }}", "bestRating": "10", "worstRating": "0", "ratingCount": "1" },
+        "review": {
+          "@type": "Review",
+          "reviewRating": { "@type": "Rating", "ratingValue": "{{ $e.note10 }}", "bestRating": "10" },
+          "author": { "@type": "Organization", "name": {{ $.Site.Title | jsonify }} },
+          "reviewBody": {{ $e.tagline | jsonify }}
+        }
+      }
+    }
+    {{- end }}
+  ]
+}
+</script>
+
+<style>
+.duel{--win:#e3573c;--ink:#33201a;--muted:#7a5c52;--bd:#e6d8c4;position:relative;left:50%;transform:translateX(-50%);width:min(1040px,94vw);margin:2.4rem 0}
+.duel-head{display:grid;grid-template-columns:1fr 1fr;gap:1rem;position:relative;align-items:stretch}
+.duel-side{background:#fff;border:2px solid var(--bd);border-radius:16px;padding:1.4rem 1rem 1.2rem;text-align:center;display:flex;flex-direction:column;align-items:center;gap:.35rem}
+.duel-side.is-winner{border-color:var(--win);box-shadow:0 8px 26px rgba(227,87,60,.16)}
+.duel-crown{position:absolute;top:-12px;background:var(--win);color:#fff;font-family:var(--font-heading,inherit);font-size:.72rem;letter-spacing:1px;text-transform:uppercase;padding:.25rem .7rem;border-radius:999px}
+.duel-logo{max-height:46px;max-width:160px;width:auto;height:auto;object-fit:contain;margin:.4rem 0}
+.duel-score{line-height:1}.duel-n{font-size:2.5rem;font-weight:800;color:var(--ink)}.duel-score small{color:var(--muted);font-size:1rem}
+.duel-note5{margin:.1rem 0 0;color:var(--muted);font-size:.85rem}
+.duel-tag{margin:.3rem 0 0;font-weight:600;color:var(--ink);font-size:.92rem}
+.duel-prix{margin:.1rem 0 .4rem;color:var(--muted);font-size:.85rem}
+.duel-vs{position:absolute;top:50%;left:50%;transform:translate(-50%,-50%);background:var(--ink);color:#fff;width:46px;height:46px;border-radius:50%;display:grid;place-items:center;font-weight:800;font-size:.95rem;border:3px solid var(--cream,#f3ecdd);z-index:2}
+.duel-btn{display:inline-block;border:1.5px solid var(--win);color:var(--win);background:#fff;text-decoration:none;padding:.45rem .9rem;border-radius:9px;font-weight:700;font-size:.85rem;margin-top:.3rem}
+.duel-btn:hover{background:var(--win);color:#fff}
+.duel-table{width:100%;border-collapse:collapse;margin:1.4rem 0;background:#fff;border:1px solid var(--bd);border-radius:14px;overflow:hidden}
+.duel-table caption{caption-side:bottom;text-align:left;font-size:.74rem;color:var(--muted);padding:.7rem .9rem;line-height:1.45}
+.duel-table thead th{background:var(--ink);color:#fff;padding:.65rem;font-size:.9rem;width:34%}
+.duel-table thead th:nth-child(2){width:32%}
+.duel-table td,.duel-table tbody th{border-top:1px solid var(--bd);padding:.7rem .6rem;text-align:center;vertical-align:middle}
+.duel-crit{font-weight:700;color:var(--ink);font-size:.92rem;display:flex;flex-direction:column;gap:.25rem;align-items:center}
+.duel-flag{font-size:.68rem;font-weight:700;text-transform:uppercase;letter-spacing:.4px;color:var(--win);background:#fbe7e1;padding:.12rem .5rem;border-radius:999px}
+.duel-flag.duel-tie{color:var(--muted);background:#efe6d3}
+.duel-c{position:relative}
+.duel-c.win{background:#fdf2ee}
+.duel-cn{display:block;font-size:1.3rem;font-weight:800;color:var(--ink)}
+.tstars-sm{font-size:.8rem}
+.duel-verdict{background:#fff;border:1px solid var(--bd);border-left:5px solid var(--win);border-radius:12px;padding:1.1rem 1.2rem}
+.duel-verdict strong{font-family:var(--font-heading,inherit);text-transform:uppercase;letter-spacing:.5px;color:var(--win)}
+.duel-verdict p{margin:.4rem 0 .8rem}
+.duel-cta{display:flex;flex-wrap:wrap;gap:.7rem}
+.duel-btn-main{background:var(--win);color:#fff;margin:0}
+.duel-btn-main:hover{filter:brightness(.93)}
+.duel-btn-ghost{margin:0}
+@media(max-width:640px){.duel-n{font-size:2rem}.duel-logo{max-height:36px}.duel-vs{width:38px;height:38px;font-size:.8rem}}
+</style>
