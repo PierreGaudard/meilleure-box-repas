@@ -8,9 +8,10 @@
                 <a href="{{ .RelPermalink }}" class="article-category">{{ .Title }}</a>
                 {{ end }}
                 <time datetime="{{ .Date.Format "2006-01-02" }}">{{ time.Format ":date_long" .Date }}</time>
+                {{ if .Lastmod.After .Date }}<time class="article-updated" datetime="{{ .Lastmod.Format "2006-01-02" }}">Mis à jour le {{ time.Format ":date_long" .Lastmod }}</time>{{ end }}
                 <span class="reading-time">{{ .ReadingTime }} min de lecture</span>
             </div>
-            <h1>{{ .Title }}</h1>
+            <h1>{{ .Params.h1 | default .Title }}</h1>
             {{ with .Description }}
             <p class="article-description">{{ . }}</p>
             {{ end }}
