@@ -71,6 +71,7 @@
     "name": "{{ .Params.brand | default .Title }}",
     "category": "Box repas",
     {{ with .Params.image }}"image": "{{ $.Site.BaseURL | strings.TrimSuffix "/" }}{{ . }}",{{ end }}
+    "aggregateRating": { "@type": "AggregateRating", "ratingValue": "{{ .Params.rating }}", "bestRating": "5", "worstRating": "1", "ratingCount": "1", "reviewCount": "1" },
     "review": {
         "@type": "Review",
         "reviewRating": { "@type": "Rating", "ratingValue": "{{ .Params.rating }}", "bestRating": "5", "worstRating": "1" },
