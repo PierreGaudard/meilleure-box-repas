@@ -20,7 +20,7 @@ Pour élargir la comparaison à **toutes** les marques, passez par notre [compar
 
 {{< duel "quitoque-vs-hellofresh" >}}
 
-![Une box Quitoque face à une box HelloFresh](/img/quitoque-plat.webp)
+![Deux plats cuisinés à partir des box Quitoque et HelloFresh](/img/quitoque-hellofresh-plats.webp)
 
 ## Fraîcheur et origine des produits
 
