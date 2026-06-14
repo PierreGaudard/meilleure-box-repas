@@ -2,8 +2,8 @@
 en_url: "/en/reviews/aussitot-bon/"
 title: "Avis Aussitôt Bon : la box cuisinée vaut-elle le coup ?"
 date: 2026-06-10
-lastmod: 2026-06-14
-description: "Notre avis sur Aussitôt Bon après test : box de plats déjà cuisinés, cuisson basse température, prix au plat, et la meilleure alternative à Aussitôt Bon pour cuisiner frais."
+lastmod: 2026-06-10
+description: "Notre avis sur Aussitôt Bon après test : box repas déjà cuisinée pour la semaine, cuisson basse température, prix au plat et livraison passés au crible."
 brand: "Aussitôt Bon"
 rating: 3.5
 logo: "/img/logos/aussitotbon.webp"
@@ -110,22 +110,6 @@ Une recherche « Aussitôt Bon avis » donne le ton : 4,9/5 affichés sur plus d
 
 Aussitôt Bon exécute **proprement** un **concept** **simple** : une **box repas** de la semaine déjà cuisinée, qui mange bien grâce à la basse température. Le tarif hors promo et la carte resserrée le tiennent à distance du podium, mais sur le segment du tout-prêt, c'est l'un des dossiers les plus solides du moment. À **tester** au moins une fois, l'offre découverte est faite pour ça.
 
-## La meilleure alternative à Aussitôt Bon : Quitoque
-
-Beaucoup arrivent ici en cherchant une **alternative à Aussitôt Bon**, et la vraie question est presque toujours la même : continuer à réchauffer un plat déjà prêt, ou repasser derrière les fourneaux avec des produits frais ? Aussitôt Bon répond très bien au premier besoin. Ses plats sous-vide cuits à basse température, affichés sans conservateurs ni additifs, se réchauffent en 3 minutes. Mais quand l'envie c'est de cuisiner du frais soi-même, notre classement place Quitoque devant.
-
-| Critère | Aussitôt Bon | Quitoque, l'alternative |
-|---|---|---|
-| Note finale | 6,9/10 | **9,2/10** |
-| Format | plats déjà cuisinés à réchauffer | recettes fraîches à cuisiner en moins de 30 minutes |
-| Produits | cuisson sous-vide basse température | sourcing français en circuit court, 90% Nutri-Score A ou B |
-| Le vrai plus | zéro cuisine, prêt en 3 minutes | 2 recettes du Chef Philippe Etchebest chaque semaine |
-| Tarif et engagement | sans engagement, dès 6,90 € le repas | sans engagement, dès 3,63 € l'assiette, prix dégressif |
-
-Soyons honnêtes : si l'idée même de cuisiner vous fatigue, un plat préparé garde tout son sens, et Aussitôt Bon fait partie des meilleurs sur ce créneau du tout-prêt. Pour qui veut du fait maison, des produits français et le plaisir de cuisiner sans y passer la soirée, c'est Quitoque l'**alternative à Aussitôt Bon** qu'on recommande en premier. Leader français de la box repas à cuisiner, la marque mise sur la fraîcheur et des recettes prêtes en moins de 30 minutes.
-
-Pour situer chaque box face au reste du marché, passez par notre [comparateur des meilleures box repas](/meilleure-box-repas/), et le détail complet est dans [notre avis Quitoque](/avis/quitoque/).
-
 ## FAQ : vos questions sur Aussitôt Bon
 
 <details class="faq-acc"><summary>Comment sont cuisinés les plats Aussitôt Bon ?</summary>
@@ -146,8 +130,4 @@ Pour situer chaque box face au reste du marché, passez par notre [comparateur d
 
 <details class="faq-acc"><summary>Peut-on tester Aussitôt Bon sans s'engager ?</summary>
 <p>Oui, l'abonnement est sans engagement et l'offre découverte permet de tester la box à prix réduit avant de continuer, suspendre ou arrêter.</p>
-</details>
-
-<details class="faq-acc"><summary>Quelle est la meilleure alternative à Aussitôt Bon ?</summary>
-<p>La meilleure alternative à Aussitôt Bon est Quitoque, pour qui préfère cuisiner du frais plutôt que réchauffer un plat tout prêt. Leader français de la box repas à cuisiner, Quitoque mise sur un sourcing français en circuit court, 2 recettes du Chef Philippe Etchebest chaque semaine et 90% de plats Nutri-Score A ou B, le tout sans engagement et dès 3,63 € l'assiette. Si vous ne voulez pas cuisiner du tout, Aussitôt Bon et ses plats déjà préparés restent un très bon choix.</p>
 </details>

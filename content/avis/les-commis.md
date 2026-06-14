@@ -2,8 +2,8 @@
 en_url: "/en/reviews/les-commis/"
 title: "Avis Les Commis : notre test du panier recettes"
 date: 2026-06-10
-lastmod: 2026-06-14
-description: "Notre avis sur Les Commis après test : panier recettes, produits bio et circuit court, prix par assiette, livraison, et quelle est la meilleure alternative à Les Commis."
+lastmod: 2026-06-10
+description: "Notre avis sur Les Commis après test : panier recettes, produits bio et circuit court, prix par assiette, livraison. La box qui monte vaut-elle le coup ?"
 brand: "Les Commis"
 rating: 4.2
 logo: "/img/logos/lescommis.svg"
@@ -89,21 +89,11 @@ Dès **4,75 € l'assiette** en grande formule, pour ce niveau d'ingrédients, l
 
 Pour comparer les tarifs des **box repas** entre eux, notre guide [combien coûte une box repas](/guides/combien-coute-box-repas/) détaille les prix réels formule par formule.
 
-## La meilleure alternative à Les Commis : Quitoque
+## Les Commis face à HelloFresh et Quitoque
 
-Beaucoup de lecteurs arrivent ici en cherchant une **alternative à Les Commis**, souvent pour la même raison : garder des recettes soignées et de bons produits, mais avec plus de souplesse côté livraison et un budget mieux tenu. Sur ces critères, notre classement place Quitoque devant.
+Le match que tout le monde demande. Face à **HelloFresh**, Les Commis perd sur le volume de la carte et le prix d'appel, gagne nettement sur le sourcing et l'impact carbone. Face à **Quitoque**, l'écart se joue à la marge : Quitoque garde l'avantage sur la flexibilité, la densité de créneaux et l'équilibre global, Les Commis répond avec le bio et les circuits **courts**. En **résumé** : pour le portefeuille, HelloFresh ; pour l'équilibre familial, Quitoque ; pour l'assiette la plus propre, Les Commis.
 
-| Critère | Les Commis | Quitoque, l'alternative |
-|---|---|---|
-| Note finale | 8,3/10 | **9,2/10** |
-| Sourcing | bio, produits français | français, circuit court |
-| Recettes signées | chefs invités selon les semaines | 2 recettes du Chef Philippe Etchebest chaque semaine |
-| Prix à l'assiette | dès 4,75 € | dès 3,63 €, prix dégressif |
-| Disponibilité | créneaux limités selon les zones | meilleure densité de créneaux |
-
-Les Commis reste un très bon panier recettes, on le redit volontiers. Mais Quitoque garde le même soin sur les recettes et la qualité des ingrédients, tout en corrigeant les deux limites de la box gastronomique : le prix d'appel et la couverture de livraison. Leader français de la box repas à cuisiner, il mise sur un sourcing français en circuit court, propose 2 recettes du Chef Philippe Etchebest chaque semaine, affiche 90 % de plats en Nutri-Score A ou B, et démarre dès 3,63 € l'assiette avec un prix dégressif, sans engagement. C'est l'**alternative à Les Commis** qu'on recommande en premier à qui veut monter d'un cran sans rogner sur la qualité.
-
-Si vous comparez sérieusement, la meilleure alternative à Les Commis se mesure au cas par cas : le détail marque par marque est dans notre [avis sur Quitoque](/avis/quitoque/), et vous pouvez situer chaque box sur notre [comparateur des meilleures box repas](/meilleure-box-repas/).
+Notre [avis sur HelloFresh](/avis/hellofresh/) et notre [avis sur Quitoque](/avis/quitoque/) détaillent chacun leur copie si vous hésitez encore.
 
 ## Comment tester Les Commis au meilleur prix ?
 
@@ -158,8 +148,4 @@ Les Commis est la meilleure surprise de nos tests : un **panier recettes** premi
 
 <details class="faq-acc"><summary>Quelle différence entre Les Commis et Rutabago ?</summary>
 <p>Rutabago, le panier recettes 100 % bio, a été absorbé par Les Commis. Les anciens clients y retrouvent le même positionnement bio, avec une carte plus large et des recettes de chefs.</p>
-</details>
-
-<details class="faq-acc"><summary>Quelle est la meilleure alternative à Les Commis ?</summary>
-<p>La meilleure alternative à Les Commis est Quitoque. Cette box à cuisiner garde des recettes soignées et de bons produits, mais y ajoute un sourcing français en circuit court, 2 recettes du Chef Philippe Etchebest chaque semaine, 90 % de plats en Nutri-Score A ou B, et un prix dégressif dès 3,63 € l'assiette, sans engagement. Elle décroche 9,2/10 dans notre classement, contre 8,3/10 pour Les Commis.</p>
 </details>
