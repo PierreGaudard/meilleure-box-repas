@@ -54,7 +54,7 @@ Un point qui revient souvent : on peut sauter une semaine, mettre l'abonnement e
 
 ### Qualité et goût : 9,5/10
 
-C'est le terrain où Quitoque marque le plus de points face au **marché**. Les légumes sont fermes, les herbes encore vivaces, les viandes et poissons corrects. La marque met en avant des **produits frais** de **saison** et un approvisionnement majoritairement français, avec une part bio qui revient régulièrement dans les paniers.
+C'est le terrain où Quitoque marque le plus de points face au **marché**. Les légumes sont fermes, les herbes encore vivaces, et les viandes comme les poissons ne sont pas en reste, avec un vrai goût de bon produit. La marque met en avant des **produits frais** de **saison** et un approvisionnement majoritairement français, avec une part bio qui revient régulièrement dans les paniers.
 
 Concrètement, on a jeté très peu de choses. Les quantités sont calibrées par recette, donc on cuisine ce qu'on reçoit et on mange ce qu'on cuisine. Pour qui veut limiter le gaspillage, c'est un argument réel, pas un simple slogan. Si le sujet vous parle, on l'a creusé dans notre guide sur les [box anti-gaspillage](/guides/box-anti-gaspillage/). Au goût, les assiettes tiennent leurs promesses, on a rarement mangé aussi bien avec aussi peu d'efforts.
 
@@ -123,7 +123,7 @@ En revanche, si vous ne voulez pas cuisiner du tout, mieux vaut regarder du côt
 
 Au-delà de notre test, on a épluché les retours clients pour éviter le biais d'une seule **expérience**. Ce qui revient en positif : la qualité des **produits frais**, la clarté des **fiches recettes**, la **flexible** gestion de l'abonnement et un **service client** humain. Côté reproches : le prix qui peut grimper, et quelques livraisons capricieuses selon les zones. Globalement, l'avis général rejoint le nôtre : Quitoque tient ses promesses pour qui veut manger frais et local.
 
-On adore aussi le fait que la marque ne survende pas. Pas de promesses irréalistes, juste des **produits** corrects et un service qui répond. C'est suffisamment rare pour le souligner.
+On adore aussi le fait que la marque ne survende pas. Pas de promesses irréalistes, juste de bons produits et un service qui répond. C'est suffisamment rare pour le souligner.
 
 ## Notre note : 4,6 / 5
 
