@@ -5,7 +5,7 @@ date: 2026-06-04
 lastmod: 2026-06-10
 description: "Le guide pour choisir sa box repas sans se tromper : budget, nombre de personnes, fréquence, type de produits et flexibilité de l'abonnement."
 image: "/img/hero2.webp"
-author: "La rédaction Meilleure Box Repas"
+author: "Benjamin Bourgoin"
 draft: false
 ---
 

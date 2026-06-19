@@ -11,7 +11,7 @@
       {{ if .gagnant }}<span class="duel-crown" title="Notre gagnant">Notre gagnant</span>{{ end }}
       <img class="duel-logo" src="{{ .logo | relURL }}" alt="Logo {{ .nom }}" loading="lazy">
       <div class="duel-score"><span class="duel-n">{{ .note10 }}</span><small>/10</small></div>
-      <span class="tstars" aria-hidden="true">★★★★★<b style="width:{{ mul .note10 10 }}%">★★★★★</b></span>
+      <span class="tstars" aria-hidden="true" style="--p:{{ mul .note10 10 }}%"></span>
       <p class="duel-note5">{{ .note5 }}</p>
       <p class="duel-tag">{{ .tagline }}</p>
       <p class="duel-prix">{{ .prix }}</p>
@@ -31,12 +31,12 @@
       <tr>
         <td class="duel-c{{ if $awin }} win{{ end }}">
           <span class="duel-cn">{{ .a }}</span>
-          <span class="tstars tstars-sm" aria-hidden="true">★★★★★<b style="width:{{ mul .a 10 }}%">★★★★★</b></span>
+          <span class="tstars tstars-sm" aria-hidden="true" style="--p:{{ mul .a 10 }}%"></span>
         </td>
         <th scope="row" class="duel-crit">{{ .label }}{{ if $awin }}<span class="duel-flag">{{ $a.nom }}</span>{{ else if $bwin }}<span class="duel-flag">{{ $b.nom }}</span>{{ else }}<span class="duel-flag duel-tie">Égalité</span>{{ end }}</th>
         <td class="duel-c{{ if $bwin }} win{{ end }}">
           <span class="duel-cn">{{ .b }}</span>
-          <span class="tstars tstars-sm" aria-hidden="true">★★★★★<b style="width:{{ mul .b 10 }}%">★★★★★</b></span>
+          <span class="tstars tstars-sm" aria-hidden="true" style="--p:{{ mul .b 10 }}%"></span>
         </td>
       </tr>
     {{- end -}}

@@ -5,7 +5,7 @@ date: 2026-06-06
 lastmod: 2026-06-10
 description: "Rutabago, pionnier de la box repas bio, a rejoint Les Commis. Voici les meilleures alternatives à Rutabago pour une box à cuisiner bio et de saison."
 image: "/img/lescommis-fondateurs.webp"
-author: "La rédaction Meilleure Box Repas"
+author: "Benjamin Bourgoin"
 draft: false
 ---
 

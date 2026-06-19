@@ -8,7 +8,7 @@ brand: "Les Commis"
 rating: 4.2
 logo: "/img/logos/lescommis.svg"
 image: "/img/lescommis-colis.webp"
-author: "La rédaction Meilleure Box Repas"
+author: "Benjamin Bourgoin"
 draft: false
 ---
 
@@ -16,7 +16,7 @@ HelloFresh et Quitoque se partagent la lumière, et pendant ce temps Les Commis 
 
 <div class="enbref">
 <span class="lbl">En bref</span>
-<p><strong>Les Commis est le panier recettes le plus qualitatif du marché</strong> côté sourcing : produits français et bio, circuits **courts**, fiches recettes soignées. Il se hisse juste derrière Quitoque dans notre classement, freiné par une livraison moins souple et un **prix** d'appel un peu plus haut.</p>
+<p><strong>Les Commis est le panier recettes le plus qualitatif du marché</strong> côté sourcing : produits français et bio, circuits <strong>courts</strong>, fiches recettes soignées. Il se hisse juste derrière Quitoque dans notre classement, freiné par une livraison moins souple et un <strong>prix</strong> d'appel un peu plus haut.</p>
 <ul>
 <li><strong>Note finale :</strong> 4,2/5</li>
 <li><strong>Points forts :</strong> qualité des ingrédients, bio et circuit court, recettes de chefs</li>
@@ -31,12 +31,12 @@ On note toutes les **box repas** sur la même grille de 5 critères. La note fin
 
 | Critère | Note | Ce qu'on retient |
 |---|---|---|
-| Qualité et goût | 9,0/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:90%">★★★★★</b></span> | Ingrédients bio et français remarquables, le meilleur sourcing testé |
-| Variété de la carte | 8,0/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:80%">★★★★★</b></span> | Carte hebdomadaire riche, recettes originales signées par des chefs |
-| Praticité et flexibilité | 7,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:75%">★★★★★</b></span> | Abonnement sans engagement, recettes en 20 minutes, un poil moins fluide |
-| Livraison et service client | 8,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:85%">★★★★★</b></span> | Livraison partout en France, emballages propres, SAV attentif |
-| Rapport qualité-prix | 8,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:85%">★★★★★</b></span> | Dès 4,75 € l'assiette, très correct vu la qualité bio |
-| **Note finale Les Commis** | **8,3/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:83%">★★★★★</b></span>** | **Soit 4,2/5, la note affichée sur cette fiche** |
+| Qualité et goût | 9,0/10<br><span class="tstars" aria-hidden="true" style="--p:90%"></span> | Ingrédients bio et français remarquables, le meilleur sourcing testé |
+| Variété de la carte | 8,0/10<br><span class="tstars" aria-hidden="true" style="--p:80%"></span> | Carte hebdomadaire riche, recettes originales signées par des chefs |
+| Praticité et flexibilité | 7,5/10<br><span class="tstars" aria-hidden="true" style="--p:75%"></span> | Abonnement sans engagement, recettes en 20 minutes, un poil moins fluide |
+| Livraison et service client | 8,5/10<br><span class="tstars" aria-hidden="true" style="--p:85%"></span> | Livraison partout en France, emballages propres, SAV attentif |
+| Rapport qualité-prix | 8,5/10<br><span class="tstars" aria-hidden="true" style="--p:85%"></span> | Dès 4,75 € l'assiette, très correct vu la qualité bio |
+| **Note finale Les Commis** | **8,3/10<br><span class="tstars" aria-hidden="true" style="--p:83%"></span>** | **Soit 4,2/5, la note affichée sur cette fiche** |
 
 Pour voir où ce 8,3/10 place Les Commis face aux **autres** **marques**, consultez notre [comparateur des meilleures box repas](/meilleure-box-repas/).
 

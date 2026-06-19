@@ -6,7 +6,7 @@ date: 2026-05-26
 lastmod: 2026-06-14
 description: "Comparatif Quitoque ou HelloFresh : fraîcheur, choix de recettes, prix et flexibilité. On compare les deux marques point par point pour vous aider à choisir."
 image: "/img/quitoque-vs-hellofresh-2026.webp"
-author: "La rédaction Meilleure Box Repas"
+author: "Benjamin Bourgoin"
 draft: false
 ---
 

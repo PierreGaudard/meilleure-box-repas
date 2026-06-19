@@ -49,7 +49,8 @@
 .article-header .article-category{background:var(--maroon)}
 .article-header h1{font-size:3.4rem;color:var(--cream);max-width:18ch;margin:6px auto 0}
 .article-header .article-description{font-family:var(--font-body);text-transform:none;letter-spacing:0;font-size:1.15rem;max-width:640px;margin:16px auto 0;opacity:.95}
-.article-author{margin-top:18px;font-family:var(--font-body)}
+.article-author{margin-top:18px;font-family:var(--font-body);display:flex;align-items:center;gap:10px}
+.author-avatar{width:44px;height:44px;border-radius:50%;object-fit:cover;flex:0 0 auto}
 .author-label{opacity:.85;font-size:.85rem}
 .author-name{font-weight:700}
 .article-header .article-tags{justify-content:center;margin-top:18px}
@@ -119,6 +120,8 @@
 .article-content .faq-acc[open] summary::after{content:"\2013"}
 .article-content .faq-acc p{padding:0 0 16px;margin:0}
 
-/* Etoiles fractionnees dans les tableaux de notes des avis */
-.article-content .tstars{position:relative;display:inline-block;line-height:1;letter-spacing:2px;color:#d3c9ba;white-space:nowrap;font-size:.95rem}
-.article-content .tstars b{position:absolute;left:0;top:0;overflow:hidden;white-space:nowrap;color:#e3573c;font-weight:400}
+/* Etoiles fractionnees dans les tableaux de notes des avis.
+   Glyphes ★ generes en CSS (invisibles pour l'extraction texte des IA). */
+.article-content .tstars{position:relative;display:inline-block;line-height:1;letter-spacing:2px;color:#d3c9ba;white-space:nowrap;font-size:.95rem;vertical-align:middle}
+.article-content .tstars::before{content:"\2605\2605\2605\2605\2605"}
+.article-content .tstars::after{content:"\2605\2605\2605\2605\2605";position:absolute;left:0;top:0;overflow:hidden;white-space:nowrap;color:#e3573c;width:var(--p,0)}

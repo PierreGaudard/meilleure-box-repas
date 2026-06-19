@@ -5,7 +5,7 @@ date: 2026-06-05
 lastmod: 2026-06-10
 description: "Prix au repas, frais de livraison, codes promo : on décortique le budget réel d'une box repas sur un mois complet pour éviter les mauvaises surprises."
 image: "/img/hero3.webp"
-author: "La rédaction Meilleure Box Repas"
+author: "Benjamin Bourgoin"
 draft: false
 ---
 

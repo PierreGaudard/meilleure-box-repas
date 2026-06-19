@@ -8,7 +8,7 @@ brand: "Cheef"
 rating: 3.3
 logo: "/img/logos/cheef.svg"
 image: "/img/cheef-box.webp"
-author: "La rédaction Meilleure Box Repas"
+author: "Benjamin Bourgoin"
 draft: false
 ---
 
@@ -31,12 +31,12 @@ On note toutes les box repas sur la même grille de 5 critères. La note finale 
 
 | Critère | Note | Ce qu'on retient |
 |---|---|---|
-| Qualité et goût | 7,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:75%">★★★★★</b></span> | Plats corrects et frais, bons pour du minceur, inégaux selon les recettes |
-| Variété de la carte | 5,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:55%">★★★★★</b></span> | Le programme guide les menus, on choisit moins qu'ailleurs |
-| Praticité et flexibilité | 7,0/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:70%">★★★★★</b></span> | Tout est calibré et prêt en quelques minutes, mais le cadre est rigide |
-| Livraison et service client | 6,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:65%">★★★★★</b></span> | Colis isotherme fiable, diététiciennes joignables, délais corrects |
-| Rapport qualité-prix | 6,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:65%">★★★★★</b></span> | Dès 4,90 € le plat, honnête pour du minceur suivi, budget mensuel réel |
-| **Note finale Cheef** | **6,6/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:66%">★★★★★</b></span>** | **Soit 3,3/5, la note affichée sur cette fiche** |
+| Qualité et goût | 7,5/10<br><span class="tstars" aria-hidden="true" style="--p:75%"></span> | Plats corrects et frais, bons pour du minceur, inégaux selon les recettes |
+| Variété de la carte | 5,5/10<br><span class="tstars" aria-hidden="true" style="--p:55%"></span> | Le programme guide les menus, on choisit moins qu'ailleurs |
+| Praticité et flexibilité | 7,0/10<br><span class="tstars" aria-hidden="true" style="--p:70%"></span> | Tout est calibré et prêt en quelques minutes, mais le cadre est rigide |
+| Livraison et service client | 6,5/10<br><span class="tstars" aria-hidden="true" style="--p:65%"></span> | Colis isotherme fiable, diététiciennes joignables, délais corrects |
+| Rapport qualité-prix | 6,5/10<br><span class="tstars" aria-hidden="true" style="--p:65%"></span> | Dès 4,90 € le plat, honnête pour du minceur suivi, budget mensuel réel |
+| **Note finale Cheef** | **6,6/10<br><span class="tstars" aria-hidden="true" style="--p:66%"></span>** | **Soit 3,3/5, la note affichée sur cette fiche** |
 
 Pour situer ce 6,6/10 face aux autres marques, direction notre [comparateur des meilleures box repas](/meilleure-box-repas/).
 

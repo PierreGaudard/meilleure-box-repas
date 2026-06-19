@@ -8,7 +8,7 @@ brand: "Kitchen Daily"
 rating: 3.4
 logo: "/img/logos/kitchen-daily.svg"
 image: "/img/kitchendaily-barquettes.webp"
-author: "La rédaction Meilleure Box Repas"
+author: "Benjamin Bourgoin"
 draft: false
 ---
 
@@ -16,7 +16,7 @@ Des **plats préparés** signés par un chef trois étoiles, livrés chez vous d
 
 <div class="enbref">
 <span class="lbl">En bref</span>
-<p><strong>Kitchen Daily livre des plats préparés frais, élaborés avec Mauro Colagreco</strong>, à partir de 5 € le plat. Plus de 25 recettes par semaine, livraison en 48-72h, sans engagement. Une **expérience** sérieuse au **quotidien**, freinée par des portions parfois justes et une carte qui se répète.</p>
+<p><strong>Kitchen Daily livre des plats préparés frais, élaborés avec Mauro Colagreco</strong>, à partir de 5 € le plat. Plus de 25 recettes par semaine, livraison en 48-72h, sans engagement. Une <strong>expérience</strong> sérieuse au <strong>quotidien</strong>, freinée par des portions parfois justes et une carte qui se répète.</p>
 <ul>
 <li><strong>Note finale :</strong> 3,4/5</li>
 <li><strong>Points forts :</strong> prix d'appel, caution culinaire réelle, prêt en 2 minutes</li>
@@ -31,12 +31,12 @@ On note toutes les box **repas** sur la même grille de 5 critères. La note fin
 
 | Critère | Note | Ce qu'on retient |
 |---|---|---|
-| Qualité et goût | 7,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:75%">★★★★★</b></span> | Vraie patte culinaire, sauces travaillées, au-dessus du plat préparé moyen |
-| Variété de la carte | 6,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:65%">★★★★★</b></span> | 25+ recettes par semaine, mais des redites au fil des commandes |
-| Praticité et flexibilité | 7,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:75%">★★★★★</b></span> | Prêt en 2 minutes, abonnement modifiable en un clic, sans engagement |
-| Livraison et service client | 6,0/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:60%">★★★★★</b></span> | Livraison 48-72h du lundi au samedi, transporteur inégal selon les zones |
-| Rapport qualité-prix | 6,0/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:60%">★★★★★</b></span> | Dès 5 € le plat en grande formule, mais portions parfois justes |
-| **Note finale Kitchen Daily** | **6,7/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:67%">★★★★★</b></span>** | **Soit 3,4/5, la note affichée sur cette fiche** |
+| Qualité et goût | 7,5/10<br><span class="tstars" aria-hidden="true" style="--p:75%"></span> | Vraie patte culinaire, sauces travaillées, au-dessus du plat préparé moyen |
+| Variété de la carte | 6,5/10<br><span class="tstars" aria-hidden="true" style="--p:65%"></span> | 25+ recettes par semaine, mais des redites au fil des commandes |
+| Praticité et flexibilité | 7,5/10<br><span class="tstars" aria-hidden="true" style="--p:75%"></span> | Prêt en 2 minutes, abonnement modifiable en un clic, sans engagement |
+| Livraison et service client | 6,0/10<br><span class="tstars" aria-hidden="true" style="--p:60%"></span> | Livraison 48-72h du lundi au samedi, transporteur inégal selon les zones |
+| Rapport qualité-prix | 6,0/10<br><span class="tstars" aria-hidden="true" style="--p:60%"></span> | Dès 5 € le plat en grande formule, mais portions parfois justes |
+| **Note finale Kitchen Daily** | **6,7/10<br><span class="tstars" aria-hidden="true" style="--p:67%"></span>** | **Soit 3,4/5, la note affichée sur cette fiche** |
 
 Pour situer ce 6,7/10 face aux **autres** services, jetez un oeil à notre [comparateur des meilleures box repas](/meilleure-box-repas/).
 

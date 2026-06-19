@@ -13,7 +13,8 @@ disableKinds = ["taxonomy", "term"]
 
 [params]
   description = "Comparatifs, avis et guides pour choisir la meilleure box repas. Tests indépendants des principaux services de paniers recettes livrés à domicile."
-  author = "La rédaction Meilleure Box Repas"
+  author = "Benjamin Bourgoin"
+  author_image = "/img/benjamin-bourgoin.webp"
   # Palette (DA adaptée) — voir themes/meilleure-box-repas/assets/css/main.css
   primary = "#3f0791"
   accent = "#d034a2"

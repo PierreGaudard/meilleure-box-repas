@@ -8,7 +8,7 @@ brand: "Seazon"
 rating: 3.6
 logo: "/img/logos/seazon.svg"
 image: "/img/seazon-box.webp"
-author: "La rédaction Meilleure Box Repas"
+author: "Benjamin Bourgoin"
 draft: false
 ---
 
@@ -31,12 +31,12 @@ On note toutes les box repas sur la même grille de 5 critères. La note finale 
 
 | Critère | Note | Ce qu'on retient |
 |---|---|---|
-| Qualité et goût | 8,0/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:80%">★★★★★</b></span> | Plats frais et savoureux, loin du plat industriel |
-| Variété de la carte | 6,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:65%">★★★★★</b></span> | Carte qui tourne, mais choix plus restreint qu'ailleurs |
-| Praticité et flexibilité | 9,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:95%">★★★★★</b></span> | Zéro cuisine, abonnement sans engagement, pause en un clic |
-| Livraison et service client | 6,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:65%">★★★★★</b></span> | Colis isotherme sérieux, SAV réactif, transporteur parfois capricieux |
-| Rapport qualité-prix | 5,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:55%">★★★★★</b></span> | 6 à 9 € le plat, la praticité se paye |
-| **Note finale Seazon** | **7,2/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:72%">★★★★★</b></span>** | **Soit 3,6/5, la note affichée sur cette fiche** |
+| Qualité et goût | 8,0/10<br><span class="tstars" aria-hidden="true" style="--p:80%"></span> | Plats frais et savoureux, loin du plat industriel |
+| Variété de la carte | 6,5/10<br><span class="tstars" aria-hidden="true" style="--p:65%"></span> | Carte qui tourne, mais choix plus restreint qu'ailleurs |
+| Praticité et flexibilité | 9,5/10<br><span class="tstars" aria-hidden="true" style="--p:95%"></span> | Zéro cuisine, abonnement sans engagement, pause en un clic |
+| Livraison et service client | 6,5/10<br><span class="tstars" aria-hidden="true" style="--p:65%"></span> | Colis isotherme sérieux, SAV réactif, transporteur parfois capricieux |
+| Rapport qualité-prix | 5,5/10<br><span class="tstars" aria-hidden="true" style="--p:55%"></span> | 6 à 9 € le plat, la praticité se paye |
+| **Note finale Seazon** | **7,2/10<br><span class="tstars" aria-hidden="true" style="--p:72%"></span>** | **Soit 3,6/5, la note affichée sur cette fiche** |
 
 Pour situer ce 7,2/10 face aux autres marques, utilisez notre [comparateur des meilleures box repas](/meilleure-box-repas/).
 

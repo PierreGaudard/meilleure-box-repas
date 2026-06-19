@@ -5,7 +5,7 @@ date: 2026-06-06
 lastmod: 2026-06-10
 description: "Frichti s'est recentré sur les entreprises. Voici les meilleures alternatives à Frichti pour des plats livrés à domicile ou une box repas à cuisiner."
 image: "/img/lescommis-box.webp"
-author: "La rédaction Meilleure Box Repas"
+author: "Benjamin Bourgoin"
 draft: false
 ---
 

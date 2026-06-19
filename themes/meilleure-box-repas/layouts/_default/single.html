@@ -17,6 +17,7 @@
             {{ end }}
             {{ with .Params.author }}
             <div class="article-author">
+                {{ with $.Site.Params.author_image }}<img class="author-avatar" src="{{ . | relURL }}" alt="{{ $.Params.author }}" width="44" height="44" loading="lazy" decoding="async">{{ end }}
                 <span class="author-label">Par</span>
                 <span class="author-name">{{ . }}</span>
             </div>

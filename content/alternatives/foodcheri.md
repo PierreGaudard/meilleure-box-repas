@@ -5,7 +5,7 @@ date: 2026-06-06
 lastmod: 2026-06-10
 description: "FoodChéri s'adresse désormais aux entreprises. Voici les meilleures alternatives à FoodChéri pour se faire livrer des plats sains à la maison ou cuisiner frais."
 image: "/img/seazon-plat.webp"
-author: "La rédaction Meilleure Box Repas"
+author: "Benjamin Bourgoin"
 draft: false
 ---
 

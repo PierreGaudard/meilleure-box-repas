@@ -39,7 +39,8 @@
     {{ with .Params.author }}
     "author": {
         "@type": "Person",
-        "name": "{{ . }}"{{ with $.Site.Params.author_url }},
+        "name": "{{ . }}"{{ with $.Site.Params.author_image }},
+        "image": "{{ . | absURL }}"{{ end }}{{ with $.Site.Params.author_url }},
         "url": "{{ . }}"{{ end }}{{ with $.Site.Params.author_job_title }},
         "jobTitle": "{{ . }}"{{ end }}
     },

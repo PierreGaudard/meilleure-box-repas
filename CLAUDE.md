@@ -77,7 +77,7 @@ Ce repo ne contient pas de site. Il contient les **instructions et templates** p
 - **Polices** : Saira Condensed (titres display) + Poppins (corps et UI)
 - **Categories** : Comparatifs, Avis, Guides et conseils
 - **Langue** : Français (fr-fr)
-- **Auteur** : La rédaction Meilleure Box Repas
+- **Auteur** : Benjamin Bourgoin (photo `/static/img/benjamin-bourgoin.webp`, byline + Person JSON-LD, param `author_image` dans hugo.toml)
 - **URL auteur** : [non defini]
 - **Fonction auteur** : Rédaction éditoriale
 - **Objectif PBN** : pousser le client Quitoque (box repas) en tête des comparatifs et avis. Maillage des articles vers les contenus poussant Quitoque.

@@ -5,7 +5,7 @@ date: 2026-06-02
 lastmod: 2026-06-10
 description: "Quantités ajustées, produits déclassés, prix réduits : on fait le point sur les box anti-gaspillage et sur les box repas qui limitent vraiment les déchets."
 image: "/img/quitoque-engagements.webp"
-author: "La rédaction Meilleure Box Repas"
+author: "Benjamin Bourgoin"
 draft: false
 ---
 

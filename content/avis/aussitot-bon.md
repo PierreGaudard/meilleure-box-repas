@@ -8,7 +8,7 @@ brand: "Aussitôt Bon"
 rating: 3.5
 logo: "/img/logos/aussitotbon.webp"
 image: "/img/aussitotbon-colis.webp"
-author: "La rédaction Meilleure Box Repas"
+author: "Benjamin Bourgoin"
 draft: false
 ---
 
@@ -16,7 +16,7 @@ Une **box repas** déjà cuisinée pour la semaine, prête en 3 minutes : voilà
 
 <div class="enbref">
 <span class="lbl">En bref</span>
-<p><strong>Aussitôt Bon livre une box de plats déjà cuisinés pour la semaine</strong>, avec une **cuisson basse température** qui préserve les **saveurs**. Plus de 20 plats au menu **chaque semaine**, une **qualité** régulière, un prix au plat dans la moyenne haute. Une alternative crédible à Seazon sur le créneau du tout-prêt.</p>
+<p><strong>Aussitôt Bon livre une box de plats déjà cuisinés pour la semaine</strong>, avec une <strong>cuisson basse température</strong> qui préserve les <strong>saveurs</strong>. Plus de 20 plats au menu <strong>chaque semaine</strong>, une <strong>qualité</strong> régulière, un prix au plat dans la moyenne haute. Une alternative crédible à Seazon sur le créneau du tout-prêt.</p>
 <ul>
 <li><strong>Note finale :</strong> 3,5/5</li>
 <li><strong>Points forts :</strong> cuisson basse température, plats de chefs, prêt en 3 minutes</li>
@@ -31,12 +31,12 @@ On note toutes les **box repas** sur la même grille de 5 critères. La note fin
 
 | Critère | Note | Ce qu'on retient |
 |---|---|---|
-| Qualité et goût | 7,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:75%">★★★★★</b></span> | La basse température fait la différence, viandes tendres et légumes tenus |
-| Variété de la carte | 6,0/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:60%">★★★★★</b></span> | 20+ plats par semaine, rotation correcte mais univers culinaire resserré |
-| Praticité et flexibilité | 7,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:75%">★★★★★</b></span> | La semaine entière réglée en une livraison, prêt en 3 minutes |
-| Livraison et service client | 7,0/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:70%">★★★★★</b></span> | Colis soigné, créneaux fiables, SAV aimable et réactif |
-| Rapport qualité-prix | 6,5/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:65%">★★★★★</b></span> | 6,90 € le repas hors promo, correct sans être imbattable |
-| **Note finale Aussitôt Bon** | **6,9/10<br><span class="tstars" aria-hidden="true">★★★★★<b style="width:69%">★★★★★</b></span>** | **Soit 3,5/5, la note affichée sur cette fiche** |
+| Qualité et goût | 7,5/10<br><span class="tstars" aria-hidden="true" style="--p:75%"></span> | La basse température fait la différence, viandes tendres et légumes tenus |
+| Variété de la carte | 6,0/10<br><span class="tstars" aria-hidden="true" style="--p:60%"></span> | 20+ plats par semaine, rotation correcte mais univers culinaire resserré |
+| Praticité et flexibilité | 7,5/10<br><span class="tstars" aria-hidden="true" style="--p:75%"></span> | La semaine entière réglée en une livraison, prêt en 3 minutes |
+| Livraison et service client | 7,0/10<br><span class="tstars" aria-hidden="true" style="--p:70%"></span> | Colis soigné, créneaux fiables, SAV aimable et réactif |
+| Rapport qualité-prix | 6,5/10<br><span class="tstars" aria-hidden="true" style="--p:65%"></span> | 6,90 € le repas hors promo, correct sans être imbattable |
+| **Note finale Aussitôt Bon** | **6,9/10<br><span class="tstars" aria-hidden="true" style="--p:69%"></span>** | **Soit 3,5/5, la note affichée sur cette fiche** |
 
 Pour comparer ce 6,9/10 aux autres box du marché, notre [comparateur des meilleures box repas](/meilleure-box-repas/) donne la vue d'ensemble.
 
