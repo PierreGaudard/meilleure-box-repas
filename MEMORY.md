@@ -2,6 +2,12 @@
 
 Limite : 4 articles par semaine maximum.
 
+## Semaine du 2026-06-15 au 2026-06-21
+
+- 2026-06-21 — Meilleure box repas bio : le comparatif des plus saines (Comparatifs) — FR+EN, top 4 Quitoque/Les Commis/HelloFresh/Aussitôt Bon, vraies images Playwright, JSON-LD ItemList+FAQPage, optimisé brief Datafer bio
+- 2026-06-21 — Meilleure box repas pour 2 personnes : le comparatif pour couple (Comparatifs) — FR+EN, top 5 Quitoque/Les Commis/HelloFresh/Seazon/Cheef, vraies images Playwright
+- 2026-06-21 — Meilleure box repas équilibrée : le comparatif pour manger sain (Comparatifs) — FR+EN, top 7 Quitoque...Cheef, angle Nutri-Score, vraies images Playwright
+
 ## Semaine du 2026-06-08 au 2026-06-14
 
 - 2026-06-10 — Avis Cheef : que valent les repas minceur livrés ? (Avis)
