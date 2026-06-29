@@ -2,6 +2,13 @@
 
 Limite : 4 articles par semaine maximum.
 
+## Semaine du 2026-06-29 au 2026-07-05
+
+- 2026-06-29 — Meilleure box repas sans engagement : le comparatif flexible (Comparatifs) — top 7 notes maison Quitoque 9,2 en tête, optimisé brief RankShaker (cible 1887 mots, best concu 63), hero Openverse, logos. Miroir EN à faire.
+- 2026-06-29 — Meilleure box repas végétarienne : le comparatif veggie (Comparatifs) — top 7, Quitoque 40% végé, brief RankShaker (cible 2028, best 63), hero Openverse. Miroir EN à faire.
+- 2026-06-29 — Meilleure box repas pas chère : le meilleur rapport qualité-prix (Comparatifs) — top 7, Quitoque rapport qualité-prix, brief RankShaker (cible 1928, best 62), hero Openverse. Miroir EN à faire.
+- 2026-06-29 — Meilleure box repas famille (Comparatifs) — top 7, Quitoque formules jusqu'à 6 pers + dégressif, brief RankShaker (cible 1704, best 74), hero Openverse. Miroir EN à faire.
+
 ## Semaine du 2026-06-15 au 2026-06-21
 
 - 2026-06-21 — Meilleure box repas bio : le comparatif des plus saines (Comparatifs) — FR+EN, top 4 Quitoque/Les Commis/HelloFresh/Aussitôt Bon, vraies images Playwright, JSON-LD ItemList+FAQPage, optimisé brief Datafer bio
