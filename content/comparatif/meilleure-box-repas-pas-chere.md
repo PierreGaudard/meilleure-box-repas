@@ -168,7 +168,7 @@ Sur le **prix** de bienvenue, HelloFresh est souvent le moins cher. Sur le rappo
 
 ### Combien coûte une box repas par personne ?
 
-La fourchette marché va d'environ 4 à 7 € par portion selon la **box**, le nombre de **personnes** et de recettes. Le prix à l'assiette baisse quand on commande pour plus de convives. **Découvrez** le détail dans notre [guide du prix d'une box repas](/guides/combien-coute-box-repas/).
+La fourchette marché va d'environ 4 à 7 € par portion selon la **box**, le nombre de **personnes** et de recettes. Le prix à l'assiette baisse quand on commande pour plus de convives. On détaille les tarifs dans notre [guide du prix d'une box repas](/guides/combien-coute-box-repas/).
 
 ### Une box repas revient-elle moins cher que les courses ?
 

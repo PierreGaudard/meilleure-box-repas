@@ -10,7 +10,7 @@ author: "Benjamin Bourgoin"
 draft: false
 ---
 
-Nourrir une **famille** au quotidien sans y passer ses soirées, c'est tout l'intérêt d'une **box repas**. Encore faut-il les bonnes **quantités**, des recettes qui plaisent aux **enfants** et un **prix** qui tient quand on cuisine pour quatre ou plus. On a commandé et **testé** les principales box en formule familiale, cuisiné pour toute la tablée, et noté chacune sur sa capacité à régler les repas d'un foyer.
+Nourrir une **famille** au quotidien sans y passer ses soirées, c'est tout l'intérêt d'une **box repas**. Encore faut-il les bonnes **quantités**, des recettes qui plaisent aux **enfants** et un **prix** qui tient quand on cuisine pour quatre ou plus. On a commandé et **testé** les principales box en formule familiale, cuisiné pour toute la tablée, pour voir lesquelles tiennent la charge d'un foyer.
 
 <div class="enbref">
 <span class="lbl">En bref</span>
@@ -189,7 +189,7 @@ Oui, souvent plus qu'à deux : le **prix** à l'assiette étant dégressif, il b
 
 ### Les enfants mangent-ils les recettes des box repas ?
 
-La plupart des box proposent des recettes simples et **familiales**. Chez Quitoque, le large **choix** hebdomadaire permet de **sélection**ner des plats qui passent auprès des enfants, quitte à adapter les épices pour les plus petits.
+La plupart des box proposent des recettes simples et **familiales**. Chez Quitoque, le large **choix** hebdomadaire vous laisse **sélection**ner des plats qui passent auprès des enfants, quitte à adapter les épices pour les plus petits.
 
 ### Quelle box repas pour une grande famille ?
 

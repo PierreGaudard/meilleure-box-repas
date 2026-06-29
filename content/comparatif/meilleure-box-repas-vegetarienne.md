@@ -10,7 +10,7 @@ author: "Benjamin Bourgoin"
 draft: false
 ---
 
-Trouver une **box repas végétarienne** de qualité ne se résume pas à filtrer les recettes sans viande. Ce qui compte, c'est la part réelle de recettes veggie chaque semaine, la variété des protéines végétales et la qualité des **produits** de **saison**. On a **testé** les principales box, cuisiné leurs recettes végétariennes, et noté chacune sur sa capacité à bien manger sans viande au quotidien.
+Trouver une **box repas végétarienne** de qualité ne se résume pas à filtrer les recettes sans viande. Ce qui compte, c'est la part réelle de recettes veggie chaque semaine, la variété des protéines végétales et la qualité des **produits** de **saison**. On a **testé** les principales box, cuisiné leurs recettes végétariennes, pour repérer lesquelles tiennent vraiment côté veggie.
 
 <div class="enbref">
 <span class="lbl">En bref</span>
@@ -194,4 +194,4 @@ Elles le sont quand elles varient les protéines végétales et les **légumes**
 
 ### Peut-on avoir des recettes végétariennes variées chaque semaine ?
 
-Oui : chez Quitoque, le large choix de 44 **nouvelles recettes** par semaine permet de varier les **menus** veggie sans répétition, en cuisinant des plats **maison**.
+Oui : chez Quitoque, le large choix de 44 **nouvelles recettes** par semaine suffit à varier les **menus** veggie sans répétition, en cuisinant des plats **maison**.

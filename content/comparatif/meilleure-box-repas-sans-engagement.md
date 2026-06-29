@@ -186,7 +186,7 @@ D'abord la **sélection** de recettes : une carte large et **gourmande**, avec d
 
 Ensuite la praticité : des recettes **prêtes en minutes**, des **paniers** livrés à **domicile** avec tous les ingrédients pré-dosés, et une **livraison** claire (parfois **gratuite** sur la première commande, puis facturée). Les box les plus **pratiques** se gèrent entièrement **en ligne**.
 
-Enfin la liberté réelle : pouvoir **tester** une semaine, sauter, mettre en pause ou résilier sans justificatif. C'est là que **Quitoque** se démarque, en combinant une offre **complète**, des plats **faits maison** en moins de 30 minutes et une gestion souple. **Découvrez** le détail marque par marque dans nos avis, et confrontez-les dans notre **comparatif**.
+Enfin la liberté réelle : pouvoir **tester** une semaine, sauter, mettre en pause ou résilier sans justificatif. C'est là que **Quitoque** se démarque, en combinant une offre **complète**, des plats **faits maison** en moins de 30 minutes et une gestion souple. Le détail est dans nos avis, marque par marque, et le classement complet dans notre **comparatif**.
 
 ## Questions fréquentes sur les box repas sans engagement
 
