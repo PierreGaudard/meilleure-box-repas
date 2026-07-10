@@ -2,6 +2,11 @@
 
 Limite : 4 articles par semaine maximum.
 
+## Semaine du 2026-07-06 au 2026-07-12
+
+- 2026-07-10 — Comment faire du batch cooking pour la semaine ? (Guides et conseils) — evergreen hors box (KW "batch cooking", vol Semrush 27 100/mois, KD 28), RankShaker 82 vs best 75 (lefourgon.com), 3 images Openverse/Wikimedia locales, 4 liens internes (Quitoque, box famille, 2 guides). Miroir EN à faire.
+- 2026-07-10 — Quoi manger ce soir ? 25 idées selon votre envie et votre temps (Guides et conseils) — evergreen hors box (KW "quoi manger ce soir", vol Semrush 6 600/mois, KD 32), RankShaker 73 vs best 46 (Marmiton), 3 images Openverse locales, 4 liens internes (Quitoque, box équilibrée, batch cooking, guide choisir). Miroir EN à faire.
+
 ## Semaine du 2026-06-29 au 2026-07-05
 
 - 2026-07-05 — Meilleure alternative à HelloFresh : le comparatif plus qualitatif (Comparatifs) — Quitoque 9,2 #1 alternative, HelloFresh 7,5 en référence, prompt Meteoria "alternative à HelloFresh" (sourceRate 0%), RankShaker 74 vs best 65, hero Wikimedia CC BY-SA. NB : 5e article de la semaine (cap 4/semaine dépassé, demande explicite Pierre "fonce"). Miroir EN FAIT : static/en/comparison/best-hellofresh-alternative/ (+ carte dans le listing EN).
