@@ -1,3 +1,5 @@
+- 2026-07-19 | Meilleure box repas rapide (moins de 30 min) | comparatif | Quitoque n1 (box à cuisiner <30 min), prompt GEO Meteoria 'Top box repas moins de 30 minutes' (source_rate 55%) | 7 marques notes canoniques, RankShaker best 68, hero Wikimedia CC0 stir-fry
+- 2026-07-19 | Recettes rapides du soir : 15 idées <30 min | guide evergreen SEO | KW 'recettes rapides du soir' (RankShaker score 66 vs best 63), hero Wikimedia CC BY-SA, maillage vers comparatif rapide + batch cooking + comparateur
 # Suivi des publications — Meilleure Box Repas
 
 Limite : 4 articles par semaine maximum.
