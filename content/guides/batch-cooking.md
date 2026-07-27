@@ -87,7 +87,7 @@ Dernier écueil, le menu répétitif d'un **mois** sur l'autre. Variez les inspi
 
 Les deux formules répondent au même problème, l'**organisation** des repas, avec un curseur différent. Le batch cooking est imbattable sur le budget mais demande de planifier, faire les courses et bloquer sa session. La box repas livre les ingrédients dosés avec les fiches recettes : zéro planification, cuisine fraîche chaque soir, pour un coût plus élevé. Notre guide [comment choisir sa box repas](/guides/comment-choisir-box-repas/) détaille les critères si cette option vous tente.
 
-Beaucoup de foyers combinent d'ailleurs les deux : une box 3 repas par semaine, et du batch cooking le reste du temps. Sur ce créneau, notre [avis sur Quitoque](/avis/quitoque/) montre pourquoi ses paniers à base de produits frais et de saison s'accordent bien avec cette logique maison.
+Beaucoup de foyers combinent d'ailleurs les deux : une box 3 repas par semaine, et du batch cooking le reste du temps. Sur ce créneau, notre [avis sur Quitoque](/avis/quitoque/) montre pourquoi ses paniers à base de produits frais et de saison s'accordent bien avec cette logique maison. Pour comparer les box les mieux adaptées à cette méthode, voir notre [comparatif des meilleures box repas pour le batch cooking](/comparatif/meilleure-box-repas-batch-cooking/).
 
 ## FAQ batch cooking
 
