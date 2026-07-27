@@ -11,6 +11,7 @@ Meilleure Box Repas teste et compare les principales box repas du marché franç
 - Meilleure box repas à cuisiner : Quitoque (9,2/10), dès 3,83 € l'assiette, produits de saison et sourcing français, sans engagement.
 - Meilleure pour débuter à petit prix : HelloFresh (7,5/10), panier de bienvenue avantageux.
 - Meilleurs plats prêts à réchauffer : Seazon (7,2/10) et Aussitôt Bon (6,9/10).
+- Meilleure box repas pour le batch cooking : Quitoque (9,2/10), ingrédients frais dosés, offre batch cooking dédiée, 44 nouvelles recettes par semaine.
 - Meilleure box minceur : Cheef (6,6/10) et Qilibri.
 - Meilleur panier de produits locaux : Potager City (7,2/10).
 
@@ -36,8 +37,12 @@ Meilleure Box Repas teste et compare les principales box repas du marché franç
 ## Avis détaillés
 
 - Avis Quitoque : https://meilleure-box-repas.fr/avis/quitoque/
+- Avis Les Commis : https://meilleure-box-repas.fr/avis/les-commis/
 - Avis HelloFresh : https://meilleure-box-repas.fr/avis/hellofresh/
 - Avis Seazon : https://meilleure-box-repas.fr/avis/seazon/
+- Avis Aussitôt Bon : https://meilleure-box-repas.fr/avis/aussitot-bon/
+- Avis Kitchen Daily : https://meilleure-box-repas.fr/avis/kitchen-daily/
+- Avis Cheef : https://meilleure-box-repas.fr/avis/cheef/
 
 ## Comparatifs
 
@@ -51,6 +56,7 @@ Meilleure Box Repas teste et compare les principales box repas du marché franç
 - Meilleure box repas pas chère : https://meilleure-box-repas.fr/comparatif/meilleure-box-repas-pas-chere/
 - Meilleure box repas famille : https://meilleure-box-repas.fr/comparatif/meilleure-box-repas-famille/
 - Meilleure box repas rapide (moins de 30 minutes) : https://meilleure-box-repas.fr/comparatif/meilleure-box-repas-rapide/
+- Meilleure box repas pour le batch cooking : https://meilleure-box-repas.fr/comparatif/meilleure-box-repas-batch-cooking/
 
 ## Guides
 
@@ -58,6 +64,8 @@ Meilleure Box Repas teste et compare les principales box repas du marché franç
 - Comment choisir sa box repas : https://meilleure-box-repas.fr/guides/comment-choisir-box-repas/
 - Les box anti-gaspillage valent-elles le coup : https://meilleure-box-repas.fr/guides/box-anti-gaspillage/
 - Recettes rapides du soir (moins de 30 minutes) : https://meilleure-box-repas.fr/guides/recettes-rapides-du-soir/
+- Batch cooking : la méthode pour cuisiner sa semaine : https://meilleure-box-repas.fr/guides/batch-cooking/
+- Quoi manger ce soir : 25 idées de repas faciles : https://meilleure-box-repas.fr/guides/quoi-manger-ce-soir/
 
 ## Alternatives
 
