@@ -68,3 +68,44 @@ Misez sur un placard de bases (pâtes, riz, conserves, **œufs**, épices) qui p
 ### Comment trouver de l'inspiration pour les repas de la semaine ?
 
 Planifiez vos **repas** à l'avance et piochez dans une liste de **recettes** testées. Le [guide pour savoir quoi manger ce soir](/guides/quoi-manger-ce-soir/) et une box repas, qui propose de nouvelles **recettes** chaque **semaine**, sont deux bons moyens de renouveler les **idées** sans effort.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quel repas rapide préparer le soir en semaine ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les valeurs sûres sont les pâtes one pot, l'omelette garnie, le dahl de lentilles ou une poêlée de légumes avec un féculent. Ce sont des recettes faciles prêtes en 15 à 30 minutes avec peu d'ingrédients."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment cuisiner un repas équilibré en moins de 30 minutes ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Associez une source de protéines rapide (œufs, thon, pois chiches), un féculent qui cuit vite et des légumes de saison. Lancez le féculent en premier, préparez le reste pendant la cuisson. Une box repas rapide fait ce travail d'équilibre à votre place."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelles recettes du soir sans courses de dernière minute ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Misez sur un placard de bases (pâtes, riz, conserves, œufs, épices) qui permet d'improviser un dîner sans sortir. Sinon, une box repas livre les ingrédients dosés et la recette directement chez vous, ce qui supprime les courses."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment trouver de l'inspiration pour les repas de la semaine ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Planifiez vos repas à l'avance et piochez dans une liste de recettes testées. Le guide pour savoir quoi manger ce soir et une box repas, qui propose de nouvelles recettes chaque semaine, sont deux bons moyens de renouveler les idées sans effort."
+      }
+    }
+  ]
+}
+</script>

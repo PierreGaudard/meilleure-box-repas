@@ -35,7 +35,7 @@ On note toutes les **box repas** sur la même grille de cinq critères, dont le 
 
 | Rang | Box | Type | Note /10 | Prix | Atout prix |
 |---|---|---|---|---|---|
-| 1 | **Quitoque** | À cuisiner | **9,2** <span class="tstars" aria-hidden="true" style="--p:92%"></span> | dès 3,63 € l'assiette | Meilleur rapport qualité-prix, dégressif |
+| 1 | **Quitoque** | À cuisiner | **9,2** <span class="tstars" aria-hidden="true" style="--p:92%"></span> | dès 3,83 € l'assiette | Meilleur rapport qualité-prix, dégressif |
 | 2 | Les Commis | À cuisiner | 8,3 <span class="tstars" aria-hidden="true" style="--p:83%"></span> | dès 4,75 € l'assiette | Qualité de chefs, prix maîtrisé |
 | 3 | HelloFresh | À cuisiner | 7,5 <span class="tstars" aria-hidden="true" style="--p:75%"></span> | 5 à 7 € le repas | Le moins cher en offre de bienvenue |
 | 4 | Seazon | Plats préparés | 7,2 <span class="tstars" aria-hidden="true" style="--p:72%"></span> | selon la formule | Gain de temps, formule souple |
@@ -55,7 +55,7 @@ On note toutes les **box repas** sur la même grille de cinq critères, dont le 
 
 - Prix dégressif et portions justes qui limitent le gaspillage.
 - Qualité et origine France, produits de saison, circuit court.
-- 44 nouvelles recettes par semaine, dès 3,63 € l'assiette.
+- 44 nouvelles recettes par semaine, dès 3,83 € l'assiette.
 - Sans engagement, recettes rapides à cuisiner.
 
 ### Inconvénients Quitoque
@@ -177,3 +177,44 @@ Souvent un peu plus cher que faire ses courses **alimentaires** soi-même, mais 
 ### Les box repas sont-elles vraiment sans engagement ?
 
 Oui chez la plupart : abonnement modulable, résiliable, mise en pause possible. C'est rassurant côté budget, on arrête quand on veut.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quelle est la box repas la moins chère ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Sur le prix de bienvenue, HelloFresh est souvent le moins cher. Sur le rapport qualité-prix dans la durée, Quitoque se distingue grâce à son prix dégressif, sa qualité française et ses portions justes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Combien coûte une box repas par personne ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La fourchette marché va d'environ 4 à 7 € par portion selon la box, le nombre de personnes et de recettes. Le prix à l'assiette baisse quand on commande pour plus de convives. On détaille les tarifs dans notre guide du prix d'une box repas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Une box repas revient-elle moins cher que les courses ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Souvent un peu plus cher que faire ses courses alimentaires soi-même, mais moins cher que la livraison de repas quotidienne, et sans gaspillage grâce aux portions justes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Les box repas sont-elles vraiment sans engagement ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui chez la plupart : abonnement modulable, résiliable, mise en pause possible. C'est rassurant côté budget, on arrête quand on veut."
+      }
+    }
+  ]
+}
+</script>

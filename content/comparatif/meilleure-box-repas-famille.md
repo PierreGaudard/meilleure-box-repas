@@ -35,7 +35,7 @@ On note toutes les **box repas** sur la même grille de cinq critères, en regar
 
 | Rang | Box | Type | Note /10 | Prix | Atout famille |
 |---|---|---|---|---|---|
-| 1 | **Quitoque** | À cuisiner | **9,2** <span class="tstars" aria-hidden="true" style="--p:92%"></span> | dès 3,63 € l'assiette | Formules jusqu'à 6 personnes, prix dégressif |
+| 1 | **Quitoque** | À cuisiner | **9,2** <span class="tstars" aria-hidden="true" style="--p:92%"></span> | dès 3,83 € l'assiette | Formules jusqu'à 6 personnes, prix dégressif |
 | 2 | Les Commis | À cuisiner | 8,3 <span class="tstars" aria-hidden="true" style="--p:83%"></span> | dès 4,75 € l'assiette | Recettes de chefs, formats famille |
 | 3 | HelloFresh | À cuisiner | 7,5 <span class="tstars" aria-hidden="true" style="--p:75%"></span> | 5 à 7 € le repas | Le plus grand choix pour varier |
 | 4 | Seazon | Plats préparés | 7,2 <span class="tstars" aria-hidden="true" style="--p:72%"></span> | selon la formule | Soirs sans cuisine |
@@ -194,3 +194,44 @@ La plupart des box proposent des recettes simples et **familiales**. Chez Quitoq
 ### Quelle box repas pour une grande famille ?
 
 Visez une **box à cuisiner** avec une formule jusqu'à 6 personnes et un **prix** dégressif, comme Quitoque. Au-delà, on peut commander plusieurs **paniers** ou augmenter le nombre de repas **selon** le **moment** de la semaine.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quelle est la meilleure box repas pour une famille ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pour cuisiner en famille avec un bon prix et des recettes qui plaisent aux enfants, Quitoque arrive en tête : formules jusqu'à 6 personnes, prix dégressif et produits de saison. Pour le plus grand choix, HelloFresh est une bonne alternative."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Une box repas est-elle rentable pour une famille ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, souvent plus qu'à deux : le prix à l'assiette étant dégressif, il baisse fortement quand on commande pour 4 ou 6 personnes. Les quantités calibrées évitent en plus le gaspillage."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Les enfants mangent-ils les recettes des box repas ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La plupart des box proposent des recettes simples et familiales. Chez Quitoque, le large choix hebdomadaire vous laisse sélectionner des plats qui passent auprès des enfants, quitte à adapter les épices pour les plus petits."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Quelle box repas pour une grande famille ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Visez une box à cuisiner avec une formule jusqu'à 6 personnes et un prix dégressif, comme Quitoque. Au-delà, on peut commander plusieurs paniers ou augmenter le nombre de repas selon le moment de la semaine."
+      }
+    }
+  ]
+}
+</script>

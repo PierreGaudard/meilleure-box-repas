@@ -157,3 +157,44 @@ Le tarif se calcule au coût par assiette, généralement dégressif selon le vo
 - [Meilleure box repas rapide](/comparatif/meilleure-box-repas-rapide/), pour cuisiner en moins de 30 minutes.
 - [Meilleure box repas famille](/comparatif/meilleure-box-repas-famille/), pour nourrir toute la tribu.
 - [Recettes rapides du soir](/guides/recettes-rapides-du-soir/), 15 idées express.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quelle est la meilleure box repas pour faire du batch cooking ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Parmi les box à cuisiner, Quitoque est la mieux adaptée au batch cooking : ingrédients frais dosés, 44 nouvelles recettes par semaine et une offre batch cooking dédiée pour préparer la semaine en une session. Les Commis et HelloFresh sont deux autres bonnes box à cuisiner selon le budget et le nombre de personnes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Peut-on vraiment batch cooker avec une box repas ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui. Une box à cuisiner fournit les ingrédients dosés et les fiches recettes, ce qui supprime la planification des menus et les courses, les deux tâches les plus longues du batch cooking. Il suffit de regrouper la préparation de plusieurs recettes sur une même session, puis de conserver ou d'assembler en semaine."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Box à cuisiner ou plats préparés pour la semaine ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pour un vrai batch cooking maison, choisissez une box à cuisiner comme Quitoque, avec des produits bruts à préparer et à décliner. Pour avoir ses repas prêts sans cuisiner, tournez-vous vers les plats préparés type Seazon ou Kitchen Daily. Le premier privilégie le frais et le fait maison, le second la simplicité maximale."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Combien coûte une box repas pour batch cooker ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Le tarif se calcule au coût par assiette, généralement dégressif selon le volume : plus on commande de portions, moins l'assiette revient cher. Les offres de bienvenue faussent la comparaison, donc regardez le prix récurrent hors promotion. Vérifiez le prix à l'assiette sur le site officiel de chaque box avant de vous décider."
+      }
+    }
+  ]
+}
+</script>

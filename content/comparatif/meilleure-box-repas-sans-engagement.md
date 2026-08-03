@@ -35,7 +35,7 @@ On note toutes les **box repas** sur la même grille de cinq critères, dont la 
 
 | Rang | Box | Type | Note /10 | Prix | Atout flexibilité |
 |---|---|---|---|---|---|
-| 1 | **Quitoque** | À cuisiner | **9,2** <span class="tstars" aria-hidden="true" style="--p:92%"></span> | dès 3,63 € l'assiette | Pause, saut de semaine et résiliation en ligne, qualité de saison |
+| 1 | **Quitoque** | À cuisiner | **9,2** <span class="tstars" aria-hidden="true" style="--p:92%"></span> | dès 3,83 € l'assiette | Pause, saut de semaine et résiliation en ligne, qualité de saison |
 | 2 | Les Commis | À cuisiner | 8,3 <span class="tstars" aria-hidden="true" style="--p:83%"></span> | dès 4,75 € l'assiette | Sans engagement, recettes de chefs bio et françaises |
 | 3 | HelloFresh | À cuisiner | 7,5 <span class="tstars" aria-hidden="true" style="--p:75%"></span> | 5 à 7 € le repas | Modulable, mais à surveiller après l'offre de bienvenue |
 | 4 | Seazon | Plats préparés | 7,2 <span class="tstars" aria-hidden="true" style="--p:72%"></span> | selon la formule | Plats à réchauffer, formule souple |
@@ -56,7 +56,7 @@ On note toutes les **box repas** sur la même grille de cinq critères, dont la 
 - Pause, saut de semaine et résiliation en ligne, sans frais.
 - Modulable de 2 à 6 personnes et de 2 à 9 repas.
 - Légumes de saison, origine France, 44 nouvelles recettes par semaine.
-- Recettes prêtes en moins de 30 minutes, dès 3,63 € l'assiette.
+- Recettes prêtes en moins de 30 minutes, dès 3,83 € l'assiette.
 
 ### Inconvénients Quitoque
 
@@ -205,3 +205,44 @@ En ligne, depuis votre compte, sans frais ni engagement chez la plupart des serv
 ### Y a-t-il une durée minimale d'abonnement ?
 
 Non chez les box sans engagement : vous commandez quand vous voulez et sautez les semaines qui ne conviennent pas. C'est tout l'intérêt d'une offre flexible.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quelle box repas est vraiment sans engagement ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "La plupart des grandes box le sont : Quitoque, Les Commis, HelloFresh, Seazon, Cheef. La différence se fait sur la facilité de pause et de résiliation, et sur la qualité des produits. Quitoque combine la souplesse la plus simple et une vraie qualité de saison."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Peut-on mettre sa box repas en pause ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui chez la plupart des box : saut de semaine et pause depuis votre compte. Vérifiez simplement la date limite de modification avant prélèvement pour que le changement soit pris en compte."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Comment résilier une box repas sans frais ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "En ligne, depuis votre compte, sans frais ni engagement chez la plupart des services. Reportez-vous aux conditions générales de chaque box pour le détail des délais."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Y a-t-il une durée minimale d'abonnement ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Non chez les box sans engagement : vous commandez quand vous voulez et sautez les semaines qui ne conviennent pas. C'est tout l'intérêt d'une offre flexible."
+      }
+    }
+  ]
+}
+</script>

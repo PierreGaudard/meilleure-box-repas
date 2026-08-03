@@ -155,3 +155,44 @@ Oui, et pas seulement sur la cuisson. Le principal gain est la suppression des *
 ### Box à cuisiner ou plats préparés : que choisir pour aller vite ?
 
 Pour un vrai repas fait maison en moins de 30 **minutes**, choisissez une **box à cuisiner** comme Quitoque. Pour zéro cuisine et un repas prêt en deux minutes, tournez-vous vers les **plats préparés** type Seazon ou Kitchen Daily. Le premier privilégie le frais et le fait maison, le second la simplicité maximale.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quelle est la box repas la plus rapide à cuisiner ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Parmi les box à cuisiner, Quitoque est la plus rapide : ses recettes sont prêtes en moins de 30 minutes, souvent en 20, grâce à des ingrédients frais déjà dosés. Les Commis suit de près avec des recettes de chefs en une vingtaine de minutes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Peut-on manger en moins de 30 minutes avec une box repas ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui. Les box à cuisiner comme Quitoque conçoivent leurs recettes pour tenir sous les 30 minutes, féculent compris si on le lance en parallèle. Et si vous ne voulez pas cuisiner, les plats prêts à réchauffer type Seazon sont prêts en deux minutes."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Une box repas fait-elle vraiment gagner du temps ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui, et pas seulement sur la cuisson. Le principal gain est la suppression des courses et du choix du menu, qui représentent l'essentiel du temps consacré aux repas en semaine. On détaille les critères dans notre guide pour choisir sa box repas."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Box à cuisiner ou plats préparés : que choisir pour aller vite ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pour un vrai repas fait maison en moins de 30 minutes, choisissez une box à cuisiner comme Quitoque. Pour zéro cuisine et un repas prêt en deux minutes, tournez-vous vers les plats préparés type Seazon ou Kitchen Daily. Le premier privilégie le frais et le fait maison, le second la simplicité maximale."
+      }
+    }
+  ]
+}
+</script>

@@ -35,7 +35,7 @@ On note toutes les **box repas** sur la même grille de cinq critères. Voici le
 
 | Rang | Box | Type | Note /10 | Prix | Atout équilibre |
 |---|---|---|---|---|---|
-| 1 | **Quitoque** | À cuisiner | **9,2** <span class="tstars" aria-hidden="true" style="--p:92%"></span> | dès 3,63 € l'assiette | 90 % des recettes Nutri-Score A ou B, légumes de saison |
+| 1 | **Quitoque** | À cuisiner | **9,2** <span class="tstars" aria-hidden="true" style="--p:92%"></span> | dès 3,83 € l'assiette | 90 % des recettes Nutri-Score A ou B, légumes de saison |
 | 2 | Les Commis | À cuisiner | 8,3 <span class="tstars" aria-hidden="true" style="--p:83%"></span> | dès 4,75 € l'assiette | Sourcing bio et français, recettes de chefs |
 | 3 | HelloFresh | À cuisiner | 7,5 <span class="tstars" aria-hidden="true" style="--p:75%"></span> | 5 à 7 € le repas | Catalogue large avec beaucoup d'options saines |
 | 4 | Seazon | Plats préparés | 7,2 <span class="tstars" aria-hidden="true" style="--p:72%"></span> | selon la formule | Plats équilibrés à réchauffer |
@@ -56,7 +56,7 @@ C'est l'argument central de **Quitoque** : **90 % des recettes** affichent un **
 - 90 % des recettes notées Nutri-Score A ou B.
 - Légumes 100 % de saison, plus de 80 % d'origine France, circuit court.
 - 130 additifs controversés exclus, zéro huile de palme, large choix végétarien.
-- Recettes prêtes en moins de 30 minutes, dès 3,63 € l'assiette.
+- Recettes prêtes en moins de 30 minutes, dès 3,83 € l'assiette.
 
 ### Inconvénients Quitoque
 

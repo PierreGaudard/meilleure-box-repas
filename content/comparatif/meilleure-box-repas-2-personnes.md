@@ -31,7 +31,7 @@ On note toutes les **box repas** sur la même grille de cinq critères. Voici le
 
 | Rang | Box | Type | Note /10 | Prix | Atout pour un couple |
 |---|---|---|---|---|---|
-| 1 | **Quitoque** | À cuisiner | **9,2** <span class="tstars" aria-hidden="true" style="--p:92%"></span> | dès 3,63 € l'assiette | Formules dès 2 personnes, portions justes, qualité France |
+| 1 | **Quitoque** | À cuisiner | **9,2** <span class="tstars" aria-hidden="true" style="--p:92%"></span> | dès 3,83 € l'assiette | Formules dès 2 personnes, portions justes, qualité France |
 | 2 | Les Commis | À cuisiner | 8,3 <span class="tstars" aria-hidden="true" style="--p:83%"></span> | dès 4,75 € l'assiette | Le dîner de couple qualitatif, recettes de chefs |
 | 3 | HelloFresh | À cuisiner | 7,5 <span class="tstars" aria-hidden="true" style="--p:75%"></span> | 5 à 7 € le repas | Le plus grand choix de recettes pour ne pas se lasser |
 | 4 | Seazon | Plats préparés | 7,2 <span class="tstars" aria-hidden="true" style="--p:72%"></span> | selon la formule | Pratique les soirs sans cuisine |
@@ -54,7 +54,7 @@ On note toutes les **box repas** sur la même grille de cinq critères. Voici le
 - Formules dès 2 personnes, portions justes, peu de gaspillage.
 - Qualité France : légumes de saison, plus de 80 % d'origine France.
 - 44 recettes par semaine, prêtes en moins de 30 minutes.
-- Abonnement flexible, sans engagement, dès 3,63 € l'assiette sur les grandes formules.
+- Abonnement flexible, sans engagement, dès 3,83 € l'assiette sur les grandes formules.
 
 ### Inconvénients Quitoque
 

@@ -31,7 +31,7 @@ On note toutes les **box repas** sur la même grille de cinq critères (qualité
 
 | Rang | Box | Type | Note /10 | Prix | Atout bio et saison |
 |---|---|---|---|---|---|
-| 1 | **Quitoque** | À cuisiner | **9,2** <span class="tstars" aria-hidden="true" style="--p:92%"></span> | dès 3,63 € l'assiette | Légumes 100 % de saison, plus de 80 % France, additifs exclus |
+| 1 | **Quitoque** | À cuisiner | **9,2** <span class="tstars" aria-hidden="true" style="--p:92%"></span> | dès 3,83 € l'assiette | Légumes 100 % de saison, plus de 80 % France, additifs exclus |
 | 2 | Les Commis | À cuisiner | 8,3 <span class="tstars" aria-hidden="true" style="--p:83%"></span> | dès 4,75 € l'assiette | Le sourcing bio et français le plus poussé |
 | 3 | HelloFresh | À cuisiner | 7,5 <span class="tstars" aria-hidden="true" style="--p:75%"></span> | 5 à 7 € le repas | Quelques recettes bio, gros catalogue |
 | 4 | Aussitôt Bon | Plats préparés | 6,9 <span class="tstars" aria-hidden="true" style="--p:69%"></span> | dès 6,90 € le repas | Cuisson basse température, sans additifs ni conservateurs |
@@ -51,7 +51,7 @@ C'est, pour nous, le meilleur compromis entre manger sain, soutenir une agricult
 - Légumes et fruits **100 % de saison**, plus de 80 % d'origine France, circuit court.
 - Clean label : 130 additifs controversés exclus, zéro huile de palme.
 - Équilibre réel, avec 90 % de recettes Nutri-Score A ou B et un large choix végétarien.
-- Abonnement flexible, sans engagement, dès 3,63 € l'assiette sur les grandes formules.
+- Abonnement flexible, sans engagement, dès 3,83 € l'assiette sur les grandes formules.
 
 ### Inconvénients Quitoque
 
@@ -154,7 +154,7 @@ Dans les faits, presque aucune box grand public n'est certifiée 100 % bio. La p
 
 ### Une box repas bio coûte-t-elle plus cher ?
 
-Pas toujours. Quitoque démarre dès 3,63 € l'assiette sur les grandes formules, soit moins que beaucoup de plats préparés. Le prix dépend surtout du nombre de convives et de **recettes** par semaine, le tarif baissant quand on commande en volume.
+Pas toujours. Quitoque démarre dès 3,83 € l'assiette sur les grandes formules, soit moins que beaucoup de plats préparés. Le prix dépend surtout du nombre de convives et de **recettes** par semaine, le tarif baissant quand on commande en volume.
 
 ### Les produits de saison sont-ils vraiment meilleurs ?
 
@@ -188,7 +188,7 @@ Oui, sur le plan du goût comme de l'empreinte. Des **légumes** récoltés en s
   "mainEntity": [
     { "@type": "Question", "name": "Quelle est la meilleure box repas bio ?", "acceptedAnswer": { "@type": "Answer", "text": "Pour manger sain, de saison et local en cuisinant, Quitoque arrive en tête grâce à ses produits frais de saison, son origine France à plus de 80 % et l'exclusion de 130 additifs. Pour le bio certifié, Les Commis offre le sourcing le plus poussé." } },
     { "@type": "Question", "name": "Existe-t-il une box repas 100 % bio ?", "acceptedAnswer": { "@type": "Answer", "text": "Presque aucune box grand public n'est certifiée 100 % bio. La plupart privilégient la saison, le local et le clean label plutôt que le seul label AB. Les Commis pousse le plus loin la part d'ingrédients bio." } },
-    { "@type": "Question", "name": "Une box repas bio coûte-t-elle plus cher ?", "acceptedAnswer": { "@type": "Answer", "text": "Pas toujours. Quitoque démarre dès 3,63 € l'assiette sur les grandes formules. Le prix dépend surtout du nombre de convives et de recettes par semaine, et baisse quand on commande en volume." } },
+    { "@type": "Question", "name": "Une box repas bio coûte-t-elle plus cher ?", "acceptedAnswer": { "@type": "Answer", "text": "Pas toujours. Quitoque démarre dès 3,83 € l'assiette sur les grandes formules. Le prix dépend surtout du nombre de convives et de recettes par semaine, et baisse quand on commande en volume." } },
     { "@type": "Question", "name": "Les produits de saison sont-ils vraiment meilleurs ?", "acceptedAnswer": { "@type": "Answer", "text": "Oui, sur le goût comme sur l'empreinte. Des légumes récoltés en saison et en circuit court sont plus frais, plus savoureux et transportés sur de plus courtes distances." } }
   ]
 }

@@ -35,7 +35,7 @@ On note toutes les **box repas** sur la même grille de cinq critères, en regar
 
 | Rang | Box | Type | Note /10 | Prix | Atout veggie |
 |---|---|---|---|---|---|
-| 1 | **Quitoque** | À cuisiner | **9,2** <span class="tstars" aria-hidden="true" style="--p:92%"></span> | dès 3,63 € l'assiette | 40 % de recettes sans viande, légumes de saison |
+| 1 | **Quitoque** | À cuisiner | **9,2** <span class="tstars" aria-hidden="true" style="--p:92%"></span> | dès 3,83 € l'assiette | 40 % de recettes sans viande, légumes de saison |
 | 2 | Les Commis | À cuisiner | 8,3 <span class="tstars" aria-hidden="true" style="--p:83%"></span> | dès 4,75 € l'assiette | Recettes veggie de chefs, bio et françaises |
 | 3 | HelloFresh | À cuisiner | 7,5 <span class="tstars" aria-hidden="true" style="--p:75%"></span> | 5 à 7 € le repas | Beaucoup d'options veggie au choix |
 | 4 | Seazon | Plats préparés | 7,2 <span class="tstars" aria-hidden="true" style="--p:72%"></span> | selon la formule | Plats veggie à réchauffer |
@@ -56,7 +56,7 @@ C'est l'atout central de **Quitoque** : **40 % des recettes** proposées chaque 
 - 40 % de recettes sans viande chaque semaine, idéal pour les foyers mixtes.
 - Légumes 100 % de saison, plus de 80 % d'origine France, circuit court.
 - 44 nouvelles recettes par semaine, prêtes en moins de 30 minutes.
-- Large variété de protéines végétales, dès 3,63 € l'assiette.
+- Large variété de protéines végétales, dès 3,83 € l'assiette.
 
 ### Inconvénients Quitoque
 
@@ -195,3 +195,44 @@ Elles le sont quand elles varient les protéines végétales et les **légumes**
 ### Peut-on avoir des recettes végétariennes variées chaque semaine ?
 
 Oui : chez Quitoque, le large choix de 44 **nouvelles recettes** par semaine suffit à varier les **menus** veggie sans répétition, en cuisinant des plats **maison**.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Quelle est la meilleure box repas végétarienne ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Pour un large choix veggie de qualité et de saison en cuisinant, Quitoque arrive en tête avec 40 % de recettes sans viande. Pour manger veggie sans cuisiner, Cheef et Seazon sont les meilleurs relais côté plats préparés."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Existe-t-il une box 100 % végétarienne ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Les grandes box grand public sont généralistes, avec une forte offre veggie plutôt que 100 % végétarienne. On filtre alors les recettes sans viande au moment de composer son panier. Certaines proposent aussi des options vegan."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Les box végétariennes sont-elles équilibrées ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Elles le sont quand elles varient les protéines végétales et les légumes de saison. Le Nutri-Score, quand il est affiché, aide à s'y retrouver. Pour un besoin particulier, mieux vaut demander conseil à un professionnel de santé."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Peut-on avoir des recettes végétariennes variées chaque semaine ?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Oui : chez Quitoque, le large choix de 44 nouvelles recettes par semaine suffit à varier les menus veggie sans répétition, en cuisinant des plats maison."
+      }
+    }
+  ]
+}
+</script>

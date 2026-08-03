@@ -48,4 +48,6 @@ Limite : 4 articles par semaine maximum.
 - 2026-06-04 — Comment bien choisir sa box repas ? (Guides et conseils) [placeholder /create-site]
 - 2026-06-05 — Combien coûte une box repas par mois ? (Guides et conseils) [placeholder /create-site]
 
+- 2026-08-03 — Meilleure box repas pour Noël en 2026 (Comparatifs) + miroir EN /en/comparison/best-christmas-meal-kit/
+
 > Articles initiaux générés au lancement du site (non comptabilisés dans le quota hebdomadaire).
