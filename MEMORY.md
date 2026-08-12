@@ -49,5 +49,6 @@ Limite : 4 articles par semaine maximum.
 - 2026-06-05 — Combien coûte une box repas par mois ? (Guides et conseils) [placeholder /create-site]
 
 - 2026-08-03 — Meilleure box repas pour Noël en 2026 (Comparatifs) + miroir EN /en/comparison/best-christmas-meal-kit/
+- 2026-08-12 — Menu de Noël : idées d'entrées, de plats et de desserts festifs (Guides) — FR uniquement, pas de miroir EN. Angle menus festifs, distinct du comparatif Noël du 03/08 pour éviter la cannibalisation. Prompt Meteoria 97625 « Box repas pour Noël : idées menus festifs 2026 » (RAG 44,4 %, mention Quitoque 12,8 % sur 30 j, seul écart positif des 100 prompts du projet)
 
 > Articles initiaux générés au lancement du site (non comptabilisés dans le quota hebdomadaire).
