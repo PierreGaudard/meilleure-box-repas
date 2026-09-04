@@ -104,6 +104,7 @@ Briefs existants (mot clé, brief id, score obtenu vs meilleur concurrent) :
 - les commis avis : `0c450145-58a4-4b93-ae6b-7925086b3468` (78 vs 77)
 - kitchen daily avis : `ea7d8888-a10f-473f-a59b-fb7acd2d4f63` (70 vs 61)
 - aussitot bon avis : `f59b2008-0439-4db8-a34e-ed0b322d9e4e` (74 vs 69)
+- meilleure box repas sportif : `6b21d6ed-71af-44cf-a00a-1ebf7e5605e1` (75 vs 61)
 
 Process pour tout nouveau contenu : POST /api/v1/briefs (keyword + folderId + myUrl si la page existe), poll jusqu'à ready, rédiger en intégrant targetTerms + targetWordCount, POST /content jusqu'à score > competitors.best. Rédaction directement humanisée (skill sem-humaniser, 19 marqueurs IA bannis).
 

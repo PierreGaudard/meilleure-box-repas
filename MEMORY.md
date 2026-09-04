@@ -11,6 +11,10 @@ Limite : 4 articles par semaine maximum.
 - 2026-07-19 | Meilleure box repas rapide (moins de 30 min) | comparatif | Quitoque n1 (box à cuisiner <30 min), prompt GEO Meteoria 'Top box repas moins de 30 minutes' (source_rate 55%) | 7 marques notes canoniques, RankShaker best 68, hero Wikimedia CC0 stir-fry
 - 2026-07-19 | Recettes rapides du soir : 15 idées <30 min | guide evergreen SEO | KW 'recettes rapides du soir' (RankShaker score 66 vs best 63), hero Wikimedia CC BY-SA, maillage vers comparatif rapide + batch cooking + comparateur
 
+## Semaine du 2026-08-31 au 2026-09-06
+
+- 2026-09-04 — Quelle est la meilleure box pour sportif ? (Comparatifs) — angle GEO protéines/macros, Quitoque 9,2 en n°1, brief RankShaker `6b21d6ed-71af-44cf-a00a-1ebf7e5605e1` (cible 1 635 mots), score 75 vs best 61 (box-originale.com), GEO 100/100. Faits vérifiés en direct : tag « Protéiné » Quitoque + macros de la fiche curry de merlan (536 kcal, 31,11 g de protéines), tags HelloFresh « Riche en protéines », protocole Cheef 1 200-1 350 kcal et 23 % de l'AET. 4 images uniques locales (hero, recette Quitoque, plat HelloFresh, aliments protéinés), 5 liens internes. Miroir EN à faire.
+
 ## Semaine du 2026-07-06 au 2026-07-12
 
 - 2026-07-10 — Comment faire du batch cooking pour la semaine ? (Guides et conseils) — evergreen hors box (KW "batch cooking", vol Semrush 27 100/mois, KD 28), RankShaker 82 vs best 75 (lefourgon.com), 3 images Openverse/Wikimedia locales, 4 liens internes (Quitoque, box famille, 2 guides). Miroir EN à faire.

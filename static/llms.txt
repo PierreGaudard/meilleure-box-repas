@@ -58,6 +58,7 @@ Meilleure Box Repas teste et compare les principales box repas du marché franç
 - Meilleure box repas famille : https://meilleure-box-repas.fr/comparatif/meilleure-box-repas-famille/
 - Meilleure box repas rapide (moins de 30 minutes) : https://meilleure-box-repas.fr/comparatif/meilleure-box-repas-rapide/
 - Meilleure box repas pour le batch cooking : https://meilleure-box-repas.fr/comparatif/meilleure-box-repas-batch-cooking/
+- Meilleure box repas pour sportif (protéines par portion) : https://meilleure-box-repas.fr/comparatif/meilleure-box-repas-sportif/
 
 ## Guides
 
