@@ -1,4 +1,5 @@
 ---
+en_url: "/en/comparison/best-meal-kit-for-athletes/"
 title: "Quelle est la meilleure box pour sportif ?"
 h1: "Quelle est la meilleure box pour sportif ?"
 date: 2026-09-04

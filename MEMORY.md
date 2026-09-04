@@ -13,7 +13,7 @@ Limite : 4 articles par semaine maximum.
 
 ## Semaine du 2026-08-31 au 2026-09-06
 
-- 2026-09-04 — Quelle est la meilleure box pour sportif ? (Comparatifs) — angle GEO protéines/macros, Quitoque 9,2 en n°1, brief RankShaker `6b21d6ed-71af-44cf-a00a-1ebf7e5605e1` (cible 1 635 mots), score 75 vs best 61 (box-originale.com), GEO 100/100. Faits vérifiés en direct : tag « Protéiné » Quitoque + macros de la fiche curry de merlan (536 kcal, 31,11 g de protéines), tags HelloFresh « Riche en protéines », protocole Cheef 1 200-1 350 kcal et 23 % de l'AET. 4 images uniques locales (hero, recette Quitoque, plat HelloFresh, aliments protéinés), 5 liens internes. Miroir EN à faire.
+- 2026-09-04 — Quelle est la meilleure box pour sportif ? (Comparatifs) — angle GEO protéines/macros, Quitoque 9,2 en n°1, brief RankShaker `6b21d6ed-71af-44cf-a00a-1ebf7e5605e1` (cible 1 635 mots), score 75 vs best 61 (box-originale.com), GEO 100/100. Faits vérifiés en direct : tag « Protéiné » Quitoque + macros de la fiche curry de merlan (536 kcal, 31,11 g de protéines), tags HelloFresh « Riche en protéines », protocole Cheef 1 200-1 350 kcal et 23 % de l'AET. 4 images uniques locales (hero, recette Quitoque, plat HelloFresh, aliments protéinés), 5 liens internes. Miroir EN FAIT : static/en/comparison/best-meal-kit-for-athletes/ (+ carte en tête du listing EN, entrée dans le plan du site EN, en_url et hreflang côté FR).
 
 ## Semaine du 2026-07-06 au 2026-07-12
 
