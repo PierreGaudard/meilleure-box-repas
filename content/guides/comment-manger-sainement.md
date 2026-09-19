@@ -86,7 +86,7 @@ La première, c'est la cuisine groupée. Deux ou trois heures le week-end couvre
 
 La deuxième, c'est le stock de secours. Des œufs, une boîte de **pois** chiches, des pâtes **complètes**, un bocal de sauce tomate et des légumes surgelés permettent un repas correct en dix **minutes**, n'importe quel soir. Nos [recettes rapides du soir](/guides/recettes-rapides-du-soir/) partent de ce principe.
 
-La troisième, c'est la délégation. Une box repas livre les ingrédients **frais** pesés à la portion avec les recettes associées, ce qui supprime la planification et les courses sans supprimer la cuisine. Chez **Quitoque**, 90 % des recettes affichent un Nutri-Score A ou B et les légumes sont annoncés 100 % de saison, à partir de 3,83 euros l'assiette : le détail est dans [notre avis sur Quitoque](/avis/quitoque/). Pour comparer les marques sur ce critère précis, voyez notre [comparatif des box repas équilibrées](/comparatif/meilleure-box-repas-equilibree/).
+La troisième, c'est la délégation. Une box repas livre les ingrédients **frais** pesés à la portion avec les recettes associées, ce qui supprime la planification et les courses sans supprimer la cuisine. Toutes les marques ne se valent pas sur la nutrition : la part de recettes en Nutri-Score A ou B et la saisonnalité des légumes vont du simple au double selon les cartes. Le classement sur ce critère précis est dans notre [comparatif des box repas équilibrées](/comparatif/meilleure-box-repas-equilibree/).
 
 ## Ce qui ne marche pas, et pourquoi
 

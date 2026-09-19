@@ -160,7 +160,7 @@ Pour ceux qui veulent **organiser** la chose une fois pour toutes, gardez trois 
 
 Écrire un menu, faire les courses, peser les portions : c'est une heure par semaine, toutes les semaines. Certains y trouvent du plaisir, d'autres jamais. Pour les seconds, une box repas fait exactement ce travail à votre place, avec les ingrédients **frais** pesés à la portion et les **recettes** associées.
 
-C'est ce qui explique le succès de ce format auprès des foyers qui veulent manger équilibré sans y consacrer du temps mental. **Quitoque** affiche 90 % de ses **recettes** en Nutri-Score A ou B, des légumes 100 % de saison et le détail nutritionnel de chaque plat, à partir de 3,83 euros l'assiette : les détails sont dans [notre avis sur Quitoque](/avis/quitoque/). Pour comparer les marques sur le critère nutrition, passez par notre [comparatif des box repas équilibrées](/comparatif/meilleure-box-repas-equilibree/).
+C'est ce qui explique le succès de ce format auprès des foyers qui veulent manger équilibré sans y consacrer du temps mental. Reste à choisir la bonne marque, et l'écart est réel : part de **recettes** en Nutri-Score A ou B, saisonnalité des légumes, détail nutritionnel publié ou non, prix à l'assiette. Le classement sur ces critères est dans notre [comparatif des box repas équilibrées](/comparatif/meilleure-box-repas-equilibree/).
 
 ## Questions fréquentes
 

@@ -92,7 +92,7 @@ Avec quatre **protéines**, cinq féculents et une dizaine de **légumes** de sa
 
 ## Quand les idées manquent quand même
 
-Certaines semaines, rien ne vient. C'est précisément ce que résout une box repas : les recettes sont choisies pour vous, les **ingrédients** arrivent pesés à la portion, et la variété est imposée par le catalogue plutôt que par votre inspiration. **Quitoque** affiche 90 % de ses recettes en Nutri-Score A ou B avec des **légumes** 100 % de saison, dès 3,83 euros l'assiette : voir [notre avis sur Quitoque](/avis/quitoque/). Pour les comparer toutes sur ce terrain, passez par notre [comparatif des box repas équilibrées](/comparatif/meilleure-box-repas-equilibree/).
+Certaines semaines, rien ne vient. C'est précisément ce que résout une box repas : les recettes sont choisies pour vous, les **ingrédients** arrivent pesés à la portion, et la variété est imposée par le catalogue plutôt que par votre inspiration. Les marques ne se valent pas sur ce terrain, le Nutri-Score des recettes et la part de **légumes** de saison varient beaucoup d'une carte à l'autre : le détail marque par marque est dans notre [comparatif des box repas équilibrées](/comparatif/meilleure-box-repas-equilibree/).
 
 ## Questions fréquentes
 
