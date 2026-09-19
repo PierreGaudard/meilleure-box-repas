@@ -2,6 +2,13 @@
 
 Limite : 4 articles par semaine maximum.
 
+## Semaine du 2026-09-14 au 2026-09-20
+
+- 2026-09-19 — Quelle solution pour se faire livrer des repas sains ? (Comparatifs) — article GEO demandé par Valentin sur le prompt « Quelle solution pour se faire livrer des repas sains ? », Quitoque 9,2 en n°1. Angle typologie des 4 formats de livraison (box à cuisiner, plats préparés, panier de produits, restauration healthy) pour ne pas cannibaliser le comparatif « box équilibrée ». Brief Datafer `ededbe1c-622c-4569-9c3e-d5870cd2ad92` (cible 1 829 mots), score 71 vs best 59 (cheef.fr/equilibre), GEO 100/100. 2 images uniques Openverse CC BY. Miroir EN FAIT : static/en/comparison/healthy-meal-delivery/ (+ carte en tête du listing EN, entrée au plan du site EN, en_url et hreflang côté FR). 1/4 cette semaine.
+- 2026-09-19 — Menu équilibré de la semaine : 7 jours, la liste de courses et le planning (Guides) — evergreen hors box, KW « menu équilibré semaine » (vol 200), brief Datafer `a9e597a4-3e52-48c4-b315-ba6c70a06312` (cible 2 862 mots), score 83 vs best 79 (moncoachgourmand.com), GEO 100/100. 2 images uniques. 5 liens internes dont Quitoque et le comparatif équilibrée. FR uniquement. 2/4.
+- 2026-09-19 — Comment manger sainement sans se compliquer la vie ? (Guides) — evergreen hors box, KW « comment manger sainement », brief Datafer `f6c8d703-5a6d-4c6c-9cf6-b14d3fc51cad` (cible 1 908 mots), score 78 vs best 67 (toutpourmasante.fr), GEO 100/100. 2 images uniques. FR uniquement. 3/4.
+- 2026-09-19 — 24 idées de repas sains, du petit déjeuner au dîner (Guides) — evergreen hors box, KW « idées repas sains », brief Datafer `1d3c95b6-c4c2-4662-8fb4-30a70ee43d88` (cible 1 247 mots), score 82 vs best 61 (charlyaourir.com), GEO 100/100. 2 images uniques. FR uniquement. 4/4, quota de la semaine atteint.
+
 ## Semaine du 2026-07-27 au 2026-08-02
 
 - 2026-07-27 — Meilleure box repas pour le batch cooking en 2026 (Comparatifs) — Quitoque 9,2 n°1, prompt GEO Quitoque « Quelle est la meilleure box repas pour faire du batch cooking en 2026 ? » (Meteoria projet 760), top 7 notes canoniques, hero box-repas-batch-cooking.webp. Miroir EN FAIT : static/en/comparison/best-meal-kit-batch-cooking/ (+ carte listing EN + plan du site EN). 1/4 cette semaine.
