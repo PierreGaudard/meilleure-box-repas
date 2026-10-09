@@ -165,6 +165,7 @@ footer.ft{background:var(--maroon);color:var(--cream);padding:50px 0 24px}
 .ft ul{list-style:none}.ft ul li{margin:7px 0}
 .ft ul a{color:rgba(243,236,221,.85);font-size:.9rem}
 .ft ul a:hover{color:var(--coral)}
+.social-pin{display:inline-flex;align-items:center;gap:8px;margin-top:16px;padding:8px 16px;border:1px solid rgba(243,236,221,.35);border-radius:999px;color:#f3ecdd!important;font-size:.88rem;font-weight:600;text-decoration:none!important}.social-pin:hover{background:#e60023;border-color:#e60023;color:#fff!important}
 .ft .bot{border-top:1px solid rgba(243,236,221,.2);margin-top:28px;padding-top:18px;text-align:center;font-size:.82rem;color:rgba(243,236,221,.72)}
 .ft .bot a{color:rgba(243,236,221,.9);text-decoration:underline}
 @media(max-width:760px){.ft-grid{grid-template-columns:1fr}}
